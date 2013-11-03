@@ -1,3 +1,6 @@
+lightly seasoned beef
+=====================
+
 * 500 g ground beef or chopped steak
 * 20 g black cumin seed, ground
 * 2 cloves garlic

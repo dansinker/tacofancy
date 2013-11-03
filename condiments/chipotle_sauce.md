@@ -1,3 +1,5 @@
+chipotle sauce
+==============
 -1 cup plain greek yogurt
 -juice from 2 limes
 -2-3 chipotle peppers, with surrounding adobo sauce from can

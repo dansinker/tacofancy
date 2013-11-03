@@ -1,3 +1,5 @@
+baked tilapia
+=============
 * 1 pound mild fish (I usually use tilapia)
 * 1 cup masa
 * 2 tsp salt

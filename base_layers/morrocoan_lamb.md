@@ -1,4 +1,4 @@
-A differently spiced meat than your usual taco
+Moroccan Lamb: A differently spiced meat than your usual taco
 ==============================================
 
 * 500 g ground lamb

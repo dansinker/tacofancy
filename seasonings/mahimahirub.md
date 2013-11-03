@@ -1,3 +1,6 @@
+mahi mahi rub
+==============
+
 A rub for mahi mahi, if fish tacos be what you're fancying:
 
 1 part spicy chili powder

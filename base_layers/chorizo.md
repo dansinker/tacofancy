@@ -1,3 +1,6 @@
+chorizo
+=======
+
 *adapted from [Aredridel's Lightly Seasoned Beef](aredridel_lightly_seasoned_beef.md)*
 
 * 500 g chorizo

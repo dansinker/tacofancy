@@ -1,3 +1,6 @@
+Delengua (beef tongue)
+=============================
+
 Entertaining? Wanna go exotic? Got a little bit of time? Makes in the neighborhood of 20 tacos.
 
 * 1 1/2 pounds of cow tongue
