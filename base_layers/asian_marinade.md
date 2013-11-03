@@ -9,6 +9,6 @@ For Marinade mix:
 * 1 teaspoon paprika
 * Some chopped cilantro
 
-Mix with sliced tofu or pork, marinade for 30 minutes and quickly sautee.
+Mix with sliced tofu or pork, marinate for 30 minutes and quickly sauté.
 
 
