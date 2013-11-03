@@ -9,7 +9,7 @@ Roasted Tomatillo and Mushroom Sauce
 
 1. Remove husks from tomatillos and rinse them. Place them whole on your oven's broiler rack. Broil and turn them until they're browned on all sides.
 
-2. Boil the water. Drop the dried chiles and bring the water down to a simmer. Keep them in until they are soft. 
+2. Boil the water. Drop in the dried chiles and bring the water down to a simmer. Keep them in until they are soft. 
 
 3. Slice the shiitakes and cook them in a pan with the olive oil until they're tender.
 
