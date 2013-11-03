@@ -21,6 +21,14 @@ This repository contains a few different directories:
     
 Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
 
+full index
+----------
+
+This is too important not to be properly indexed. Please add your entry to this index when submitting so the world can get taco greatness without having to fish through a bunch of folders. 
+
+[Full index](INDEX.md)
+
+
 notes on writing & naming conventions
 -------------------------------------
 
@@ -30,13 +38,6 @@ notes on writing & naming conventions
 
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
   
-
-full index
-----------
-
-This is too important not to be properly indexed. Please add your entry to this index when submitting so the world can get taco greatness without having to fish through a bunch of folders. 
-  
-[Full index](INDEX.md)
 
 are you new to github but want to contribute?
 ------------------------------------------------------
