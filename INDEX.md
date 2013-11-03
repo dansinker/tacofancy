@@ -4,6 +4,7 @@ full index
 Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh sad.
 
 * [Full Tacos](/full_tacos)
+	* [Asian Style Tacos](/full_tacos/asian_style_tacos.md)
     * [Black Bean, Potato, and Onion Tacos (v)](/full_tacos/black_bean_potato_onion_tacos.md)
     * [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](/full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
     * [Fish Tacos](/full_tacos/fish_tacos.md)
@@ -11,6 +12,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Steak, Sweet Potato and Apple Tacos](/full_tacos/teak_sweet_potato_and_apple_tacos.md)
     * [Swiss Chard Tacos (v if you use veggie broth)](/full_tacos/swiss_chard_tacos.md)
 * [Base Layers](/base_layers)
+	* [Asian Marinated Tofu or Pork (v, with tofu)](base_layers/asian_marinade.md)
 	* [Baked Tilapia](base_layers/baked_tilapia.md)
 	* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
 	* [Chopped Steak](base_layers/chopped_steak.md)
@@ -31,6 +33,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Sweet Potato and Apple Hash (v, substitute butter)](mixins/sweet_potato_and_apple_hash.md)
     * [Veggies for Fish Tacos (v)](mixins/veg_for_fish_tacos.md)
 * [Condiments](/condiments)
+	* [Asian Picked Veggies](condiments/pickled_vegetables.md)
 	* [Chipotle Sauce](condiments/chipotle_sauce.md)
     * [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
     * [Pickled Red Onions](condiments/pickled_red_onions.md)
@@ -40,3 +43,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Sriracha Salt (v)](seasonings/sriracha_salt.md)
     * [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
     * [Zaatar (v)](seasonings/zaatar.md)
+* [Like Tacos](/like_tacos)
+	* [Baked Taquitos](like_tacos/baked_taquitos.md)
+	* [Chicken Makloub](like_tacos/Chicken_Makloub.md)
+	* [Tunisian Makloub](like_tacos/Tunisian_makloub.md)
