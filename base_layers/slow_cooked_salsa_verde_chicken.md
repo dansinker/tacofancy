@@ -1,9 +1,9 @@
 Slow-cooked salsa verde chicken
 ===============================
 
-Low-effort, delicious pulled chicken based off [this recipe](http://www.skinnytaste.com/2013/04/easiest-crock-pot-salsa-verde-chicken.html). To minimize prep time, just toss in a jar of storebought salsa verde.
+Low-effort, delicious shredded chicken based off [this recipe](http://www.skinnytaste.com/2013/04/easiest-crock-pot-salsa-verde-chicken.html). To minimize prep time, just toss in a jar of storebought salsa verde.
 
-* 2lbs skinless chicken breasts
+* 2 lbs skinless chicken breasts
 * 2 cups salsa verde
 * 1 tsp minced garlic or 1/4 tsp garlic powder
 * Pinch of oregano *(Note: I ran out of oregano, but the recipe still tastes great without it.)*
