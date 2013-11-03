@@ -1,5 +1,6 @@
 full index
 ----------
+Do you want a great contributor job? Keeping this index up-to-date would be awesome. You don't even need to know how to cook--just check that the listing reflects the entire contents of each main taco object directory. If something's missing, add it in. Alphabetical order, please.
 
 Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh sad.
 
@@ -25,6 +26,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/morrocoan_lamb.md)
 	* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 	* [Overly Seasoned Ground Beef](base_layers/overlyseasonedgroundbeef.md)
+	* [Soyrizo (v)](base_layers/soyrizo.md)
 	* [Slow-cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
     * [Swiss Chard (v)](base_layers/swiss_chard.md)
 * [Mixins](/mixins)
@@ -40,6 +42,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 * [Seasonings](/seasonings)
     * [Mahi Mahi Rub](seasonings/mahimahirub.md)
+    * [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
     * [Sriracha Salt (v)](seasonings/sriracha_salt.md)
     * [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
     * [Zaatar (v)](seasonings/zaatar.md)
