@@ -30,6 +30,13 @@ notes on writing & naming conventions
 
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
 
+are you new to github but want to contribute a recipe?
+------------------------------------------------------
+
+No better time than the present to learn Git! Thankfully, this repo is pretty simple, and pretty much everything you'd want to know is contained in Github's very handy [Fork A Repo](https://help.github.com/articles/fork-a-repo) section on their also super good [help section](https://help.github.com).
+
+* Perhaps others can contribute helpful Git 101 links & tips here.
+
 endnotes
 --------
 
