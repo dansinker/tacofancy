@@ -13,6 +13,8 @@ This repository contains a few different directories:
     * the base is important, but what you add to it is what makes the taco glow.
 * [condiments](/condiments)
     * do you make a motherfucking *salsa*? do you know how to pickle your own jalapeños? yeah, put it here.
+* [seasonings](/seasonings)
+    * hot and spicy? rubs and sauces? it's all in here.
     
 Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
 
