@@ -18,4 +18,4 @@ Community assistance in growing the number of directories, or in better organizi
 
 This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly.
 
-Oh hi, I'm @dansinker.
+Oh hi, I'm [@dansinker](https://www.twitter.com/dansinker).
