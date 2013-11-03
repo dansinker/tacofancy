@@ -5,13 +5,13 @@ This is a community-driven taco repo. Please fork and submit your own recipes, b
 
 This repository contains a few different directories:
 
-* full tacos
+* [full tacos](/full_tacos)
     * this contains full descriptions of tacos. those tacos may contain additional elements from other directories.
-* base layers
+* [base layers](/base_layers)
     * this is where you'll find meats, beans, tofu, and other things that make up the 'base' of your taco goodness.
-* mixins
+* [mixins](/mixins)
     * the base is important, but what you add to it is what makes the taco glow.
-* condiments
+* [condiments](/condiments)
     * do you make a motherfucking *salsa*? do you know how to pickle your own jalepeños? yeah, put it here.
     
 Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
