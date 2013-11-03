@@ -1,7 +1,7 @@
 north carolina battered catfish
 =============
 
-Do it right and stick your arm down a catfish hole in the muddy waters of a north carolina pond, take that sucker home at serve it up to your friend and family on some corn tortilas
+Do it right and [stick your arm down a catfish hole in the muddy waters of a north carolina pond](http://www.youtube.com/watch?v=zc_huHb4PMc) , take that sucker home at serve it up to your friend and family on some corn tortilas
 
 * 1 cup all-purpose flour
 * 1 cup cornmeal
