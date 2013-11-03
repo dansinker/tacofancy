@@ -7,7 +7,7 @@ Super quick & easy Pico
 * 3 tablespoons finely chopped white onion
 * coarse salt
 * squeeze of lime
-* as many finely chopped red jalapeños as you want (optional)
+* as many finely chopped red (or green) jalapeños as you want (optional)
 
 
 Combine the tomatoes, cilantro and onion together in a bowl. Season to taste with salt and lime.  
