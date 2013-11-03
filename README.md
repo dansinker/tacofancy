@@ -36,6 +36,8 @@ notes on writing & naming conventions
 
 * If you are creating a [full taco](/full_tacos), be sure to also create the related [base layer](/base_layers) ingredient and [mixins](/mixins) that go in it. Link to those individual recipes within your [full taco](/full_tacos) to create object-oriented taco goodness.
 
+* Once you have created all your various taco objects (even if it's just one) update the [index](INDEX.md) so that it gets listed. While we do have people checking every now and then, *you can help keep the index up-to-date* by updating your stuff as part of your pull request.
+
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
   
 
