@@ -16,6 +16,16 @@ This repository contains a few different directories:
     
 Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
 
+notes on writing & naming conventions
+---------------------------
+
+* For ease, please write your recipes in [markdown](http://daringfireball.net/projects/markdown/), and give your files the .md extension.
+
+* Please name your files with underscores in place of spaces so that links remain readable and aren't%20full%20of%20bullshit. 
+
+endnotes
+--------
+
 This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly.
 
 Oh hi, I'm [@dansinker](https://www.twitter.com/dansinker).
