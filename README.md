@@ -21,6 +21,8 @@ notes on writing & naming conventions
 
 * For ease, please write your recipes in [markdown](http://daringfireball.net/projects/markdown/), and give your files the .md extension.
 
+* If you are creating a [full taco](/full_tacos), be sure to also create the related [base layer](/base_layers) ingredient and [mixins](/mixins) that go in it. Link to those individual recipes within your [full taco](/full_tacos) to create object-oriented taco goodness.
+
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
 
 endnotes
