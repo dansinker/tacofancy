@@ -21,7 +21,7 @@ notes on writing & naming conventions
 
 * For ease, please write your recipes in [markdown](http://daringfireball.net/projects/markdown/), and give your files the .md extension.
 
-* Please name your files with underscores in place of spaces so that links remain readable and aren't%20full%20of%20bullshit. 
+* Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
 
 endnotes
 --------
