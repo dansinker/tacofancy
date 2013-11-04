@@ -12,12 +12,12 @@ task 'build:ingredients', 'build an ingredient index.', () ->
       
     extract_ingredients_from = (path) ->
       contents = (FS.readFileSync path, { encoding: 'utf8' }).split("\n")
-      contents.shift while contents[0].match /^\s+$/
+      contents.shift() while contents[0].match(/^\s*$/)
       lines = (line for line in contents when is_ingredient line )
       #console.log lines.length
       ingredients = (parse_ingredient(line) for line in lines)
       #console.log(ingredients.length)
-      #console.log('"',contents[0],'"')
+      #console.log('"'+contents[0]+'":', contents[0].match /^\s*$/)
       name = contents[0].match(/^(\s*#+\s*)?([^\n]+)$/)?[2]
       { path: path, ingredients: ingredients, name: name }
     
