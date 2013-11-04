@@ -594,22 +594,6 @@
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## Using the [asian marinade](..//base_layers/asian_marinade.md), pepare some tofu or sliced pork
-
-* [Asian style tacos](full_tacos/asian_style_tacos.md)
-
-## Make some guacamole (add in a teaspoon of sesame oil and toasted sesame seeds to your recipe)
-
-* [Asian style tacos](full_tacos/asian_style_tacos.md)
-
-## Top with [asian picked veggies](../condiments/pickled_vegetables.md)
-
-* [Asian style tacos](full_tacos/asian_style_tacos.md)
-
-## NOM
-
-* [Asian style tacos](full_tacos/asian_style_tacos.md)
-
 ## 1 recipe [Garlic Black Beans](/base_layers/garlic_black_beans.md) (broth left slightly soupy)
 
 * [Black Bean, Potato, and Onion Tacos](full_tacos/black_bean_potato_onion_tacos.md)
