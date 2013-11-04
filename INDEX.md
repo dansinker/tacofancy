@@ -18,7 +18,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 * [Base Layers](/base_layers)
 	* [Asian Marinated Tofu or Pork (v, with tofu)](base_layers/asian_marinade.md)
 	* [Baked Tilapia](base_layers/baked_tilapia.md)
-	* [Baja Beer Batter](base_layers/baja_beer_batter.md)
+	* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
 	* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
 	* [Chopped Steak](base_layers/chopped_steak.md)
 	* [Chorizo](base_layers/chorizo.md)
