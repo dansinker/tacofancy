@@ -6,6 +6,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 
 * [Full Tacos](/full_tacos)
 	* [Asian Style Tacos](/full_tacos/asian_style_tacos.md)
+	* [Baja Fish Tacos](/full_tacos/baja_fish_tacos.md)
     * [Black Bean, Potato, and Onion Tacos (v)](/full_tacos/black_bean_potato_onion_tacos.md)
     * [Cabbage Tacos (v)](/full_tacos/vegan_cabbage_tacos.md)
     * [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](/full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
@@ -17,6 +18,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 * [Base Layers](/base_layers)
 	* [Asian Marinated Tofu or Pork (v, with tofu)](base_layers/asian_marinade.md)
 	* [Baked Tilapia](base_layers/baked_tilapia.md)
+	* [Baja Beer Batter](base_layers/baja_beer_batter.md)
 	* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
 	* [Chopped Steak](base_layers/chopped_steak.md)
 	* [Chorizo](base_layers/chorizo.md)
@@ -40,6 +42,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Veggies for Fish Tacos (v)](mixins/veg_for_fish_tacos.md)
 * [Condiments](/condiments)
 	* [Asian Pickled Veggies](condiments/pickled_vegetables.md)
+	* [Baja White Sauce](condiments/baja_white_sauce.md)
 	* [Chipotle Sauce (v, but has dairy)](condiments/chipotle_sauce.md)
     * [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
     * [Pickled Red Onions (v)](condiments/pickled_red_onions.md)
