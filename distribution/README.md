@@ -7,4 +7,8 @@ a) Raw ingredients delivered into the home
 
 b) Completed tacos delivered (also into the home, please)
 
+-OR-
+
+c) Some people will be able to even get the items above for free
+
 This folder will contain the technologies necessary to both manage and execute the above.
