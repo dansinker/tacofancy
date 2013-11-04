@@ -10,13 +10,14 @@ GET GOING EARLY--in a perfect world, you're gonna give this thing at least eight
 * 2-3 pound hunk of pork shoulder.
 * chili powder
 * mexican oregano (dried)
+* ground cumin
 * medium-sized onion (or, a couple shallots)
 * can of green chilies, diced
 * pepper & salt
 
 Chop up your onion or shallot into small bits--you don't want big loops of onion, dice it.
 
-Rub your hunk of pork generously with chili powder, oregano, pepper, and salt. I tend to try and have a very light crust of this stuff on the outside of the pork.
+Rub your hunk of pork generously with chili powder, oregano, pepper, salt, and a pinch or two of cumin. I tend to try and have a very light crust of this stuff on the outside of the pork.
 
 Toss the hunk of pork, the onions, and the green chilis into the crock pot, set that sucker to LOW, and let it slow cook. I try to get mine in by 9am so I can eat around 6pm. If you're pressed for time, you can do this in about four hours on high, but the deliciousness factor is lowered.
 
