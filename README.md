@@ -14,7 +14,7 @@ This repository contains a few different directories:
 * [condiments](/condiments)
     * do you make a motherfucking *salsa*? do you know how to pickle your own jalapeños? yeah, put it here.
 * [seasonings](/seasonings)
-    * hot and spicy? rubs and sauces? it's all in here.
+    * hot and spicy? rubs and mixes? it's all in here.
 * [shells](/shells)
     * your base layers and mixins and condiments have to go *into* something, right? put your tortilla recipes here.
 * [like_tacos](/like_tacos)
