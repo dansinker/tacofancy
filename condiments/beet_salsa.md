@@ -5,7 +5,7 @@ Tired of plain ol carne asada tacos? Get exotic with beet salsa.
 
 * 4 - 6 Roma Tomatoes
 * 1 - 2 Chile Verde
-* Reasonably sized onion (green or )
+* Reasonably sized onion (green or vidalia)
 * N garlic cloves (leave it up to your buds, I like 10 or more)
 * Sal and pepper to taste
 * 1 bunch of beets
