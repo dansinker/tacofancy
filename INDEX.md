@@ -47,6 +47,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Baja White Sauce](condiments/baja_white_sauce.md)
     * [Beet Salsa (v)](condiments/beet_salsa.md)
 	* [Chipotle Sauce (v, but has dairy)](condiments/chipotle_sauce.md)
+	* [Guacamole (v)](condiments/guacamole.md)
     * [Mango Avocado Salsa (v)](condiments/mango_avocado_salsa.md)
     * [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
     * [Pickled Red Onions (v)](condiments/pickled_red_onions.md)
