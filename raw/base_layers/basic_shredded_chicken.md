@@ -20,4 +20,4 @@ Salt the chicken breasts (be reasonably generous here), then crack some black pe
 
 When the chicken is done, attack each piece with two forks to shred. Do this on a Sunday and you'll have an easy time putting together meals throughout the week.
 
-I often give this a quick simmer with a bit of water and [universal taco seasoning](/seasonings/universal_taco_seasoning.md) for taco filling. Or throw it into tortilla soup. Or make some sweet [taquitos](/like_tacos/baked_taquitos.md). Or just add some barbecue sauce to a handful of chicken, and toss it onto a soft roll for a quick sandwich. Man *can* live on tacos alone, but one doesn't have to.
+I often give this a quick simmer with a bit of water and [universal taco seasoning](/seasonings/universal_taco_seasoning.html) for taco filling. Or throw it into tortilla soup. Or make some sweet [taquitos](/like_tacos/baked_taquitos.html). Or just add some barbecue sauce to a handful of chicken, and toss it onto a soft roll for a quick sandwich. Man *can* live on tacos alone, but one doesn't have to.

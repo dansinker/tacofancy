@@ -6,7 +6,7 @@ title: Black Bean, Potato, and Onion Tacos
 Vegetarian; vegan if you omit the cheese
 -----------------------------------------
 
-* 1 recipe [Garlic Black Beans](/base_layers/garlic_black_beans.md) (broth left slightly soupy)
+* 1 recipe [Garlic Black Beans](/base_layers/garlic_black_beans.html) (broth left slightly soupy)
 * Potatoes, peeled and sliced into rounds (best results with baby yellow, red, or purple/blue potatoes if you can get them)
 * Large Onion, cut in half and sliced into half-moons
 * Vegetable oil of your choice

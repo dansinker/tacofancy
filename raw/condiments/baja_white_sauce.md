@@ -3,7 +3,7 @@ layout: default
 title: Baja White Sauce
 ---
 
-This is a traditional white sauce for [Baja fish tacos](../full_tacos/baja_fish_tacos.md).
+This is a traditional white sauce for [Baja fish tacos](../full_tacos/baja_fish_tacos.html).
 
 * 1/4 cup mayo
 * 2 tbsp sour cream

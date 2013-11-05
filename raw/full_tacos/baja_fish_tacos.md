@@ -7,8 +7,8 @@ In [Baja, Mexico](http://en.wikipedia.org/wiki/Baja_California_peninsula) you'll
 
 __Ingredients__
 
-* [Baja white sauce](../condiments/baja_white_sauce.md).
-* [Baja beer battered fish](../base_layers/baja_beer_batter.md).
+* [Baja white sauce](../condiments/baja_white_sauce.html).
+* [Baja beer battered fish](../base_layers/baja_beer_batter.html).
 * 2 cups shredded cabbage, chopped fine
 * 1/4 cup cilantro, chopped fine
 * Lime for squeezing

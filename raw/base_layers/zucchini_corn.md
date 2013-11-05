@@ -13,7 +13,7 @@ __Ingredients__
 * Chopped white onion
 * Chopped tomatoes
 * Finely chopped garlic
-* Black beans (you can even use [Garlic Black Beans](/base_layers/garlic_black_beans.md))
+* Black beans (you can even use [Garlic Black Beans](/base_layers/garlic_black_beans.html))
 * Finely chopped oregano or Epazote
 
 __Directions__

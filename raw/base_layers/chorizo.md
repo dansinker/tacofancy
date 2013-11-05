@@ -3,7 +3,7 @@ layout: default
 title: Chorizo
 ---
 
-_Adapted from [Aredridel's Lightly Seasoned Beef](aredridel_lightly_seasoned_beef.md)_
+_Adapted from [Aredridel's Lightly Seasoned Beef](aredridel_lightly_seasoned_beef.html)_
 
 * 500 g chorizo
 * 20 g black cumin seed, ground
