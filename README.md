@@ -1,7 +1,7 @@
 tacofancy
 =========
 
-This is a community-driven taco repo. Please fork and submit your own recipes, because the more there are, the more delicious it gets. I'll probably write more here soon.
+This is a community-driven taco recipe repo. Please fork and submit your own recipes, because the more there are, the more delicious it gets. I'll probably write more here soon.
 
 This repository contains a few different directories:
 
@@ -20,7 +20,9 @@ This repository contains a few different directories:
 * [like_tacos](/like_tacos)
     * a collection of things that are like tacos, e.g. gua bao.
     
-Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. If you'd like to help find great places to eat tacos, join [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt).
+Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. 
+
+Looking for restaurants and taco joints? This repo's about recipes, but if you'd like to help find great places to eat tacos, join [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt), a repo dedicated to documenting great taco locations.
 
 full index
 ----------
