@@ -1,16 +1,19 @@
-Moroccan Lamb: A differently spiced meat than your usual taco
-==============================================
+Moroccan Lamb
+=============
+
+A Differently Spiced Meat Than Your Usual Taco
+----------------------------------------------
 
 * 500 g ground lamb
-* 20 g ras al hanout spice. My mix contains:
-    * paprika
-    * cinnamon
-    * allspice
-    * clove
-    * toasted mustard
-    * cumin
-    * caraway
-    * black pepper
-* 10 g fresh lemon zest or 10 g finely ground black lemon omani (Moroccoan dried preserved lemon)
+* 20 g Ras al Hanout spice. My mix contains:
+    * Paprika
+    * Cinnamon
+    * Allspice
+    * Clove
+    * Toasted Mustard
+    * Cumin
+    * Caraway
+    * Black Pepper
+* 10 g fresh lemon zest or 10 g finely ground Black Lemon Omani (Moroccoan dried preserved lemon)
 
 Mix together and brown.

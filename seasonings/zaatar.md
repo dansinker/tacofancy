@@ -1,6 +1,7 @@
-# Zaatar
+Zaatar
+======
 
-*A.k.a. za‘tar, za’atar, zattr, etc.*
+_A.k.a. za‘tar, za’atar, zattr, etc._
 
 Zaatar is a thyme-based Middle Eastern seasoning that adapts well to tacos. It has a pleasantly dry, faintly sour/bitter flavor. It goes well on savory bases like squash and lamb, and combines with other sour seasonings like lemon juice and radish.
 
