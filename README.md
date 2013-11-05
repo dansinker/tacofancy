@@ -19,9 +19,8 @@ This repository contains a few different directories:
     * your base layers and mixins and condiments have to go *into* something, right? put your tortilla recipes here.
 * [like_tacos](/like_tacos)
     * a collection of things that are like tacos, e.g. gua bao.
-
     
-Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
+Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. If you'd like to help find great places to eat tacos, join [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt).
 
 full index
 ----------
