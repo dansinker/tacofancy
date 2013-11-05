@@ -1,13 +1,16 @@
+Delengua (beef tongue)
+=============================
+
 Entertaining? Wanna go exotic? Got a little bit of time? Makes in the neighborhood of 20 tacos.
 
-1 1/2 pounds of cow tongue
-1/2 onion
-2 bay leaves
-1 quart chicken stock
-6 cilantro stems
-1 small carrot, peeled and roughly chopped
-2 cloves garlic
-2 tablespoons canola oil
+* 1 1/2 pounds of cow tongue
+* 1/2 onion
+* 2 bay leaves
+* 1 quart chicken stock
+* 6 cilantro stems
+* 1 small carrot, peeled and roughly chopped
+* 2 cloves garlic
+* 2 tablespoons canola oil
 
 1. Combine tongue, onion, bay leaves, carrot, and garlic in a saucepan. 
 2. Add stock until mostly covered. 
@@ -17,8 +20,6 @@ Entertaining? Wanna go exotic? Got a little bit of time? Makes in the neighborho
 6. Strain stock and chuck the solids, keeping the liquid for later. 
 7. Peel the outer membrane off the tongue and discard. Chop tongue into 1/2-inch pieces. 
 
-When ready to serve, heat oil in a large non-stick skillet set over medium-high
-heat until shimmering. Add tongue and cook, stirring occasionally, until tongue is well browned 
-on all sides, 5 to 8 minutes total. 
+When ready to serve, heat oil in a large non-stick skillet set over medium-high heat until shimmering. Add tongue and cook, stirring occasionally, until tongue is well browned on all sides, 5 to 8 minutes total. 
 
 NOTE: The first seven steps can be done well in advance. Should keep in fridge up to five days.
