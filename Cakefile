@@ -1,5 +1,40 @@
 FS   = require 'fs'
+Path = require 'path'
 glob = require 'glob'
+
+spacify = (str) -> str.replace(/_/g, ' ')
+capitalize = (str) -> str.charAt(0).toUpperCase() + str.substring(1).toLowerCase();
+
+task 'build:toc', 'build a table of contents', () ->
+  ignore = (file) -> file[0] is '.' or file is 'node_modules' or file.match /^readme/i
+
+  recipe_info = (path) ->
+    contents = (FS.readFileSync path, { encoding: 'utf8' }).split("\n")
+    contents.shift() while contents[0].match(/^\s*$/)
+    name = contents[0].match(/^(\s*#+\s*)?([^\n]+)$/)?[2]
+    { name: name, path: path }
+  
+  section_info = (path) ->
+    name = capitalize(spacify(Path.basename(path)))
+    {name: name, path: path}
+  
+  index_dir = (base, index = {}) ->
+    files = FS.readdirSync(base)
+    dirs = (section_info(file) for file in files when FS.lstatSync(Path.join(base, file)).isDirectory() and not ignore(file))
+    index.markdown = (recipe_info(Path.join(base, file)) for file in files when Path.extname(file).match(/md|markdown|mdown$/) and not ignore(file))
+    index.subdirs = {}
+    index.subdirs[section.name] = index_dir(section.path) for section in dirs
+    index
+
+  template_sections = (index, base, tabs = "") ->
+    #console.log("INDEX", index)
+    markup = ""
+    markup += "#{ tabs }* [#{dirname}](#{dirname}/)\n#{ template_sections(subindex, dirname, tabs + "\t") }" for dirname, subindex of index.subdirs
+    markup += "#{ tabs }* [#{recipe.name}](#{recipe.path})\n" for recipe in index.markdown
+    markup
+  
+   FS.writeFile 'table_of_contents.md', template_sections(index_dir('.'))
+
 
 task 'build:ingredients', 'build an ingredient index.', () ->
   # Find all markdown files in the repository.
@@ -33,7 +68,7 @@ task 'build:ingredients', 'build an ingredient index.', () ->
                 #console.log(ingredient)
                 index[ingredient] ||= []
                 index[ingredient].push { name: recipe.name, path: recipe.path }
-      index
+      return index
           
     template_index = (index) ->
       #console.log(index)
