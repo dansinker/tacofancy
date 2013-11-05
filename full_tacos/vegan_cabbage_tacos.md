@@ -1,5 +1,5 @@
 Vegan Red Cabbage Tacos
-===================================
+=======================
 
 1. Prepare [Red Cabbage Filling](/base_layers/red_cabbage.md)
 2. Prepare [Garlic Black Beans](/base_layers/garlic_black_beans.md)

@@ -1,8 +1,10 @@
-# Swiss Chard
+Swiss Chard
+===========
 
 This is actually a Rick Bayless recipe from his cookbook _Mexican Everyday_, but we've used it a fair amount on those days we feel like not eating meat but still want to have tacos.
 
-Components:
+__Ingredients__
+
 * 1 bunch swiss or rainbow chard. Could also do spinach I guess. Probably not good with kale.
 * 1 onion sliced thin
 * 1/2 cup of chicken or vegetable broth
