@@ -1,5 +1,7 @@
-Mahi Mahi Rub
-==============
+---
+layout: default
+title: Mahi Mahi Rub
+---
 
 A rub for Mahi Mahi, if fish tacos be what you're fancying:
 

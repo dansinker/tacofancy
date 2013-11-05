@@ -1,5 +1,7 @@
-Quick and Dirty Spice Mix
-=========================
+---
+layout: default
+title: Quick and Dirty Spice Mix
+---
 
 I’m not going to make a lot of big assumptions here. You own a skillet of some sort. You have some jars of jankity-ass spices from who-knows-when. You want to eat some tacos within the next, like, fifteen minutes. I got you covered, bachelor(ette).
 

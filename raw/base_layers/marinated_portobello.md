@@ -1,5 +1,7 @@
-Marinated Portobello Mushroom
-=============================
+---
+layout: default
+title: Marinated Portobello Mushroom
+---
 
 Sometimes you're throwing a taco party and you need a vegetarian option. Sometimes you just don't feel like eating meat.
 

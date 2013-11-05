@@ -1,5 +1,7 @@
-Beet Salsa
-==========
+---
+layout: default
+title: Beet Salsa
+---
 
 Tired of plain ol' [Carne Asada Tacos](../base_layers/chooped_steak.md)? Get exotic with beet salsa.
 

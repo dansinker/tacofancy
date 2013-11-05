@@ -1,5 +1,7 @@
-Basic Shredded Chicken
-======================
+---
+layout: default
+title: Basic Shredded Chicken
+---
 
 This recipe creates enough shredded chicken for 2 to 3 meals. It's a savory, universal base; once cooked, you can supplement with any number of spices or treatments to make tacos, taquitos, soups, enchiladas ... even Italian or Indian applications if you like.
 

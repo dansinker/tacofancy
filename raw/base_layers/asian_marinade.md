@@ -1,5 +1,7 @@
-Asian Style Tofu or Pork Marinade
-=================================
+---
+layout: default
+title: Asian Style Tofu or Pork Marinade
+---
 
 For marinade mix:
 

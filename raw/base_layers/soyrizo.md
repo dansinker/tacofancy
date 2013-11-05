@@ -1,5 +1,7 @@
-Soyrizo
-=======
+---
+layout: default
+title: Soyrizo
+---
 
 * Soyrizo (The El Burrito branded 'SoyRizo' is by far the best vegan option out there)
 * chopped potatoes

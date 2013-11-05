@@ -19,15 +19,15 @@ This repository contains a few different directories:
     * your base layers and mixins and condiments have to go *into* something, right? put your tortilla recipes here.
 * [like_tacos](/like_tacos)
     * a collection of things that are like tacos, e.g. gua bao.
-    
-Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. 
+
+Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
 
 Looking for restaurants and taco joints? This repo's about recipes, but if you'd like to help find great places to eat tacos, join [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt), a repo dedicated to documenting great taco locations.
 
 Full Index
 ----------
 
-This is too important not to be properly indexed. Please add your entry to this index when submitting so the world can get taco greatness without having to fish through a bunch of folders. 
+This is too important not to be properly indexed. Please add your entry to this index when submitting so the world can get taco greatness without having to fish through a bunch of folders.
 
 [Full Index](INDEX.md)
 
@@ -38,8 +38,8 @@ Notes on Writing & Naming Conventions
 * For ease, please write your recipes in [markdown](http://daringfireball.net/projects/markdown/), and give your files the .md extension.
 * If you are creating a [full taco](/full_tacos), be sure to also create the related [base layer](/base_layers) ingredient and [mixins](/mixins) that go in it. Link to those individual recipes within your [full taco](/full_tacos) to create object-oriented taco goodness.
 * Once you have created all your various taco objects (even if it's just one) update the [index](INDEX.md) so that it gets listed. While we do have people checking every now and then, *you can help keep the index up-to-date* by updating your stuff as part of your pull request.
-* Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
-  
+* Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit.
+
 
 Are You New to Github But Want to Contribute?
 ------------------------------------------------------

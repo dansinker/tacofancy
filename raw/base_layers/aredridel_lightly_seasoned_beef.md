@@ -1,5 +1,7 @@
-Lightly Seasoned Beef
-=====================
+---
+layout: default
+title: Lightly Seasoned Beef
+---
 
 * 500 g ground beef or chopped steak
 * 20 g black cumin seed, ground

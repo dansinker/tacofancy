@@ -1,5 +1,7 @@
-Veggies for Fish Tacos
-======================
+---
+layout: default
+title: Veggies for Fish Tacos
+---
 
 Fish tacos are a special breed, requiring different vegetable options.
 

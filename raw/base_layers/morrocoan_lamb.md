@@ -1,5 +1,7 @@
-Moroccan Lamb
-=============
+---
+layout: default
+title: Moroccan Lamb
+---
 
 A Differently Spiced Meat Than Your Usual Taco
 ----------------------------------------------

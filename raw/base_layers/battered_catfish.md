@@ -1,5 +1,7 @@
-North Carolina Battered Catfish
-===============================
+---
+layout: default
+title: North Carolina Battered Catfish
+---
 
 Do it right and [stick your arm down a catfish hole in the muddy waters of a north carolina pond](http://www.youtube.com/watch?v=zc_huHb4PMc), take that sucker home at serve it up to your friends and family on some corn tortilas
 

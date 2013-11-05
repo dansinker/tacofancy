@@ -1,5 +1,7 @@
-Baja White Sauce
-================
+---
+layout: default
+title: Baja White Sauce
+---
 
 This is a traditional white sauce for [Baja fish tacos](../full_tacos/baja_fish_tacos.md).
 

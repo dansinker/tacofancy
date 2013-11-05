@@ -1,5 +1,7 @@
-Red Cabbage Filling
-===================================
+---
+layout: default
+title: Red Cabbage Filling
+---
 
 * 1/2 head of red cabbage, shredded
 * 3 chopped green onions

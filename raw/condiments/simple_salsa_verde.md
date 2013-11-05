@@ -1,5 +1,7 @@
-Simple Salsa Verde
-==================
+---
+layout: default
+title: Simple Salsa Verde
+---
 
 I got this base recipe from a vegan friend. If you can't find one of these peppers, swap in another one!
 

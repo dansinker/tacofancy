@@ -1,5 +1,7 @@
-Pulled Pork, Chard, and Pickled Onion Tacos
-===========================================
+---
+layout: default
+title: Pulled Pork, Chard, and Pickled Onion Tacos
+---
 
 Tried this combination out tonight, and it turned out amazing.
 

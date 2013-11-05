@@ -1,5 +1,7 @@
-Crock Pot Pulled Pork
-=====================
+---
+layout: default
+title: Crock Pot Pulled Pork
+---
 
 This is the base of my very favorite tacos. Added bonus is by cooking these all day in a slow cooker, your house smells _amazing_.
 

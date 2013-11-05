@@ -1,5 +1,7 @@
-Overly Seasoned Ground Beef
-===========================
+---
+layout: default
+title: Overly Seasoned Ground Beef
+---
 
 I enjoy tripling (or more) the generic store bought taco seasoning when rendering my ground beef.
 

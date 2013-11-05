@@ -1,5 +1,7 @@
-Pickled Vegetables
-==================
+---
+layout: default
+title: Pickled Vegetables
+---
 
 __Whisk:__
 

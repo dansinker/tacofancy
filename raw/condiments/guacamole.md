@@ -1,5 +1,7 @@
-Guacamole
-=========
+---
+layout: default
+title: Guacamole
+---
 
 This is pretty canonical stuff right here.
 
@@ -18,7 +20,7 @@ Look, here's how this works: First, you squeeze the lime juice into your nice li
 
 Seriously, walk away for a minute. Crack open a nice Negra Modelo and use a wedge of the other half of the lime in it. Back in your bowl, let the strong stuff marinate in that lime juice for a few minutes. It's cooking.
 
-OK, now that you're back, mix in the rest of the non-avocado ingredients. If you have a pestle, now's it's time to shine. If not, use a small wooden spoon, or failing all else, a fork, you miserable lout. 
+OK, now that you're back, mix in the rest of the non-avocado ingredients. If you have a pestle, now's it's time to shine. If not, use a small wooden spoon, or failing all else, a fork, you miserable lout.
 
 Mash up everything but the avocado. Get it pasty if you can. Squish it all up.
 

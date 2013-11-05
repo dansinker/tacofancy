@@ -1,5 +1,7 @@
-Zucchini and Corn Tacos
-=======================
+---
+layout: default
+title: Zucchini and Corn Tacos
+---
 
 Vegetarian; vegan without cheese
 --------------------------------

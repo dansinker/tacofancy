@@ -1,5 +1,7 @@
-Fish Tacos
-==========
+---
+layout: default
+title: Fish Tacos
+---
 
 Fish tacos tend to operate a little differently than other meat tacos. To execute them effectively, you'll want to assemble:
 

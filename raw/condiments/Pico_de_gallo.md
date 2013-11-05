@@ -1,5 +1,7 @@
-Phoning it in Pico de Gallo
-===========================
+---
+layout: default
+title: Phoning it in Pico de Gallo
+---
 
 _Super Quick & Easy Pico_
 

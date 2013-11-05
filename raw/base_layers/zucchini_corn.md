@@ -1,5 +1,7 @@
-Zucchini and Corn Filling
-=========================
+---
+layout: default
+title: Zucchini and Corn Filling
+---
 
 Vegan
 -----

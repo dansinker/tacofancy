@@ -1,5 +1,7 @@
-Chiken makloub 
-==============
+---
+layout: default
+title: Chiken makloub
+---
 
 Ingredients for bread:
 
