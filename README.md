@@ -48,6 +48,11 @@ No better time than the present to learn Git! Thankfully, this repo is pretty si
 
 _Perhaps others can contribute helpful Git 101 links & tips here._
 
+Jekyll
+------
+
+The site is built with Jekyll, which should _just work_ on GitHub Pages.
+
 Endnotes
 --------
 
