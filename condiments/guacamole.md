@@ -25,12 +25,12 @@ Mash up everything but the avocado. Get it pasty if you can. Squish it all up.
 Now you can add your avocado or two, dude. I usually go with about 1.5 avos to condiment tacos or taco-like structures for four humans of varying sizes.
 
 Just in case no one ever taught you how to deal with an avocado correctly, here's a quick lesson:
-1. Cut it in half, longways.
-2. Smack the pit with the sharp edge of your knife and give it a sensible 90-degree twist.
-3. Voila, the avocado pit is on your knife.
-4. Dispose of it, unless you're not going to finish all that guac now, in which case, hang onto it and put it in the bowl with the guac before you put it in the fridge.
-5. Now that your knife is free, use it to carve long slices into the flesh of your avocado, one half at a time. Cross-hatch that sucker a bit. Don't cut through the flesh.
-6. Finally, get your avocado half above your nice bowl full of deliciousness, and use the skin to gently push your nice slices into the spicy soup below. Turn it inside-out, if you must, but know that you can minimize the amount of avocado that gets all over your hands if you do this just right.
+* Cut it in half, longways.
+* Smack the pit with the sharp edge of your knife and give it a sensible 90-degree twist.
+* Voila, the avocado pit is on your knife.
+* Dispose of it, unless you're not going to finish all that guac now, in which case, hang onto it and put it in the bowl with the guac before you put it in the fridge.
+* Now that your knife is free, use it to carve long slices into the flesh of your avocado, one half at a time. Cross-hatch that sucker a bit. Don't cut through the flesh.
+* Finally, get your avocado half above your nice bowl full of deliciousness, and use the skin to gently push your nice slices into the spicy soup below. Turn it inside-out, if you must, but know that you can minimize the amount of avocado that gets all over your hands if you do this just right.
 
 To finish up your guacamole, mash your avocado up a bit and gently mix it into the magical citric-spice-tomato concoction. We're done here.
 
