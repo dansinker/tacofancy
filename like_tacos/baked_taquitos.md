@@ -1,27 +1,25 @@
 Baked Taquitos
 ==============
 
-Baked, not fried. Flour tortillas, not corn. THE HORROR. But seriously, these are super tasty and really, really kid-friendly. Adapted from [this basic recipe](http://www.chef-in-training.com/2012/02/baked-creamy-chicken-taquitos/).
+Baked, not fried. Flour tortillas, not corn. _THE HORROR_. But seriously, these are super tasty and really, really kid-friendly. Adapted from [this basic recipe](http://www.chef-in-training.com/2012/02/baked-creamy-chicken-taquitos/).
 
 I almost always double this recipe and make a couple dozen at a time.
 
 * 12-15 soft-taco size flour tortillas
-* cooking spray/light oil
-* kosher salt
+* Cooking spray/light oil
+* Kosher salt
 * 2 cups [shredded chicken](/base_layers/basic_shredded_chicken.md)
 * 1 cup shredded cheese (colby jack works great)
 * 3 oz. cream cheese
 * 1/4 cup green salsa (the little can of Herdez works great, or [make your own](/condiments/simple_salsa_verde.md))
-* lime juice to taste
+* Lime juice to taste
 * 1 tsp chili powder
 * 1/2 tsp cumin
 * 1/2 tsp onion powder
-* 2 cloves minced garlic
-* 2 sliced green onions
+* 2 Cloves minced garlic
+* 2 Sliced green onions
 
-I have kids who are afraid of green things in their food. (I favor the whiter portions of the green onions.) If you do not live under such a regime, feel free to add:
-
-* 2 tbsp chopped cilantro
+I have kids who are afraid of green things in their food. (I favor the whiter portions of the green onions.) If you do not live under such a regime, feel free to add _2 Tbsp chopped cilantro_.
 
 Although it really doesn't need it.
 
