@@ -18,9 +18,14 @@ Pick out the rings and place them on your brisket taco. Eat.
 Pickled onions are a favorite in the von Doom house, too. @littlewhirl played around with a similar starting point and we use this brine instead: 
  
 * 1/2 cup apple cider vinegar
-* 1 cup water
-* 2 tsp salt
+* 1 T Sugar (I usually use coconut palm sugar because I'm a hippie I guess)
+* Water
+* 1 1/2 tsp salt
 * 1 sprig fresh oregano and/or cilantro (optional)
+
+Slice 1 red onion on a mandolin (WORTH IT). In a bowl melt the sugar and salt with some warm/hot water. Add vinegar and 1c of filtered water.
+Add in onion, top off w/ water so that the onion is just covered. 
+VERY IMPORTANT: Let sit at room temp for at least an hour. Trust me. 
 
 The apple cider vinegar is a tangier but also more subtle, keeping more of the onion flavor there. And using a partial salt water brine lets it work nice for quick pickles, but also for slightly longer engagements. Leading to the most important aspect: 
 
