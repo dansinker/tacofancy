@@ -1,4 +1,4 @@
-Slow-Cooked Salsa Verde <CENTER></CENTER>hicken
+Slow-Cooked Salsa Verde Chicken
 ===============================
 
 Low-effort, delicious shredded chicken based off [this recipe](http://www.skinnytaste.com/2013/04/easiest-crock-pot-salsa-verde-chicken.html). To minimize prep time, just toss in a jar of storebought salsa verde.
