@@ -16,20 +16,18 @@ task 'build:toc', 'build a table of contents', () ->
   
   section_info = (path) ->
     name = capitalize(spacify(Path.basename(path)))
-    {name: name, path: path}
+    { name: name, path: path, contents: index_dir(path) }
   
   index_dir = (base, index = {}) ->
     files = FS.readdirSync(base)
-    dirs = (section_info(file) for file in files when FS.lstatSync(Path.join(base, file)).isDirectory() and not ignore(file))
     index.markdown = (recipe_info(Path.join(base, file)) for file in files when Path.extname(file).match(/md|markdown|mdown$/) and not ignore(file))
-    index.subdirs = {}
-    index.subdirs[section.name] = index_dir(section.path) for section in dirs
+    index.sections  = (section_info(file) for file in files when FS.lstatSync(Path.join(base, file)).isDirectory() and not ignore(file))
     index
 
   template_sections = (index, base, tabs = "") ->
     #console.log("INDEX", index)
     markup = ""
-    markup += "#{ tabs }* [#{dirname}](#{dirname}/)\n#{ template_sections(subindex, dirname, tabs + "\t") }" for dirname, subindex of index.subdirs
+    markup += "#{ tabs }* [#{section.name}](#{section.path}/)\n#{ template_sections(section.contents, section.path, tabs + "\t") }" for section in index.sections
     markup += "#{ tabs }* [#{recipe.name}](#{recipe.path})\n" for recipe in index.markdown
     markup
   
