@@ -9,18 +9,25 @@
 </head>
 <body>
 
+<nav class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+        <a href="/" class="navbar-brand">{{ site.name }}</a>
+    </div>
+    <ul class="nav">
+
+    </ul>
+</nav>
+
 <div class="container">
-  <div class="header">
-    <h2 class="title"><a href="/">{{ site.name }}</a></h2>
-  </div>
+    <div class="page-header">
+        <h1>{{ page.title }}</h1>
+    </div>
 
-  <h1>{{ page.title }}</h1>
-
-  {{ content }}
+    {{ content }}
 </div>
 
 <footer class="container">
-<a href="https://github.com/sinker/tacofancy">tacofancy</a>
+<a href="https://github.com/sinker/tacofancy">sinker / tacofancy</a>
 </footer>
 
 </body>
