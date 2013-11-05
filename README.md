@@ -17,10 +17,8 @@ This repository contains a few different directories:
     * hot and spicy? rubs and sauces? it's all in here.
 * [like_tacos](/like_tacos)
     * a collection of things that are like tacos, e.g. gua bao.
-* [the_great_taco_hunt](/the_great_taco_hunt)
-    * a place to right down the great places to eat tacos. Sub-directories are cities. 
     
-Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome.
+Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. If you'd like to help find great places to eat tacos, join [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt).
 
 full index
 ----------
