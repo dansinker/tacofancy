@@ -51,6 +51,8 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Salsa Sauce (v)](condiments/salsa_sauce.md)
     * [Simple Salsa Verde (v)](condiments/simple_salsa_verde.md)
     * [Roasted Tomatillo & Mushroom Sauce (v)](condiments/roasted_tomatillo.md)
+    * [Beet Salsa](condiments/beet_salsa.md)
+    * [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
 * [Seasonings](/seasonings)
     * [Mahi Mahi Rub (v)](seasonings/mahimahirub.md)
     * [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
