@@ -6,7 +6,7 @@ spacify = (str) -> str.replace(/_/g, ' ')
 capitalize = (str) -> str.charAt(0).toUpperCase() + str.substring(1).toLowerCase();
 
 task 'build:toc', 'build a table of contents', () ->
-  ignore = (file) -> file[0] is '.' or file is 'node_modules' or file.match /^readme/i
+  ignore = (file) -> file[0] is '.' or file is 'node_modules' or file.match /^readme|index|table_of_contents/i
 
   recipe_info = (path) ->
     contents = (FS.readFileSync path, { encoding: 'utf8' }).split("\n")
