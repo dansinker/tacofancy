@@ -26,5 +26,5 @@ Fish
 * Cut fish into small chunks.
 * Fill a pan with oil and heat until approx. 375 F.
 * Fill a bowl with about a cup of flour and keep it next to the batter bowl.
-   Dip a fish piece into flour then into the batter.
-   Fry for 4-5 minutes, turning halfway through. Drain on a paper towel.
+* Dip a fish piece into flour then into the batter.
+* Fry for 4-5 minutes, turning halfway through. Drain on a paper towel.

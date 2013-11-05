@@ -1,4 +1,4 @@
-lightly seasoned beef
+Lightly Seasoned Beef
 =====================
 
 * 500 g ground beef or chopped steak

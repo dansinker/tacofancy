@@ -3,9 +3,9 @@ Basic Shredded Chicken
 
 This recipe creates enough shredded chicken for 2 to 3 meals. It's a savory, universal base; once cooked, you can supplement with any number of spices or treatments to make tacos, taquitos, soups, enchiladas ... even Italian or Indian applications if you like.
 
-* crockpot
+__In the Crockpot__
 
-* 4-5 lbs boneless skinless chicken breast
+* 4-5 lbs. boneless skinless chicken breast
 * 1 can chicken broth
 * 1 tsp chili powder
 * 1/2 tsp cumin

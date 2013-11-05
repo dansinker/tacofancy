@@ -1,7 +1,7 @@
-north carolina battered catfish
-=============
+North Carolina Battered Catfish
+===============================
 
-Do it right and [stick your arm down a catfish hole in the muddy waters of a north carolina pond](http://www.youtube.com/watch?v=zc_huHb4PMc) , take that sucker home at serve it up to your friends and family on some corn tortilas
+Do it right and [stick your arm down a catfish hole in the muddy waters of a north carolina pond](http://www.youtube.com/watch?v=zc_huHb4PMc), take that sucker home at serve it up to your friends and family on some corn tortilas
 
 * 1 cup all-purpose flour
 * 1 cup cornmeal
@@ -15,7 +15,7 @@ Do it right and [stick your arm down a catfish hole in the muddy waters of a nor
 * 2 tablespoons granulated garlic
 * 1 lemon, juiced
 
-Preheat a deep-fryer to 350 degrees F.
+Preheat a deep-fryer to 350 degrees Fahrenheit.
 
 In a large bowl, add the flour, cornmeal, baking powder, salt and cayenne and whisk to combine. Whisk in the beer, being sure to remove any lumps.
 
