@@ -20,6 +20,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Baked Tilapia](base_layers/baked_tilapia.md)
 	* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
 	* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
+	* [Carnitas](base_layers/carnitas.md)
 	* [Chopped Steak](base_layers/chopped_steak.md)
 	* [Chorizo](base_layers/chorizo.md)
 	* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
