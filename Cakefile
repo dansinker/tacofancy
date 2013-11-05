@@ -27,7 +27,7 @@ task 'build:toc', 'build a table of contents', () ->
   template_sections = (index, base, tabs = "") ->
     #console.log("INDEX", index)
     markup = ""
-    markup += "#{ tabs }* [#{section.name}](#{section.path}/)\n#{ template_sections(section.contents, section.path, tabs + "\t") }" for section in index.sections
+    markup += "#{ tabs }* [#{section.name}](#{section.path}#readme/)\n#{ template_sections(section.contents, section.path, tabs + "\t") }" for section in index.sections
     markup += "#{ tabs }* [#{recipe.name}](#{recipe.path})\n" for recipe in index.markdown
     markup
   
