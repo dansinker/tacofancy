@@ -1,0 +1,6 @@
+{
+  "name": "tacofancy",
+  "dependencies": {
+    "glob": "3.x.x"
+  }
+}
