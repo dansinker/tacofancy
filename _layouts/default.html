@@ -12,28 +12,28 @@
 
 <nav class="navbar navbar-default" role="navigation">
     <div class="navbar-header">
-        <a href="/" class="navbar-brand">{{ site.name }}</a>
+        <a href="{{ site.baseurl }}" class="navbar-brand">{{ site.name }}</a>
     </div>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'base-layers' %}active{% endif %}"><a href="/base_layers">Base layers</a></li>
+        <li class="{% if page.section == 'base-layers' %}active{% endif %}"><a href="{{ site.baseurl }}base_layers">Base layers</a></li>
     </ul>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'condiments' %}active{% endif %}"><a href="/condiments">Condiments</a></li>
+        <li class="{% if page.section == 'condiments' %}active{% endif %}"><a href="{{ site.baseurl }}condiments">Condiments</a></li>
     </ul>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'full-tacos' %}active{% endif %}"><a href="/full_tacos">Full tacos</a></li>
+        <li class="{% if page.section == 'full-tacos' %}active{% endif %}"><a href="{{ site.baseurl }}full_tacos">Full tacos</a></li>
     </ul>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'like-tacos' %}active{% endif %}"><a href="/like_tacos">Like tacos</a></li>
+        <li class="{% if page.section == 'like-tacos' %}active{% endif %}"><a href="{{ site.baseurl }}like_tacos">Like tacos</a></li>
     </ul>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'mixins' %}active{% endif %}"><a href="/mixins">Mixins</a></li>
+        <li class="{% if page.section == 'mixins' %}active{% endif %}"><a href="{{ site.baseurl }}mixins">Mixins</a></li>
     </ul>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'seasonings' %}active{% endif %}"><a href="/seasonings">Seasonings</a></li>
+        <li class="{% if page.section == 'seasonings' %}active{% endif %}"><a href="{{ site.baseurl }}seasonings">Seasonings</a></li>
     </ul>
     <ul class="nav navbar-nav">
-        <li class="{% if page.section == 'shells' %}active{% endif %}"><a href="/shells">Shells</a></li>
+        <li class="{% if page.section == 'shells' %}active{% endif %}"><a href="{{ site.baseurl }}shells">Shells</a></li>
     </ul>
 </nav>
 
