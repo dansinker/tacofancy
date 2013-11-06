@@ -1,6 +1,6 @@
 ---
 layout: default
-title: full index
+title: Full index
 ---
 
 Do you want a great contributor job? Keeping this index up-to-date would be awesome. You don't even need to know how to cook--just check that the listing reflects the entire contents of each main taco object directory. If something's missing, add it in. Alphabetical order, please.
