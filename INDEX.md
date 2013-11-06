@@ -28,7 +28,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 	* [Delengua (beef Tongue)](base_layers/tacosdelengua.md)
 	* [Garlic Black Beans (v)](base_layers/garlic_black_beans.md)
-    	* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+    * [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
 	* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
 	* [Marinated Portobello Mushroom (v)](base_layers/marinated_portobello.md)
 	* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/morrocoan_lamb.md)
