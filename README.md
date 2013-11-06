@@ -46,7 +46,7 @@ No better time than the present to learn Git! Thankfully, this repo is pretty si
 
 _Perhaps others can contribute helpful Git 101 links & tips here._
 
-Tacofancy-inspired projects
+Tacofancy-Inspired Projects
 ---------------------------
 
 It's not just the tacos on Tacofancy that are open source, but the idea and the code too. There are some cool projects that are spinning off of Tacofancy, and it's worth collecting them here (if you're working on a tacofancy-inspired project, feel free to add it to README.md)
