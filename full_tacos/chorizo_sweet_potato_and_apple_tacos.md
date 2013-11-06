@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full_tacos
 title: Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce
 ---
 

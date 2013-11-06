@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full_tacos
 title: Vegan Red Cabbage Tacos
 ---
 

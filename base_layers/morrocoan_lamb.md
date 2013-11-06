@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base_layers
 title: Moroccan Lamb
 ---
 

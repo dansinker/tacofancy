@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: like_tacos
 title: Tunisian Makloub
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full_tacos
 title: Baja Fish Tacos
 ---
 

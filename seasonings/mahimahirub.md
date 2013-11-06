@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: seasonings
 title: Mahi Mahi Rub
 ---
 

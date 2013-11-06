@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mixins
 title: Drunken Green Beans
 ---
 

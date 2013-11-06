@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: condiments
 title: Roasted Tomatillo and Mushroom Sauce
 ---
 

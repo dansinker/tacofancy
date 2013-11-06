@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full_tacos
 title: Steak, Sweet Potato and Apple Tacos
 ---
 

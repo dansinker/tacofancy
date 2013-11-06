@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: condiments
 title: Phoning it in Pico de Gallo
 ---
 

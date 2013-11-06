@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: seasonings
 title: Quick and Dirty Spice Mix
 ---
 

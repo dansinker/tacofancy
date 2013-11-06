@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full_tacos
 title: Pulled Pork, Chard, and Pickled Onion Tacos
 ---
 

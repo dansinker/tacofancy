@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mixins
 title: Sweet Potato and Apple Hash
 ---
 
