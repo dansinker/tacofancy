@@ -1,5 +1,7 @@
-Full Tacos
-==========
+---
+layout: full_tacos
+title: Full Tacos
+---
 
 Describe your tacos here. Link to the various parts in the other directories for easy making.
 
