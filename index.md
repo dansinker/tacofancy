@@ -59,6 +59,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Roasted Tomatillo & Mushroom Sauce (v)](condiments/roasted_tomatillo.html)
 * [Seasonings](seasonings)
     * [Mahi Mahi Rub (v)](seasonings/mahimahirub.html)
+    * [Packaged Seasonings](seasonings/packaged_seasonings.html)
     * [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.html)
     * [Sriracha Salt (v)](seasonings/sriracha_salt.html)
     * [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.html)
