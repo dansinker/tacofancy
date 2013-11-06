@@ -48,10 +48,13 @@ No better time than the present to learn Git! Thankfully, this repo is pretty si
 
 _Perhaps others can contribute helpful Git 101 links & tips here._
 
-Jekyll
+
+Jekyll + GitHub Pages
 ------
 
 The site is built with Jekyll, which should _just work_ on GitHub Pages.
+
+What this means for you: your Markdown file just needs a few lines at the top defining what section it is in, and a title for the page. This is called the front-matter. The rest of the file should just be plain ol' Markdown. That's all you need to know. Look at other files in the same directory to see what we mean.
 
 Endnotes
 --------
