@@ -1,6 +1,5 @@
 name: TacoFancy
 markdown: redcarpet
 pygments: true
-source: raw
-destination: _cooked
-layouts: ../_layouts
+destination: _site
+layouts: _layouts
