@@ -7,14 +7,33 @@
 <link rel="stylesheet" href="{{ site.baseurl }}css/bootstrap.min.css">
 <link rel="stylesheet" href="{{ site.baseurl }}css/screen.css">
 </head>
-<body>
+
+<body class="{{ page.section }}">
 
 <nav class="navbar navbar-default" role="navigation">
     <div class="navbar-header">
         <a href="/" class="navbar-brand">{{ site.name }}</a>
     </div>
-    <ul class="nav">
-
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'base-layers' %}active{% endif %}"><a href="/base_layers">Base layers</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'condiments' %}active{% endif %}"><a href="/condiments">Condiments</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'full-tacos' %}active{% endif %}"><a href="/full_tacos">Full tacos</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'like-tacos' %}active{% endif %}"><a href="/like_tacos">Like tacos</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'mixins' %}active{% endif %}"><a href="/mixins">Mixins</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'seasonings' %}active{% endif %}"><a href="/seasonings">Seasonings</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'shells' %}active{% endif %}"><a href="/shells">Shells</a></li>
     </ul>
 </nav>
 
