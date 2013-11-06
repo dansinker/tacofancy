@@ -1,5 +1,7 @@
-Chiken makloub 
-==============
+---
+layout: like_tacos
+title: Chiken makloub
+---
 
 Ingredients for bread:
 

@@ -1,5 +1,7 @@
-Pickled Vegetables
-==================
+---
+layout: condiments
+title: Pickled Vegetables
+---
 
 __Whisk:__
 

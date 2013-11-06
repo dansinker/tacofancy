@@ -1,0 +1,6 @@
+name: TacoFancy
+markdown: redcarpet
+pygments: true
+destination: _site
+layouts: _layouts
+baseurl: /tacofancy/

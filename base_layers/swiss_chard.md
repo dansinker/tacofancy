@@ -1,5 +1,7 @@
-Swiss Chard
-===========
+---
+layout: base_layers
+title: Swiss Chard
+---
 
 This is actually a Rick Bayless recipe from his cookbook _Mexican Everyday_, but we've used it a fair amount on those days we feel like not eating meat but still want to have tacos.
 

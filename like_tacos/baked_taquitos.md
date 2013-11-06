@@ -1,5 +1,7 @@
-Baked Taquitos
-==============
+---
+layout: like_tacos
+title: Baked Taquitos
+---
 
 Baked, not fried. Flour tortillas, not corn. _THE HORROR_. But seriously, these are super tasty and really, really kid-friendly. Adapted from [this basic recipe](http://www.chef-in-training.com/2012/02/baked-creamy-chicken-taquitos/).
 
@@ -8,10 +10,10 @@ I almost always double this recipe and make a couple dozen at a time.
 * 12-15 soft-taco size flour tortillas
 * Cooking spray/light oil
 * Kosher salt
-* 2 cups [shredded chicken](/base_layers/basic_shredded_chicken.md)
+* 2 cups [shredded chicken](/base_layers/basic_shredded_chicken.html)
 * 1 cup shredded cheese (colby jack works great)
 * 3 oz. cream cheese
-* 1/4 cup green salsa (the little can of Herdez works great, or [make your own](/condiments/simple_salsa_verde.md))
+* 1/4 cup green salsa (the little can of Herdez works great, or [make your own](/condiments/simple_salsa_verde.html))
 * Lime juice to taste
 * 1 tsp chili powder
 * 1/2 tsp cumin

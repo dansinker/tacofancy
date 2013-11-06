@@ -1,5 +1,7 @@
-Chopped Steak
-=============
+---
+layout: base_layers
+title: Chopped Steak
+---
 
 I like all kinds of steak tacos, but lately have been into cubed up steak tacos that are allowed to marinate a little bit in some salsa verde and other spices. Here's the ones I made tonight:
 

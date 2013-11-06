@@ -1,5 +1,7 @@
-Sweet Potato and Apple Hash
-===========================
+---
+layout: mixins
+title: Sweet Potato and Apple Hash
+---
 
 Sweet potatoes are my go-to taco punch-up. I was going my normal route of making small (1/4" or so) cubes of sweet potatoes when I thought: Hey, it's fall, I'm going to add an apple in there. Fuck yes.
 
@@ -10,4 +12,4 @@ Sweet potatoes are my go-to taco punch-up. I was going my normal route of making
 * A queeze of honey
 * Pat o' butter
 
-Mix this all into a pan, with about 1/4 cup of water, and boil it all up until the water goes away, toss in the butter, and continue to pan-fry until things get a little browned. 
+Mix this all into a pan, with about 1/4 cup of water, and boil it all up until the water goes away, toss in the butter, and continue to pan-fry until things get a little browned.

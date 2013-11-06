@@ -1,7 +1,9 @@
-Beet Salsa
-==========
+---
+layout: condiments
+title: Beet Salsa
+---
 
-Tired of plain ol' [Carne Asada Tacos](../base_layers/chooped_steak.md)? Get exotic with beet salsa.
+Tired of plain ol' [Carne Asada Tacos](../base_layers/chooped_steak.html)? Get exotic with beet salsa.
 
 * 4 - 6 Roma tomatoes
 * 1 - 2 Serrano pepper

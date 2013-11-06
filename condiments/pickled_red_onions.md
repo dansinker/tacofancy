@@ -1,5 +1,7 @@
-Pickled Red Onions
-==================
+---
+layout: condiments
+title: Pickled Red Onions
+---
 
 My wife made this recipe up, after eating something similar, but if you are making brisket tacos, it is the most wonderful accessory:
 
@@ -18,18 +20,18 @@ Variations
 ----------
 
 Pickled onions are a favorite in the Von Doom house, too. [@littlewhirl](http://twitter.com/littlewhirl) played around with a similar starting point and we use this brine instead:
- 
+
 * 1/2 cup apple cider vinegar
 * 1 cup water
 * 2 tsp salt
 * 1 sprig fresh oregano and/or cilantro (optional)
 
-The apple cider vinegar is a tangier but also more subtle, keeping more of the onion flavor there. And using a partial salt water brine lets it work nice for quick pickles, but also for slightly longer engagements. Leading to the most important aspect: 
+The apple cider vinegar is a tangier but also more subtle, keeping more of the onion flavor there. And using a partial salt water brine lets it work nice for quick pickles, but also for slightly longer engagements. Leading to the most important aspect:
 
 PICKLE ALL THE THINGS
 ---------------------
 
-Seriously. All the things. Pickle your fridge. Pickle your waffles. Make. Lots. Of. Pickles. 
+Seriously. All the things. Pickle your fridge. Pickle your waffles. Make. Lots. Of. Pickles.
 
 * __Cabbage__ — red or green work. You only need an hour or so (like onions)
 * __Jalepeños__ — seriously GTFO these are good. Add dill for a twist. Add parboiled carrots if you want to cut the spice

@@ -1,4 +1,9 @@
-There is a whole world of foods that are similar, but aren't exactly tacos. This directory is dedicated to them. 
+---
+layout: like_tacos
+title: Like Tacos
+---
+
+There is a whole world of foods that are similar, but aren't exactly tacos. This directory is dedicated to them.
 
 -----------------------------------------
 

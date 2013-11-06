@@ -1,9 +1,12 @@
-# Swiss Chard Tacos
+---
+layout: full_tacos
+title: Swiss Chard Tacos
+---
 
 Got chard or another leafy green from your CSA? Now you can have tacos
 
 Components:
-* [Cooked chard](/base_layers/swiss_chard.md)
+* [Cooked chard](/base_layers/swiss_chard.html)
 * 1 onion sliced thin
 * 1/2 cup of chicken broth
 * crumbled queso fresco or crema

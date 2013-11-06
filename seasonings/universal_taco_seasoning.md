@@ -1,5 +1,7 @@
-Universal Taco Seasoning
-========================
+---
+layout: seasonings
+title: Universal Taco Seasoning
+---
 
 I got tired of buying packets of store-bought taco seasoning, so I experimented with various spices and ratios until I landed on this recipe. I keep a jar of it in the cupboard at all times.
 

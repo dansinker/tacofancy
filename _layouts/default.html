@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="{{ site.baseurl }}css/bootstrap.min.css">
+<link rel="stylesheet" href="{{ site.baseurl }}css/screen.css">
+</head>
+
+<body class="{{ page.section }}">
+
+<nav class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+        <a href="{{ site.baseurl }}" class="navbar-brand">{{ site.name }}</a>
+    </div>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'base-layers' %}active{% endif %}"><a href="{{ site.baseurl }}base_layers">Base layers</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'condiments' %}active{% endif %}"><a href="{{ site.baseurl }}condiments">Condiments</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'full-tacos' %}active{% endif %}"><a href="{{ site.baseurl }}full_tacos">Full tacos</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'like-tacos' %}active{% endif %}"><a href="{{ site.baseurl }}like_tacos">Like tacos</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'mixins' %}active{% endif %}"><a href="{{ site.baseurl }}mixins">Mixins</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'seasonings' %}active{% endif %}"><a href="{{ site.baseurl }}seasonings">Seasonings</a></li>
+    </ul>
+    <ul class="nav navbar-nav">
+        <li class="{% if page.section == 'shells' %}active{% endif %}"><a href="{{ site.baseurl }}shells">Shells</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <div class="page-header">
+        <h1>{{ page.title }}</h1>
+    </div>
+
+    {{ content }}
+</div>
+
+<footer class="container">
+<a href="https://github.com/sinker/tacofancy">sinker/tacofancy</a>
+</footer>
+
+</body>
+</html>

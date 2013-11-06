@@ -1,5 +1,7 @@
-Salsa Sauce
-============
+---
+layout: condiments
+title: Salsa Sauce
+---
 
 From What's Cookin' Cookbook: A Recipe Collection from the Schlaback Family
 

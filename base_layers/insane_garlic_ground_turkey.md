@@ -1,5 +1,7 @@
-Insane Garlic Ground Turkey
-=========================
+---
+layout: base_layers
+title: Insane Garlic Ground Turkey
+---
 
 While not particularly fancy, the insane garlic ground turkey is a crowd pleaser.
 

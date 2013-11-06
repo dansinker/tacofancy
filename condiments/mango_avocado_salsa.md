@@ -1,5 +1,7 @@
-Mango Avocado Salsa
-===================
+---
+layout: condiments
+title: Mango Avocado Salsa
+---
 
 Goes great on soft shell chicken tacos with cheese (or deep-friend wantons with scallops)!
 

@@ -1,5 +1,7 @@
-Sriracha Salt
-=============
+---
+layout: seasonings
+title: Sriracha Salt
+---
 
 I actually received this as a gift, but I found a recipe to make your own.
 

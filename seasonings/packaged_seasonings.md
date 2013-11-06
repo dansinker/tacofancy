@@ -1,5 +1,7 @@
-Packaged Seasonings
-==============
+---
+layout: seasonings
+title: Packaged Seasonings
+---
 
 Lest we be accused of snobbery, let's acknowledge that a taco is a taco, and taco night can be well-served by not having to think at all.
 

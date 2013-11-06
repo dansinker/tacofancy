@@ -1,5 +1,7 @@
-Zaatar
-======
+---
+layout: seasonings
+title: Zaatar
+---
 
 _A.k.a. za‘tar, za’atar, zattr, etc._
 

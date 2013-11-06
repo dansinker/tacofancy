@@ -1,7 +1,9 @@
-Baja Beer Battered Fish
-========================
+---
+layout: base_layers
+title: Baja Beer Battered Fish
+---
 
-This is the beer battered fish for [Baja fish tacos](../full_tacos/baja_fish_tacos.md).
+This is the beer battered fish for [Baja fish tacos](../full_tacos/baja_fish_tacos.html).
 
 Batter
 -------
