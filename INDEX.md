@@ -74,7 +74,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
 	* [Zaatar (v)](seasonings/zaatar.md)
 * [Shells](/shells)
-	* [Fresh Corn Tortillas](shells/fresh_corn_tortillas.md) 
+	* [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
 	* [Hard Corn Shells (Traditional; US)](shells/hard_corn_traditional_us.md) 
 * [Like Tacos](/like_tacos)
 	* [Baked Taquitos](like_tacos/baked_taquitos.md)
