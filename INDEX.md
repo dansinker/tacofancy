@@ -11,7 +11,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Cabbage Tacos (v)](/full_tacos/vegan_cabbage_tacos.md)
 	* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](/full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 	* [Fish Tacos](/full_tacos/fish_tacos.md)
-	* [Moroccan Lamb Tacos](/full_tacos/morrocoan_lamb_taco.md)
+	* [Moroccan Lamb Tacos](/full_tacos/moroccan_lamb_taco.md)
 	* [Pulled Pork, Chard, and Pickled Onion Tacos](/full_tacos/pork_chard_onion.md)
 	* [Steak, Sweet Potato and Apple Tacos](/full_tacos/teak_sweet_potato_and_apple_tacos.md)
 	* [Swiss Chard Tacos (v if you use veggie broth)](/full_tacos/swiss_chard_tacos.md)
