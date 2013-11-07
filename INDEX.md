@@ -43,7 +43,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 * [Mixins](/mixins)
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Drunken green beans (v)](mixins/drunken_greenbeans.md)
-	* [Potato hash (v)](mixins/potato_hash.md)
+	* [Potato hash (v)](mixins/Potato_hash.md)
 	* [Sweet Potato and Apple Hash (v, substitute butter)](mixins/sweet_potato_and_apple_hash.md)
     * [Cheese (Traditional; US)](mixins/cheese_traditional_us.md)
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
