@@ -9,7 +9,7 @@ If you're not in the mood to be fussy, this could be considered a minimum-viable
 * salt (to taste)
 * hot sauce (to taste; Frank's Red Hot is a standard, but go with what you like)
 
-1. Scoop the avocado meat into a bowl and mash them with a fork. Leave it a bit lumpy as wel will do more stirring in a bit and we don't want to over-work them.
+1. Scoop the avocado meat into a bowl and mash them with a fork. Leave it a bit lumpy as we will do more stirring in a bit and we don't want to over-work them.
 2. Add the chopped tomato.
 3. Add the lime juice; hold some back for later adjustment).
 4. Add ½t salt.
