@@ -13,7 +13,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Fish Tacos](/full_tacos/fish_tacos.md)
 	* [Moroccan Lamb Tacos](/full_tacos/moroccan_lamb_taco.md)
 	* [Pulled Pork, Chard, and Pickled Onion Tacos](/full_tacos/pork_chard_onion.md)
-	* [Steak, Sweet Potato and Apple Tacos](/full_tacos/teak_sweet_potato_and_apple_tacos.md)
+	* [Steak, Sweet Potato and Apple Tacos](/full_tacos/steak_sweet_potato_and_apple_tacos.md)
 	* [Swiss Chard Tacos (v if you use veggie broth)](/full_tacos/swiss_chard_tacos.md)
 	* [Traditional American Taco](/full_tacos/traditional_american_taco.md)
 	* [Zuccini and Corn Tacos (v)](/full_tacos/zucchini_corn_tacos.md)
