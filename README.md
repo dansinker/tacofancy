@@ -22,8 +22,6 @@ This repository contains a few different directories:
     
 Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. 
 
-Looking for restaurants and taco joints? This repo's about recipes, but if you'd like to help find great places to eat tacos, join [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt), a repo dedicated to documenting great taco locations.
-
 Full Index
 ----------
 
@@ -47,6 +45,16 @@ Are You New to Github But Want to Contribute?
 No better time than the present to learn Git! Thankfully, this repo is pretty simple, and pretty much everything you'd want to know is contained in Github's very handy [Fork A Repo](https://help.github.com/articles/fork-a-repo) section on their also super good [help section](https://help.github.com).
 
 _Perhaps others can contribute helpful Git 101 links & tips here._
+
+Tacofancy-Inspired Projects
+---------------------------
+
+It's not just the tacos on Tacofancy that are open source, but the idea and the code too. There are some cool projects that are spinning off of Tacofancy, and it's worth collecting them here (if you're working on a tacofancy-inspired project, feel free to add it to README.md)
+
+* [Tacofancy API](https://github.com/evz/tacofancy-api) by [@evz](https://github.com/evz/) is a project to create an API from the objects on Tacofancy. Currently the API is being used to power [the taco randomizer](http://taco-randomizer.herokuapp.com/random/ ) which returns a randomly created full taco as JSON.
+
+* [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt) is a repo dedicated to documenting great taco locations, inspired by Tacofancy.
+
 
 Endnotes
 --------
