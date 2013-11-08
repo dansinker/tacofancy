@@ -1,16 +1,16 @@
-mahi mahi rub
+Mahi Mahi Rub
 ==============
 
-A rub for mahi mahi, if fish tacos be what you're fancying:
+A rub for Mahi Mahi, if fish tacos be what you're fancying:
 
-1 part spicy chili powder
-1 part salt
-1 part ground cumin
-1/2 part chopped cilantro
-1/2 part cayenne
-1/2 part pepper
-1/2 part oregano
-1/2 part onion powder
-1/2 part garlic powder
+* 1 Part spicy chili powder
+* 1 Part salt
+* 1 Part ground cumin
+* 1/2 Part chopped cilantro
+* 1/2 Part cayenne
+* 1/2 Part pepper
+* 1/2 Part oregano
+* 1/2 Part onion powder
+* 1/2 Part garlic powder
 
 You choose your measurements and enjoy!

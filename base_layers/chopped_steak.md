@@ -1,12 +1,12 @@
-chopped steak
+Chopped Steak
 =============
 
 I like all kinds of steak tacos, but lately have been into cubed up steak tacos that are allowed to marinate a little bit in some salsa verde and other spices. Here's the ones I made tonight:
 
 * 1lb rib eye steak, cubed into ~1" cubes
-* salsa verde, your choice, about 2-3 Tbs
-* pinch or two of mexican oregano
-* a few healthy sprinkles of chili powder
+* Salsa verde, your choice, about 2-3 Tbs
+* Pinch or two of mexican oregano
+* A few healthy sprinkles of chili powder
 
 Cube up your steak, mix everything together, cover and let sit for a half hour or so.
 

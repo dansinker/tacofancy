@@ -1,4 +1,8 @@
-tacos are a category of food that are relatively small in size and are served on a open platform of thin carbohydrate filled material. things that make you want to sleep after eating or are sealed off when served are not tacos (see instead: burritos, pizza)
+There is a whole world of foods that are similar, but aren't exactly tacos. This directory is dedicated to them. 
+
+-----------------------------------------
+
+From [@maxogden's gist](https://gist.github.com/maxogden/5906394): tacos are a category of food that are relatively small in size and are served on a open platform of thin carbohydrate filled material. things that make you want to sleep after eating or are sealed off when served are not tacos (see instead: burritos, pizza)
 
 - [dosa](http://www.yummly.com/recipe/Dosas-_indian-Rice-And-Lentil-Pancakes_-My-Recipes?columns=4&position=6%2F32)
 - [roti](http://kitchenrhapsody.blogspot.com/2013/04/verkadalai-arisi-roti-thakkali-kaara.html)
