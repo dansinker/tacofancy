@@ -51,7 +51,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Potato Hash](mixins/Potato_hash.md)
 	* [Sweet Potato and Apple Hash (v, substitute butter)](mixins/sweet_potato_and_apple_hash.md)
 	* [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md)
-	* [Traditional Taco Mixins (v, but has dairy)] (mixins/traditional_taco_mixins.md)
+	* [Traditional Taco Mixins (v, but has dairy)](mixins/traditional_taco_mixins.md)
 	* [Veggies for Fish Tacos (v)](mixins/veg_for_fish_tacos.md)
 * [Condiments](/condiments)
 	* [Asian Pickled Veggies](condiments/pickled_vegetables.md)
