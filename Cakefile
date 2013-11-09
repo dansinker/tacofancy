@@ -38,10 +38,10 @@ task 'build:ingredients', 'build an ingredient index.', () ->
   # Find all markdown files in the repository.
   glob '**/*.md', {}, (error, files) ->
     is_ingredient = (line) ->
-      line.match /^\*\s+/i
+      line.match /^(\*|-)\s+/i
       
     parse_ingredient = (line) ->
-      line.match(/^(\*\s+)([^\n]+)$/)[2]
+      line.match(/^((\*|-)\s+)([^\n]+)$/)[3]
       
     extract_ingredients_from = (path) ->
       contents = (FS.readFileSync path, { encoding: 'utf8' }).split("\n")

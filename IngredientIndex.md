@@ -2,105 +2,152 @@
 
 ## 500 g ground beef or chopped steak
 
-* [lightly seasoned beef](base_layers/aredridel_lightly_seasoned_beef.md)
+* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
 
 ## 20 g black cumin seed, ground
 
-* [lightly seasoned beef](base_layers/aredridel_lightly_seasoned_beef.md)
-* [chorizo](base_layers/chorizo.md)
+* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
+* [Chorizo](base_layers/chorizo.md)
 
 ## 2 cloves garlic
 
-* [lightly seasoned beef](base_layers/aredridel_lightly_seasoned_beef.md)
-* [chorizo](base_layers/chorizo.md)
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
-* [drunken green beans](mixins/drunken_greenbeans.md)
+* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
+* [Chorizo](base_layers/chorizo.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
+* [Drunken Green Beans](mixins/drunken_greenbeans.md)
 
 ## 15 ml white wine
 
-* [lightly seasoned beef](base_layers/aredridel_lightly_seasoned_beef.md)
-* [chorizo](base_layers/chorizo.md)
+* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
+* [Chorizo](base_layers/chorizo.md)
 
 ## 4 g salt if wine is unsalted
 
-* [lightly seasoned beef](base_layers/aredridel_lightly_seasoned_beef.md)
-* [chorizo](base_layers/chorizo.md)
+* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
+* [Chorizo](base_layers/chorizo.md)
 
 ## oil to coat the pan
 
-* [lightly seasoned beef](base_layers/aredridel_lightly_seasoned_beef.md)
-* [chorizo](base_layers/chorizo.md)
+* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
 
 ## quarter cup lime juice
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
 
 ## quarter cup soy sauce
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
 
 ## quarter cup toasted sesame oil
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
 
 ## two cloves of garlic, chopped
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
 
 ## 3 teaspoons cumin
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
 
 ## 1 teaspoon paprika
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
 
 ## Some chopped cilantro
 
-* [Asian style tofu or pork](base_layers/asian_marinade.md)
+* [Asian Style Tofu or Pork Marinade](base_layers/asian_marinade.md)
+
+## 1/2 c flour
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 1/4 c baking powder
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 1 egg
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 1/2 c beer (Tecate!)
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 1 tsp salt
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 1 tsp chili powder (paprika, salt, garlic salt)
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 2 tsp parsley
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## 1 lb. cod fillet, grouper, or similar white fish, the fresher the better
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## Cut fish into small chunks.
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## Fill a pan with oil and heat until approx. 375 F.
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## Fill a bowl with about a cup of flour and keep it next to the batter bowl.
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## Dip a fish piece into flour then into the batter.
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+
+## Fry for 4-5 minutes, turning halfway through. Drain on a paper towel.
+
+* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
 
 ## 1 pound mild fish (I usually use tilapia)
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 1 cup masa
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 2 tsp salt
 
-* [baked tilapia](base_layers/baked_tilapia.md)
-* [Pickled Red Onions](condiments/pickled_red_onions.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 1/2 to 1 tsp cayenne
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 2 tsp paprika
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 2 tsps chili powder
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 2 tsps garlic powder
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## 1/2 to 1 tsp black pepper (to taste)
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
 
 ## olive oil
 
-* [baked tilapia](base_layers/baked_tilapia.md)
+* [Baked Tilapia](base_layers/baked_tilapia.md)
+* [Potato Hash](mixins/Potato_hash.md)
 
-## crockpot
-
-* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
-
-## 4-5 lbs boneless skinless chicken breast
+## 4-5 lbs. boneless skinless chicken breast
 
 * [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
 
@@ -129,7 +176,6 @@
 ## kosher salt
 
 * [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
-* [Baked Taquitos](like_tacos/baked_taquitos.md)
 
 ## black pepper
 
@@ -137,91 +183,115 @@
 
 ## 1 cup all-purpose flour
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 cup cornmeal
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 tablespoon baking powder
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 tablespoon kosher salt
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1/2 teaspoon cayenne pepper
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 (12-ounce) bottle amber beer
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 4 (6-ounce) catfish fillets
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 tablespoon salt
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 tablespoon cracked black pepper
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 2 tablespoons granulated garlic
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 
 ## 1 lemon, juiced
 
-* [north carolina battered catfish](base_layers/battered_catfish.md)
+* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
+
+## Pork shoulder roast
+
+* [Carnitas](base_layers/carnitas.md)
+
+## Onion and Garlic powder
+
+* [Carnitas](base_layers/carnitas.md)
+
+## Jalapenos
+
+* [Carnitas](base_layers/carnitas.md)
+
+## Green Onions
+
+* [Carnitas](base_layers/carnitas.md)
 
 ## 1lb rib eye steak, cubed into ~1" cubes
 
-* [chopped steak](base_layers/chopped_steak.md)
+* [Chopped Steak](base_layers/chopped_steak.md)
 
-## salsa verde, your choice, about 2-3 Tbs
+## Salsa verde, your choice, about 2-3 Tbs
 
-* [chopped steak](base_layers/chopped_steak.md)
+* [Chopped Steak](base_layers/chopped_steak.md)
 
-## pinch or two of mexican oregano
+## Pinch or two of mexican oregano
 
-* [chopped steak](base_layers/chopped_steak.md)
+* [Chopped Steak](base_layers/chopped_steak.md)
 
-## a few healthy sprinkles of chili powder
+## A few healthy sprinkles of chili powder
 
-* [chopped steak](base_layers/chopped_steak.md)
+* [Chopped Steak](base_layers/chopped_steak.md)
 
 ## 500 g chorizo
 
-* [chorizo](base_layers/chorizo.md)
+* [Chorizo](base_layers/chorizo.md)
+
+## Oil to coat the pan
+
+* [Chorizo](base_layers/chorizo.md)
 
 ## 2-3 pound hunk of pork shoulder.
 
-* [crock pot pulled pork](base_layers/crock_pot_pulled_pork.md)
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 
 ## chili powder
 
-* [crock pot pulled pork](base_layers/crock_pot_pulled_pork.md)
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 
 ## mexican oregano (dried)
 
-* [crock pot pulled pork](base_layers/crock_pot_pulled_pork.md)
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
+
+## ground cumin
+
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 
 ## medium-sized onion (or, a couple shallots)
 
-* [crock pot pulled pork](base_layers/crock_pot_pulled_pork.md)
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 
 ## can of green chilies, diced
 
-* [crock pot pulled pork](base_layers/crock_pot_pulled_pork.md)
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 
 ## pepper & salt
 
-* [crock pot pulled pork](base_layers/crock_pot_pulled_pork.md)
+* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
 
 ## Can of plain black beans
 
@@ -239,6 +309,7 @@
 ## Cumin
 
 * [Garlic Black Beans](base_layers/garlic_black_beans.md)
+* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
 ## Cayenne or Chipotle pepper (optional)
 
@@ -248,17 +319,41 @@
 
 * [Garlic Black Beans](base_layers/garlic_black_beans.md)
 
+## 1lb Ground Beef
+
+* [Ground Beef (Traditional; US)](base_layers/ground_beef_traditional_us.md)
+
+## 2 pounds of ground turkey (preferably thigh meat)
+
+* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+
+## Four yellow onions
+
+* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+
+## Store-bought Taco Seasoning
+
+* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+
+## More garlic than you can imagine (4-5 cloves)
+
+* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+
+## Olive Oil
+
+* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+
 ## 500 g ground lamb
 
-* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/morrocoan_lamb.md)
+* [Moroccan Lamb](base_layers/moroccan_lamb.md)
 
-## 20 g ras al hanout spice. My mix contains:
+## 20 g Ras al Hanout spice. My mix contains:
 
-* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/morrocoan_lamb.md)
+* [Moroccan Lamb](base_layers/moroccan_lamb.md)
 
-## 10 g fresh lemon peel
+## 10 g fresh lemon zest or 10 g finely ground Black Lemon Omani (Moroccoan dried preserved lemon)
 
-* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/morrocoan_lamb.md)
+* [Moroccan Lamb](base_layers/moroccan_lamb.md)
 
 ## 1/2 head of red cabbage, shredded
 
@@ -278,27 +373,27 @@
 
 ## 2 lbs skinless chicken breasts
 
-* [Slow-cooked salsa verde chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 
 ## 2 cups salsa verde
 
-* [Slow-cooked salsa verde chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 
 ## 1 tsp minced garlic or 1/4 tsp garlic powder
 
-* [Slow-cooked salsa verde chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 
-## Pinch of oregano *(Note: I ran out of oregano, but the recipe still tastes great without it.)*
+## Pinch of Oregano _(Note: I ran out of Oregano, but the recipe still tastes great without it.)_
 
-* [Slow-cooked salsa verde chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 
-## Pinch of cumin
+## Pinch of Cumin
 
-* [Slow-cooked salsa verde chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 
 ## Salt, to taste
 
-* [Slow-cooked salsa verde chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 
 ## Soyrizo (The El Burrito branded 'SoyRizo' is by far the best vegan option out there)
 
@@ -327,31 +422,31 @@
 
 ## 1 1/2 pounds of cow tongue
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
 ## 1/2 onion
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
 ## 2 bay leaves
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
 ## 1 quart chicken stock
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
 ## 6 cilantro stems
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
 ## 1 small carrot, peeled and roughly chopped
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
-## 2 tablespoons canola oil
+## 2 tablespoons Canola Oil
 
-* [Delengua (beef tongue)](base_layers/tacosdelengua.md)
+* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 
 ## Diced zucchini
 
@@ -372,12 +467,13 @@
 ## Finely chopped garlic
 
 * [Zucchini and Corn Filling](base_layers/zucchini_corn.md)
+* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
 ## Black beans (you can even use [Garlic Black Beans](/base_layers/garlic_black_beans.md))
 
 * [Zucchini and Corn Filling](base_layers/zucchini_corn.md)
 
-## Finely chopped oregano or epazote
+## Finely chopped oregano or Epazote
 
 * [Zucchini and Corn Filling](base_layers/zucchini_corn.md)
 
@@ -389,29 +485,206 @@
 
 * [Phoning it in Pico de Gallo](condiments/Pico_de_gallo.md)
 
-## coarse salt
+## Coarse salt
 
 * [Phoning it in Pico de Gallo](condiments/Pico_de_gallo.md)
 
-## squeeze of lime
+## Squeeze of lime
 
 * [Phoning it in Pico de Gallo](condiments/Pico_de_gallo.md)
 
-## as many finely chopped red (or green) jalapeños as you want (optional)
+## As many finely chopped red (or green) jalapeños as you want (optional)
 
 * [Phoning it in Pico de Gallo](condiments/Pico_de_gallo.md)
 
-## 1 cup plain greek yogurt
+## 1/4 cup mayo
 
-* [chipotle sauce](condiments/chipotle_sauce.md)
+* [Baja White Sauce](condiments/baja_white_sauce.md)
 
-## juice from 2 limes
+## 2 tbsp sour cream
 
-* [chipotle sauce](condiments/chipotle_sauce.md)
+* [Baja White Sauce](condiments/baja_white_sauce.md)
 
-## 2-3 chipotle peppers, with surrounding adobo sauce from can
+## 1 tbsp lime juice
 
-* [chipotle sauce](condiments/chipotle_sauce.md)
+* [Baja White Sauce](condiments/baja_white_sauce.md)
+
+## 1/4 tsp celery salt (or garlic salt, etc)
+
+* [Baja White Sauce](condiments/baja_white_sauce.md)
+
+## 4 - 6 Roma tomatoes
+
+* [Beet Salsa](condiments/beet_salsa.md)
+
+## 1 - 2 Serrano pepper
+
+* [Beet Salsa](condiments/beet_salsa.md)
+
+## Reasonably sized onion (green or vidalia)
+
+* [Beet Salsa](condiments/beet_salsa.md)
+
+## 10 garlic cloves (leave it up to your buds, I like 10 or more)
+
+* [Beet Salsa](condiments/beet_salsa.md)
+
+## Salt and pepper to taste
+
+* [Beet Salsa](condiments/beet_salsa.md)
+
+## 1 bunch of beets
+
+* [Beet Salsa](condiments/beet_salsa.md)
+
+## 1 cup raw organic cashews
+
+* [Cashew Cheeze](condiments/cashew_cheeze.md)
+
+## 4 cups hot water
+
+* [Cashew Cheeze](condiments/cashew_cheeze.md)
+
+## 1 small lemon, juiced and zested
+
+* [Cashew Cheeze](condiments/cashew_cheeze.md)
+
+## 1/2 teaspoon salt (you can also play with other spices: garlic, cayenne, cumin etc. Go crazy!)
+
+* [Cashew Cheeze](condiments/cashew_cheeze.md)
+
+## 2 tablespoons nutritional yeast 
+
+* [Cashew Cheeze](condiments/cashew_cheeze.md)
+
+## 1 roasted jalepeno (for spicy cheeze)
+
+* [Cashew Cheeze](condiments/cashew_cheeze.md)
+
+## 1 cup plain Greek yogurt
+
+* [Chipotlé Sauce](condiments/chipotle_sauce.md)
+
+## Juice from 2 limes
+
+* [Chipotlé Sauce](condiments/chipotle_sauce.md)
+
+## 2-3 chipotlé peppers, with surrounding adobo sauce from can
+
+* [Chipotlé Sauce](condiments/chipotle_sauce.md)
+
+## 1-2 ripe Hass avocados
+
+* [Guacamole](condiments/guacamole.md)
+
+## half a lime
+
+* [Guacamole](condiments/guacamole.md)
+
+## a clove or two of chopped garlic
+
+* [Guacamole](condiments/guacamole.md)
+
+## some chopped white or yellow onion
+
+* [Guacamole](condiments/guacamole.md)
+
+## salt
+
+* [Guacamole](condiments/guacamole.md)
+* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+
+## pepper
+
+* [Guacamole](condiments/guacamole.md)
+
+## dry cayenne or red chile pepper powder
+
+* [Guacamole](condiments/guacamole.md)
+
+## a jalapeño, if that's your thing
+
+* [Guacamole](condiments/guacamole.md)
+
+## a small chopped tomato
+
+* [Guacamole](condiments/guacamole.md)
+
+## a handful of chopped cilantro
+
+* [Guacamole](condiments/guacamole.md)
+
+## Cut it in half, longways.
+
+* [Guacamole](condiments/guacamole.md)
+
+## Smack the pit with the sharp edge of your knife and give it a sensible 90-degree twist.
+
+* [Guacamole](condiments/guacamole.md)
+
+## Voila, the avocado pit is on your knife.
+
+* [Guacamole](condiments/guacamole.md)
+
+## Dispose of it, unless you're not going to finish all that guac now, in which case, hang onto it and put it in the bowl with the guac before you put it in the fridge.
+
+* [Guacamole](condiments/guacamole.md)
+
+## Now that your knife is free, use it to carve long slices into the flesh of your avocado, one half at a time. Cross-hatch that sucker a bit. Don't cut through the flesh.
+
+* [Guacamole](condiments/guacamole.md)
+
+## Finally, get your avocado half above your nice bowl full of deliciousness, and use the skin to gently push your nice slices into the spicy soup below. Turn it inside-out, if you must, but know that you can minimize the amount of avocado that gets all over your hands if you do this just right.
+
+* [Guacamole](condiments/guacamole.md)
+
+## 2 ripe avocados
+
+* [Guacamole (Simple)](condiments/guacamole_simple.md)
+
+## 2-4 limes, depending on juiciness, delivering 2-4T of lime juice
+
+* [Guacamole (Simple)](condiments/guacamole_simple.md)
+
+## 1 diced tomato (seeded if it's a big one)
+
+* [Guacamole (Simple)](condiments/guacamole_simple.md)
+
+## salt (to taste)
+
+* [Guacamole (Simple)](condiments/guacamole_simple.md)
+
+## hot sauce (to taste; Frank's Red Hot is a standard, but go with what you like)
+
+* [Guacamole (Simple)](condiments/guacamole_simple.md)
+
+## 2 Avocados
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
+
+## 2 Mangos
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
+
+## 1 Orange
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
+
+## 1 Tablespoon Honey
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
+
+## Garlic cloves (leave it up to your buds)
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
+
+## Pepper
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
+
+## 1 Lime
+
+* [Mango Avocado Salsa](condiments/mango_avocado_salsa.md)
 
 ## Vinegar
 
@@ -433,74 +706,81 @@
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## 1 cup water
+## 1 T Sugar (I usually use coconut palm sugar because I'm a hippie I guess)
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
-* [Roasted Tomatillo and Mushroom Sauce](condiments/roasted_tomatillo.md)
+
+## Water
+
+* [Pickled Red Onions](condiments/pickled_red_onions.md)
+
+## 1 1/2 tsp salt
+
+* [Pickled Red Onions](condiments/pickled_red_onions.md)
 
 ## 1 sprig fresh oregano and/or cilantro (optional)
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## Cabbage — red or green work. You only need an hour or so (like onions)
+## __Cabbage__ — red or green work. You only need an hour or so (like onions)
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## Jalepeños — seriously GTFO these are good. Add dill for a twist. Add parboiled carrots if you want to cut the spice
+## __Jalepeños__ — seriously GTFO these are good. Add dill for a twist. Add parboiled carrots if you want to cut the spice
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## Greenbeans — because greenbeans are goddam delicious
+## __Greenbeans__ — because greenbeans are goddam delicious
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## Toy cars — kid with an attitude? Pickle their favorite toy car. Let's see them try to cop a tude when their matchbox cars are soggy and briney
+## __Toy cars — kid with an attitude? Pickle their favorite toy car. Let's see them try to cop a tude when their matchbox cars are soggy and briney
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## Cauliflower — personal favorite. Pickles in an hour, super delicious
+## __Cauliflower__ — personal favorite. Pickles in an hour, super delicious
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
-## Baby corn — baby corn is gross, but if you pickle it you can make jokes about how big all the other things you pickled are
+## __Baby corn__ — baby corn is gross, but if you pickle it you can make jokes about how big all the other things you pickled are
 
 * [Pickled Red Onions](condiments/pickled_red_onions.md)
 
 ## 1/4 cup rice vinegar
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## 2 teaspoons sugar
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## 1 teaspoon soy sauce
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## 1 teaspoon fish sauce
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## Some red pepper flakes
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## cucumbers
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## carrots
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## onions
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## radishes
 
-* [Pickled vegetables ](condiments/pickled_vegetables.md)
+* [Pickled Vegetables](condiments/pickled_vegetables.md)
 
 ## 2 pounds tomatillos
 
@@ -518,81 +798,133 @@
 
 * [Roasted Tomatillo and Mushroom Sauce](condiments/roasted_tomatillo.md)
 
-## 14 c. tomatoes, chopped</l><br>
+## 1 cup water
+
+* [Roasted Tomatillo and Mushroom Sauce](condiments/roasted_tomatillo.md)
+
+## 14 c. tomatoes, chopped
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 2 1/2 c. onions</l><br>
+## 2 1/2 c. onions
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 4 tsp. fresh garlic</l><br>
+## 4 tsp. fresh garlic
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 2 (4 oz.) canned green chilies</l><br>
+## 2 (4 oz.) canned green chilies
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1 tsp. garlic powder</l><br>
+## 1 tsp. garlic powder
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1 tsp. salt</l><br>
+## 1 tsp. salt
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 2 tsp. paprika</l><br>
+## 2 tsp. paprika
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1/2 tsp. ground cumin</l><br>
+## 1/2 tsp. ground cumin
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1/4 tsp. oregano</l><br>
+## 1/4 tsp. oregano
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1 tsp. chili powder</l><br>
+## 1 tsp. chili powder
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1/2 c. vinegar</l><br>
+## 1/2 c. vinegar
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 1 Tbsp. brown sugar</l><br>
+## 1 Tbsp. brown sugar
 
 * [Salsa Sauce](condiments/salsa_sauce.md)
 
-## 6 average-sized tomatillos
+## 6 Average-sized tomatillos
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## 1 poblano pepper
+## 1 Poblano pepper
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## 1 serrano pepper
+## 1 Serrano pepper
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## 1 jalapeno pepper
+## 1 Jalapeno pepper
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## 1 sweet red pepper
+## 1 Sweet red pepper
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## juice of 1 or 2 fresh-squeezed limes (to taste)
+## Juice of 1 or 2 fresh-squeezed limes (to taste)
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
 
-## pinch or two kosher salt (to taste)
+## Pinch or two kosher salt (to taste)
 
 * [Simple Salsa Verde](condiments/simple_salsa_verde.md)
+
+## [Baja white sauce](../condiments/baja_white_sauce.md).
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## [Baja beer battered fish](../base_layers/baja_beer_batter.md).
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## 2 cups shredded cabbage, chopped fine
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## 1/4 cup cilantro, chopped fine
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## Lime for squeezing
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## 8 Corn tortillas
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## 1/2 cup Canola oil
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## Steam a tortilla
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## Spread white sauce all over it
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## Add some fish
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## Add cabbage, cilantro, and a squeeze of lime
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
+
+## Repeat
+
+* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
 
 ## 1 recipe [Garlic Black Beans](/base_layers/garlic_black_beans.md) (broth left slightly soupy)
 
@@ -610,48 +942,60 @@
 
 * [Black Bean, Potato, and Onion Tacos](full_tacos/black_bean_potato_onion_tacos.md)
 
-## [chorizo](/base_layers/chorizo.md)
+## [Chorizo](/base_layers/chorizo.md)
 
-* [Chorizo, Sweet Potato and Apple Tacos with  Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
+* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 
-## [sweet potato and apple hash](/mixins/sweet_potato_and_apple_hash.md)
+## [Sweet Potato and Apple Hash](/mixins/sweet_potato_and_apple_hash.md)
 
-* [Chorizo, Sweet Potato and Apple Tacos with  Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
+* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 * [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 
-## [chipotle sauce](/condiments/chipotle_sauce.md)
+## [Chipotlé Sauce](/condiments/chipotle_sauce.md)
 
-* [Chorizo, Sweet Potato and Apple Tacos with  Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
+* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 
-## chopped onion
+## Chopped onion
 
-* [Morrocoan Lamb Tacos](full_tacos/morrocoan_lamb_taco.md)
+* [Morrocoan Lamb Tacos](full_tacos/moroccan_lamb_taco.md)
 
-## green olives
+## Green olives
 
-* [Morrocoan Lamb Tacos](full_tacos/morrocoan_lamb_taco.md)
+* [Morrocoan Lamb Tacos](full_tacos/moroccan_lamb_taco.md)
 
-## golden raisins
+## Golden raisins
 
-* [Morrocoan Lamb Tacos](full_tacos/morrocoan_lamb_taco.md)
+* [Morrocoan Lamb Tacos](full_tacos/moroccan_lamb_taco.md)
 
-## [chopped steak](/base_layers/chopped_steak.md)
+## [Pulled Pork](/base_layers/crock_pot_pulled_pork.md)
+
+* [Pulled Pork, Chard, and Pickled Onion Tacos](full_tacos/pork_chard_onion.md)
+
+## [Swiss Chard](/base_layers/swiss_chard.md)
+
+* [Pulled Pork, Chard, and Pickled Onion Tacos](full_tacos/pork_chard_onion.md)
+
+## [Pickled Onions](/condiments/pickled_red_onions.md)
+
+* [Pulled Pork, Chard, and Pickled Onion Tacos](full_tacos/pork_chard_onion.md)
+
+## [Chopped Steak](/base_layers/chopped_steak.md)
 
 * [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 
-## guacamole
+## Guacamole
 
 * [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 
-## tomatoes
+## Tomatoes
 
 * [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 
-## sour cream
+## Sour Cream
 
 * [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 
-## sriracha
+## Sriracha
 
 * [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 
@@ -671,6 +1015,42 @@
 
 * [Swiss Chard Tacos](full_tacos/swiss_chard_tacos.md)
 
+## [Ground Beef](/base_layers/ground_beef_traditional_us.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Hard Corn Shells](/shells/hard_corn_traditional_us.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Cheese](/mixins/cheese_traditional_us.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Tomatoes](/mixins/tomatoes_traditional_us.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Lettuce](/mixins/lettuce_traditional_us.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## Hot Sauce/Salsa (store bought is fine; for fresh alternatives check out the [Condiments](/condiments) list)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Guacamole (Simple)](/condiments/guacamole_simple.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Sour Cream](/condiments/sour_cream.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
+## [Black Olives](/condiments/black_olives.md)
+
+* [Traditional American Taco](full_tacos/traditional_american_taco.md)
+
 ## 3 cups flour
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
@@ -687,28 +1067,19 @@
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## salt
-
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
-
-## Contain chicken skewer with chopped chicken
+## BBQ Chicken
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## finely chopped onion
+## Finely chopped onion
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## finely chopped garlic
+## Green pepper
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## green pepper
-
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
-
-## the egg whites
+## Egg Whites
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
@@ -716,15 +1087,15 @@
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## cumin
+## Coriander
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## coriander
+## Ground Cinnamon
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
-## ground cinnamon
+## Salt
 
 * [Chiken makloub ](like_tacos/Chiken_Makloub.md)
 
@@ -732,7 +1103,11 @@
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
-## cooking spray/light oil
+## Cooking spray/light oil
+
+* [Baked Taquitos](like_tacos/baked_taquitos.md)
+
+## Kosher salt
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
@@ -752,7 +1127,7 @@
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
-## lime juice to taste
+## Lime juice to taste
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
@@ -760,23 +1135,19 @@
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
-## 2 cloves minced garlic
+## 2 Cloves minced garlic
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
-## 2 sliced green onions
+## 2 Sliced green onions
 
 * [Baked Taquitos](like_tacos/baked_taquitos.md)
 
-## 2 tbsp chopped cilantro
-
-* [Baked Taquitos](like_tacos/baked_taquitos.md)
-
-## 2 ears of corn
+## 2 Ears of corn
 
 * [Corn Salad](mixins/Corn_Salad.md)
 
-## 1 lime, juiced
+## 1 Lime, juiced
 
 * [Corn Salad](mixins/Corn_Salad.md)
 
@@ -784,163 +1155,251 @@
 
 * [Corn Salad](mixins/Corn_Salad.md)
 
+## A few green onions, chopped
+
+* [Corn Salad](mixins/Corn_Salad.md)
+
 ## Garlic salt, or Garlic AND salt. I use Trader Joe's Garlic Salt in the grinder usually. 
 
 * [Corn Salad](mixins/Corn_Salad.md)
 
-## 1 surly fistfull of greenbeans
+## 6 or so small yukon gold poatoes 
 
-* [drunken green beans](mixins/drunken_greenbeans.md)
+* [Potato Hash](mixins/Potato_hash.md)
+
+## 4 green onion, chopped
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## 1/2 small can of green chiles
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## coarse salt
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## 1/4t chili powder
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## dash cumin
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## 1/4t garlic powder
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## Nutrional yeast (optional)
+
+* [Potato Hash](mixins/Potato_hash.md)
+
+## Cheddar (shredded)
+
+* [Cheese (Traditional; US)](mixins/cheese_traditional_us.md)
+
+## Jack/Pepper Jack (shredded)
+
+* [Cheese (Traditional; US)](mixins/cheese_traditional_us.md)
+
+## 1 Surly fist full of green beans
+
+* [Drunken Green Beans](mixins/drunken_greenbeans.md)
 
 ## half a beer
 
-* [drunken green beans](mixins/drunken_greenbeans.md)
+* [Drunken Green Beans](mixins/drunken_greenbeans.md)
 
 ## quarter cup vegetable broth
 
-* [drunken green beans](mixins/drunken_greenbeans.md)
+* [Drunken Green Beans](mixins/drunken_greenbeans.md)
 
 ## 1 Tbsp olive oil
 
-* [drunken green beans](mixins/drunken_greenbeans.md)
+* [Drunken Green Beans](mixins/drunken_greenbeans.md)
 
 ## some salt, whatever
 
-* [drunken green beans](mixins/drunken_greenbeans.md)
+* [Drunken Green Beans](mixins/drunken_greenbeans.md)
 
-## 2 small sweet potatoes (you'd be amazed how little sweet potato you need for tacos)
+## Iceberg Lettuce (shredded)
 
-* [sweet potato and apple hash](mixins/sweet_potato_and_apple_hash.md)
+* [Lettuce (Traditional; US)](mixins/lettuce_traditional_us.md)
 
-## 1 small apple
+## Romaine Lettuce (shredded; maintain the stalks)
 
-* [sweet potato and apple hash](mixins/sweet_potato_and_apple_hash.md)
+* [Lettuce (Traditional; US)](mixins/lettuce_traditional_us.md)
 
-## one can diced green chilis
+## 2 Small sweet potatoes (you'd be amazed how little sweet potato you need for tacos)
 
-* [sweet potato and apple hash](mixins/sweet_potato_and_apple_hash.md)
+* [Sweet Potato and Apple Hash](mixins/sweet_potato_and_apple_hash.md)
 
-## couple pinches of chili powder
+## 1 Small apple
 
-* [sweet potato and apple hash](mixins/sweet_potato_and_apple_hash.md)
+* [Sweet Potato and Apple Hash](mixins/sweet_potato_and_apple_hash.md)
 
-## a squeeze of honey
+## One can diced green chilis
 
-* [sweet potato and apple hash](mixins/sweet_potato_and_apple_hash.md)
+* [Sweet Potato and Apple Hash](mixins/sweet_potato_and_apple_hash.md)
 
-## pat o butter
+## A couple pinches of chili powder
 
-* [sweet potato and apple hash](mixins/sweet_potato_and_apple_hash.md)
+* [Sweet Potato and Apple Hash](mixins/sweet_potato_and_apple_hash.md)
 
-## cabbage, purple, shredded
+## A queeze of honey
+
+* [Sweet Potato and Apple Hash](mixins/sweet_potato_and_apple_hash.md)
+
+## Pat o' butter
+
+* [Sweet Potato and Apple Hash](mixins/sweet_potato_and_apple_hash.md)
+
+## Tomatoes (diced)
+
+* [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md)
+
+## Cherry Tomatoes (quartered)
+
+* [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md)
+
+## Grape Tomatoes (sliced)
+
+* [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md)
+
+## 1 (16 ounce) container sour cream
+
+* [Traditional Taco Mixins](mixins/traditional_taco_mixins.md)
+
+## 1/4 head iceberg lettuce (rinsed, dried, shredded)
+
+* [Traditional Taco Mixins](mixins/traditional_taco_mixins.md)
+
+## 1 cup shredded cheddar cheese
+
+* [Traditional Taco Mixins](mixins/traditional_taco_mixins.md)
+
+## 3 diced tomatoes
+
+* [Traditional Taco Mixins](mixins/traditional_taco_mixins.md)
+
+## 1 (2.25 ounce) can black olives, drained
+
+* [Traditional Taco Mixins](mixins/traditional_taco_mixins.md)
+
+## Cabbage, purple, shredded
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## cabbage, other shades, shredded
+## Cabbage, other shades, shredded
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## radishes, sliced into thin slices
+## Radishes, sliced into thin slices
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## red peppers, diced
+## Red peppers, diced
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## cherry tomatoes, sliced (if you're a heathen)
+## Cherry tomatoes, sliced (if you're a heathen)
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## cilantro, if it doesn't taste like soap to you
+## Cilantro, if it doesn't taste like soap to you
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## limes, sliced for juicing over tacos.
+## Limes, sliced for juicing over tacos.
 
 * [Veggies for Fish Tacos](mixins/veg_for_fish_tacos.md)
 
-## 1 part spicy chili powder
+## 1 Part spicy chili powder
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1 part salt
+## 1 Part salt
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1 part ground cumin
+## 1 Part ground cumin
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1/2 part chopped cilantro
+## 1/2 Part chopped cilantro
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1/2 part cayenne
+## 1/2 Part cayenne
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1/2 part pepper
+## 1/2 Part pepper
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1/2 part oregano
+## 1/2 Part oregano
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1/2 part onion powder
+## 1/2 Part onion powder
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
 
-## 1/2 part garlic powder
+## 1/2 Part garlic powder
 
-* [mahi mahi rub](seasonings/mahimahirub.md)
+* [Mahi Mahi Rub](seasonings/mahimahirub.md)
+
+## Old El Paso Taco Seasoning
+
+* [Packaged Seasonings](seasonings/packaged_seasonings.md)
 
 ## 2 Tbsp all-purpose flour
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 2 1/2 tsp. chili powder
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 3/4 tsp. onion powder (or 1 1/2 tsp. minced yellow onion)
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 1 1/4 tsp. salt
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 1 tsp. paprika
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 3/4 tsp beef bouillon powder
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 1/4 tsp. granulated sugar
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 1/4 tsp. cayenne pepper
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 1/4 tsp. garlic powder
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
 ## 1 tsp. cumin
 
-* [Quick and dirty spice mix](seasonings/quick_and_dirty_spice_mix.md)
+* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
 
-## 1 cup salt
+## 1 cup Salt
 
 * [Sriracha Salt](seasonings/sriracha_salt.md)
 
-## 10 t sriracha
+## 10 tsp. Sriracha
 
 * [Sriracha Salt](seasonings/sriracha_salt.md)
 
@@ -1003,3 +1462,39 @@
 ## Optional: trace olive oil or lemon juice as a binder (but not if you plan to store it)
 
 * [Zaatar](seasonings/zaatar.md)
+
+## 1 3/4 cups masa harina
+
+* [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
+
+## 1 1/8 cups water
+
+* [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
+
+## [Base layers](base_layers#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
+
+## [Condiments](condiments#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
+
+## [Full tacos](full_tacos#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
+
+## [Like tacos](like_tacos#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
+
+## [Mixins](mixins#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
+
+## [Seasonings](seasonings#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
+
+## [Shells](shells#readme/)
+
+* [* [Base layers](base_layers#readme/)](table_of_contents.md)
