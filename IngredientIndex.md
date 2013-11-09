@@ -309,7 +309,7 @@
 ## Cumin
 
 * [Garlic Black Beans](base_layers/garlic_black_beans.md)
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Cayenne or Chipotle pepper (optional)
 
@@ -354,6 +354,30 @@
 ## 10 g fresh lemon zest or 10 g finely ground Black Lemon Omani (Moroccoan dried preserved lemon)
 
 * [Moroccan Lamb](base_layers/moroccan_lamb.md)
+
+## Bunch of poblano peppers
+
+* [Taco de rajas poblanas](base_layers/rajas_poblanas.md)
+
+## Onion
+
+* [Taco de rajas poblanas](base_layers/rajas_poblanas.md)
+
+## Tad of oil
+
+* [Taco de rajas poblanas](base_layers/rajas_poblanas.md)
+
+## Mexican crema or sour cream
+
+* [Taco de rajas poblanas](base_layers/rajas_poblanas.md)
+
+## *optionally*, fresh corn
+
+* [Taco de rajas poblanas](base_layers/rajas_poblanas.md)
+
+## *optionally*, queso Oaxaca or panela or fresco
+
+* [Taco de rajas poblanas](base_layers/rajas_poblanas.md)
 
 ## 1/2 head of red cabbage, shredded
 
@@ -467,7 +491,7 @@
 ## Finely chopped garlic
 
 * [Zucchini and Corn Filling](base_layers/zucchini_corn.md)
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Black beans (you can even use [Garlic Black Beans](/base_layers/garlic_black_beans.md))
 
@@ -561,6 +585,32 @@
 
 * [Cashew Cheeze](condiments/cashew_cheeze.md)
 
+## dried whole *chiles de árbol*
+
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+
+## tomatoes
+
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+
+## onion
+
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+
+## *optionally*, garlic
+
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+
+## green tomatillos
+
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+
+## cilantro
+
+* [Salsa de chile de árbol](condiments/chile_de_arbol_sauce.md)
+
 ## 1 cup plain Greek yogurt
 
 * [Chipotlé Sauce](condiments/chipotle_sauce.md)
@@ -592,7 +642,7 @@
 ## salt
 
 * [Guacamole](condiments/guacamole.md)
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## pepper
 
@@ -942,6 +992,30 @@
 
 * [Black Bean, Potato, and Onion Tacos](full_tacos/black_bean_potato_onion_tacos.md)
 
+## [chorizo](/base_layers/chorizo.md) (that recipe is nice but you can just chop what you like straight off the sausage.)
+
+* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+
+## eggs
+
+* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+
+## [salsa verde](/condiments/simple_salsa_verde.md) (a primo verde is key.)
+
+* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+
+## chopped cilantro (gotta be fresh)
+
+* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+
+## slice o' lime (must also gotta be fresh)
+
+* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+
+## [corn tortillas](/shells/Fresh_corn_tortillas.md) (fresh is best but straight from the packet ain't never hurt nobody.)
+
+* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+
 ## [Chorizo](/base_layers/chorizo.md)
 
 * [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
@@ -1053,51 +1127,51 @@
 
 ## 3 cups flour
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## 3 teaspoons instant yeast
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Two large tablespoons sugar
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Cutting or more water
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## BBQ Chicken
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Finely chopped onion
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Green pepper
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Egg Whites
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Rusk
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Coriander
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Ground Cinnamon
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## Salt
 
-* [Chiken makloub ](like_tacos/Chiken_Makloub.md)
+* [Chiken makloub ](like_tacos/Chicken_Makloub.md)
 
 ## 12-15 soft-taco size flour tortillas
 

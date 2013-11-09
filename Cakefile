@@ -5,6 +5,10 @@ glob = require 'glob'
 spacify = (str) -> str.replace(/_/g, ' ')
 capitalize = (str) -> str.charAt(0).toUpperCase() + str.substring(1).toLowerCase();
 
+task 'build', 'build ALL THE THINGS', () ->
+  invoke 'build:toc'
+  invoke 'build:ingredients'
+
 task 'build:toc', 'build a table of contents', () ->
   ignore = (file) -> file[0] is '.' or file is 'node_modules' or file.match /^readme|index|table_of_contents/i
 
