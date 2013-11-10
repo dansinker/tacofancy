@@ -10,8 +10,9 @@ task 'build', 'build ALL THE THINGS', () ->
   invoke 'build:ingredients'
 
 task 'build:toc', 'build a table of contents', () ->
-  ignore = (file) -> file[0] is '.' or file is 'node_modules' or file.match /^readme|index|table_of_contents/i
-
+  # pattern matching for files which shouldn't be indexed.
+  ignore = (file) -> file.match /^\.|readme|index|table_of_contents|node_modules/i
+  
   # Extract recipe info from a markdown file assuming:
   #   1. a recipe's title is the (non-whitespace) first line
   #   2. a recipe can optionally contain a line of tags which starts
@@ -33,7 +34,29 @@ task 'build:toc', 'build a table of contents', () ->
     index.markdown = (recipe_info(Path.join(base, file)) for file in files when Path.extname(file).match(/md|markdown|mdown$/) and not ignore(file))
     index.sections  = (section_info(file) for file in files when FS.lstatSync(Path.join(base, file)).isDirectory() and not ignore(file))
     index
-
+  
+  topic_sort = (sections) ->
+    sorted_sections = []
+    sort_order = ['full_tacos', 
+                   'base_layers', 
+                   'mixins', 
+                   'condiments', 
+                   'seasonings', 
+                   'shells', 
+                   'like_tacos']
+    
+    # find the sections listed in the sorting index
+    # and place them in the correct positions in the
+    # sorted sections.
+    for section_path, sort_position in sort_order
+      do (section_path) ->
+        section_position = (section.path for section in sections).indexOf(section_path)
+        sorted_sections[sort_position] = sections[section_position] if section_position > -1
+        
+    # add everything that isn't in the sorted order to the end of the sorted_sections
+    sorted_sections.concat(section for section in sections when sort_order.indexOf(section.path) == -1)
+    return sorted_sections
+  
   template_sections = (index, base, tabs = "") ->
     #console.log("INDEX", index)
     recipe_link = (recipe) -> 
@@ -49,7 +72,7 @@ task 'build:toc', 'build a table of contents', () ->
     markup += "#{ tabs }* #{ recipe_link(recipe) }\n" for recipe in index.markdown
     markup
   
-   FS.writeFile 'table_of_contents.md', template_sections(index_dir('.'))
+  FS.writeFile 'table_of_contents.md', template_sections(index_dir('.'))
 
 
 task 'build:ingredients', 'build an ingredient index.', () ->
@@ -97,3 +120,11 @@ task 'build:ingredients', 'build an ingredient index.', () ->
     ingredients = make_index(extract_ingredients_from(file) for file in files when not file.match /(readme|index).md$/i)
     FS.writeFile 'IngredientIndex.md', template_index(ingredients)
     console.log('completed')
+
+"""
+
+Random notes:
+
+`ack --output='$1' "\(v[^(]+\(\/?([^)]+)" INDEX.md | xargs mate` will open the list of files currently listed in the index as vegetarian assuming that you're on a *nix system, have "ack" installed, and use textmate.
+
+"""
