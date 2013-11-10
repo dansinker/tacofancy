@@ -6,3 +6,5 @@ Soyrizo
 * green peppers
 
 Throw some Soyrizo in a sauce pan with chopped potatoes and green peppers and brown for added bonus.
+
+tags: vegetarian, vegan

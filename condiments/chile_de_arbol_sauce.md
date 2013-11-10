@@ -43,3 +43,5 @@ chopped onion and cilantro.
 
 One non-obvious little point is that skipping the oil in the chile roasting-toasting
 step seems to increase the spiciness of the final product.
+
+tags: vegetarian

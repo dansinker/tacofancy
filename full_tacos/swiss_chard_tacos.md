@@ -10,3 +10,5 @@ Components:
 * salsa
 
 Of course, you could decide you want to add some grilled chicken or steak. Or you could _make it Monteiro_ and add tofu or other soy products.
+
+tags: vegetarian

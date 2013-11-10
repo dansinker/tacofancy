@@ -7,3 +7,5 @@ Red Cabbage Filling
 * 2-3 squeezed limes
 
 1. Mix all ingredients in large bowl
+
+tags: vegetarian

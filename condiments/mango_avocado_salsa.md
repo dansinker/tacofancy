@@ -19,3 +19,5 @@ __Directions__
 2. Squeeze the lime and half the orange in, add honey.
 3. Add garlic (chopped or pressed) and pepper to taste.
 4. Stir and enjoy!
+
+tags: vegetarian

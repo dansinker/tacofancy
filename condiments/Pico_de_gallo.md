@@ -13,3 +13,5 @@ _Super Quick & Easy Pico_
 Combine the tomatoes, cilantro and onion together in a bowl. Season to taste with salt and lime.
 
 Reserve some of this mixture for kids, and then add as much jalapeño as you like to the remaining mixture for the non wimps.
+
+tags: vegetarian

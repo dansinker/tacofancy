@@ -15,3 +15,5 @@ Roasted Tomatillo and Mushroom Sauce
 
 ---
 A friend gave me this recipe a while back, but I can't remember who it was. Sorry, friend.
+
+tags: vegetarian

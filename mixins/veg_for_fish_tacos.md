@@ -16,3 +16,5 @@ And one requirement:
 * Limes, sliced for juicing over tacos.
 
 Place out your selections and assemble into your taco. Then squeeze a lime over the top.
+
+tags: vegetarian

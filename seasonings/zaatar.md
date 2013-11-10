@@ -20,3 +20,5 @@ Toast the sesame seeds. Grind all ingredients together using any method, stoppin
 May be added to meat during cooking, or sprinkled over a finshied taco.
 
 The latest theories have not ruled out the possibility of a zaatar mole.
+
+tags: vegetarian

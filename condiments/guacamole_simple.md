@@ -19,3 +19,5 @@ If you're not in the mood to be fussy, this could be considered a minimum-viable
 8. Adjust salt/lime/hot sauce as desired.
 
 This recipe will support one average-size bag of chips, so adjust quantities based on expectations.
+
+tags: vegetarian

@@ -42,3 +42,5 @@ Seriously. All the things. Pickle your fridge. Pickle your waffles. Make. Lots. 
 * __Toy cars — kid with an attitude? Pickle their favorite toy car. Let's see them try to cop a tude when their matchbox cars are soggy and briney
 * __Cauliflower__ — personal favorite. Pickles in an hour, super delicious
 * __Baby corn__ — baby corn is gross, but if you pickle it you can make jokes about how big all the other things you pickled are
+
+tags: vegetarian

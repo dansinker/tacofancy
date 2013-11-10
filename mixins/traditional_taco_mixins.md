@@ -9,4 +9,5 @@ Traditional Taco Mixins
 
 Add ingredients to tacos in layers. 
 
+tags: vegetarian
 
