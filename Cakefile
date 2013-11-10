@@ -11,7 +11,7 @@ task 'build', 'build ALL THE THINGS', () ->
 
 task 'build:toc', 'build a table of contents', () ->
   # pattern matching for files which shouldn't be indexed.
-  ignore = (file) -> file.match /^\.|readme|index|table_of_contents|node_modules/i
+  ignore = (file) -> file.match /^(\.|readme|index|table_of_contents|node_modules)/i
   
   # Extract recipe info from a markdown file assuming:
   #   1. a recipe's title is the (non-whitespace) first line
@@ -72,7 +72,20 @@ task 'build:toc', 'build a table of contents', () ->
     markup += "#{ tabs }* #{ recipe_link(recipe) }\n" for recipe in index.markdown
     markup
   
-  FS.writeFile 'table_of_contents.md', template_sections(index_dir('.'))
+  FS.writeFile 'table_of_contents.md', """
+Table of Contents
+=================
+
+Welcome to the tacofancy table of contents.  This table of contents was automatically created by 
+scanning through the tacofancy repository for recipes.  Apologies to the newly unemployed index updaters.
+
+Recipes marked with a (v) are tagged as vegetarian friendly, mostly to make [@dansinker](https://twitter.com/dansinker), [@cjoh](https://twitter.com/cjoh) and [@knowtheory](https://twitter.com/knowtheory) sad.
+
+If you'd like to tag more recipes, just look for (or add) a line in each recipe starting with "tags:".  Add whatever
+tags you like separated by commas.
+
+#{template_sections(index_dir('.'))}
+"""
 
 
 task 'build:ingredients', 'build an ingredient index.', () ->
