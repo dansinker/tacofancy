@@ -68,7 +68,7 @@ task 'build:toc', 'build a table of contents', () ->
       "[#{section.name}](#{section.path}/#readme)\n#{ subsections }"
     
     markup = ""
-    markup += "#{ tabs }* #{ section_link(section) }" for section in index.sections
+    markup += "#{ tabs }* #{ section_link(section) }" for section in topic_sort(index.sections)
     markup += "#{ tabs }* #{ recipe_link(recipe) }\n" for recipe in index.markdown
     markup
   
