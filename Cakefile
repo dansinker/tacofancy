@@ -22,7 +22,7 @@ task 'build:toc', 'build a table of contents', () ->
     lines = text.split("\n")
     lines.shift() while lines[0].match(/^\s*$/)
     name = lines[0].match(/^(\s*#+\s*)?([^\n]+)$/)[2]
-    tags = text.match(/tags\s*:\s*([^\n]+)/)?[1].split(',') || []
+    tags = text.match(/tags\s*:\s*([^\n]+)/i)?[1].split(',') || []
     { name: name, path: path, tags: tags }
   
   section_info = (path) ->
