@@ -1544,31 +1544,3 @@
 ## 1 1/8 cups water
 
 * [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
-
-## [Base layers](base_layers#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)
-
-## [Condiments](condiments#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)
-
-## [Full tacos](full_tacos#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)
-
-## [Like tacos](like_tacos#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)
-
-## [Mixins](mixins#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)
-
-## [Seasonings](seasonings#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)
-
-## [Shells](shells#readme/)
-
-* [* [Base layers](base_layers#readme/)](table_of_contents.md)

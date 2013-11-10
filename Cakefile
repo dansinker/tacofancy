@@ -11,7 +11,7 @@ task 'build', 'build ALL THE THINGS', () ->
 
 task 'build:toc', 'build a table of contents', () ->
   # pattern matching for files which shouldn't be indexed.
-  ignore = (file) -> file.match /^(\.|readme|index|table_of_contents|node_modules)/i
+  ignore = (file) -> file.match /^\.|readme|index|table_of_contents|node_modules/i
   
   # Extract recipe info from a markdown file assuming:
   #   1. a recipe's title is the (non-whitespace) first line
@@ -130,14 +130,12 @@ task 'build:ingredients', 'build an ingredient index.', () ->
       "# Recipes listed by Ingredient\n\n#{sections.join "\n"}"
     
     console.log('generating ingredient index...')
-    ingredients = make_index(extract_ingredients_from(file) for file in files when not file.match /(readme|index).md$/i)
+    ingredients = make_index(extract_ingredients_from(file) for file in files when not file.match /(readme|index|table_of_contents).md$/i)
     FS.writeFile 'IngredientIndex.md', template_index(ingredients)
     console.log('completed')
 
 """
-
 Random notes:
 
 `ack --output='$1' "\(v[^(]+\(\/?([^)]+)" INDEX.md | xargs mate` will open the list of files currently listed in the index as vegetarian assuming that you're on a *nix system, have "ack" installed, and use textmate.
-
 """
