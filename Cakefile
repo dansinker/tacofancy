@@ -65,7 +65,7 @@ task 'build:toc', 'build a table of contents', () ->
       "[#{recipe.name}#{ quick_tags }](#{recipe.path})"
     section_link = (section) -> 
       subsections = template_sections(section.contents, section.path, tabs + "\t")
-      "[#{section.name}](#{section.path}#readme/)\n#{ subsections }"
+      "[#{section.name}](#{section.path}/#readme)\n#{ subsections }"
     
     markup = ""
     markup += "#{ tabs }* #{ section_link(section) }" for section in index.sections
