@@ -12,11 +12,17 @@ task 'build', 'build ALL THE THINGS', () ->
 task 'build:toc', 'build a table of contents', () ->
   ignore = (file) -> file[0] is '.' or file is 'node_modules' or file.match /^readme|index|table_of_contents/i
 
+  # Extract recipe info from a markdown file assuming:
+  #   1. a recipe's title is the (non-whitespace) first line
+  #   2. a recipe can optionally contain a line of tags which starts
+  #      with "tags: " and is followed by a comma separated list of tag phrases.
   recipe_info = (path) ->
-    contents = (FS.readFileSync path, { encoding: 'utf8' }).split("\n")
-    contents.shift() while contents[0].match(/^\s*$/)
-    name = contents[0].match(/^(\s*#+\s*)?([^\n]+)$/)?[2]
-    { name: name, path: path }
+    text  = (FS.readFileSync path, { encoding: 'utf8' })
+    lines = text.split("\n")
+    lines.shift() while lines[0].match(/^\s*$/)
+    name = lines[0].match(/^(\s*#+\s*)?([^\n]+)$/)[2]
+    tags = text.match(/tags\s*:\s*([^\n]+)/)?[1].split(',') || []
+    { name: name, path: path, tags: tags }
   
   section_info = (path) ->
     name = capitalize(spacify(Path.basename(path)))
@@ -30,9 +36,17 @@ task 'build:toc', 'build a table of contents', () ->
 
   template_sections = (index, base, tabs = "") ->
     #console.log("INDEX", index)
+    recipe_link = (recipe) -> 
+      quick_tags = ""
+      quick_tags += " (v)" if recipe.tags.indexOf('vegetarian') >= 0
+      "[#{recipe.name}#{ quick_tags }](#{recipe.path})"
+    section_link = (section) -> 
+      subsections = template_sections(section.contents, section.path, tabs + "\t")
+      "[#{section.name}](#{section.path}#readme/)\n#{ subsections }"
+    
     markup = ""
-    markup += "#{ tabs }* [#{section.name}](#{section.path}#readme/)\n#{ template_sections(section.contents, section.path, tabs + "\t") }" for section in index.sections
-    markup += "#{ tabs }* [#{recipe.name}](#{recipe.path})\n" for recipe in index.markdown
+    markup += "#{ tabs }* #{ section_link(section) }" for section in index.sections
+    markup += "#{ tabs }* #{ recipe_link(recipe) }\n" for recipe in index.markdown
     markup
   
    FS.writeFile 'table_of_contents.md', template_sections(index_dir('.'))
