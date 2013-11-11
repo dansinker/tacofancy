@@ -1,4 +1,4 @@
-Quick Bulgar Black Bean Filling
+Bulgar Black Bean Filling
 =========================
 
 This is a quick and easy vegetarian substitute for a ground beef-like texture without using a soy substitute.
