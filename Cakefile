@@ -21,6 +21,7 @@ task 'build:toc', 'build a table of contents', () ->
     text  = (FS.readFileSync path, { encoding: 'utf8' })
     lines = text.split("\n")
     lines.shift() while lines[0].match(/^\s*$/)
+
     name = lines[0].match(/^(\s*#+\s*)?([^\n]+)$/)[2]
     tags = text.match(/tags\s*:\s*([^\n]+)/i)?[1].split(',') || []
     { name: name, path: path, tags: tags }
@@ -32,8 +33,8 @@ task 'build:toc', 'build a table of contents', () ->
   index_dir = (base, index = {}) ->
     files = FS.readdirSync(base)
     index.markdown = (recipe_info(Path.join(base, file)) for file in files when Path.extname(file).match(/md|markdown|mdown$/) and not ignore(file))
-    index.sections  = (section_info(file) for file in files when FS.lstatSync(Path.join(base, file)).isDirectory() and not ignore(file))
-    index
+    index.sections = (section_info(file) for file in files when FS.lstatSync(Path.join(base, file)).isDirectory() and not ignore(file))
+    return index
   
   topic_sort = (sections) ->
     sorted_sections = []
@@ -63,7 +64,8 @@ task 'build:toc', 'build a table of contents', () ->
       quick_tags = ""
       quick_tags += " (v)" if recipe.tags.indexOf('vegetarian') >= 0
       "[#{recipe.name}#{ quick_tags }](#{recipe.path})"
-    section_link = (section) -> 
+    
+    section_link = (section) ->
       subsections = template_sections(section.contents, section.path, tabs + "\t")
       "[#{section.name}](#{section.path}/#readme)\n#{ subsections }"
     
@@ -72,6 +74,7 @@ task 'build:toc', 'build a table of contents', () ->
     markup += "#{ tabs }* #{ recipe_link(recipe) }\n" for recipe in index.markdown
     markup
   
+  console.log("generating table of contents...")
   FS.writeFile 'table_of_contents.md', """
 Table of Contents
 =================
@@ -79,13 +82,15 @@ Table of Contents
 Welcome to the tacofancy table of contents.  This table of contents was automatically created by 
 scanning through the tacofancy repository for recipes.  Apologies to the newly unemployed index updaters.
 
-Recipes marked with a (v) are tagged as vegetarian friendly, mostly to make [@dansinker](https://twitter.com/dansinker), [@cjoh](https://twitter.com/cjoh) and [@knowtheory](https://twitter.com/knowtheory) sad.
+Recipes marked with a (v) are tagged as vegetarian friendly, mostly to make [@dansinker](https://twitter.com/dansinker), 
+[@cjoh](https://twitter.com/cjoh) and [@knowtheory](https://twitter.com/knowtheory) sad.
 
 If you'd like to tag more recipes, just look for (or add) a line in each recipe starting with "tags:".  Add whatever
 tags you like separated by commas.
 
 #{template_sections(index_dir('.'))}
 """
+console.log('done')
 
 
 task 'build:ingredients', 'build an ingredient index.', () ->
@@ -95,7 +100,9 @@ task 'build:ingredients', 'build an ingredient index.', () ->
       line.match /^(\*|-)\s+/i
       
     parse_ingredient = (line) ->
-      line.match(/^((\*|-)\s+)([^\n]+)$/)[3]
+      ingredient = line.match(/^((\*|-)\s+)([^\n]+)$/)[3]
+      console.log ingredient
+      ingredient
       
     extract_ingredients_from = (path) ->
       contents = (FS.readFileSync path, { encoding: 'utf8' }).split("\n")
@@ -137,5 +144,6 @@ task 'build:ingredients', 'build an ingredient index.', () ->
 """
 Random notes:
 
-`ack --output='$1' "\(v[^(]+\(\/?([^)]+)" INDEX.md | xargs mate` will open the list of files currently listed in the index as vegetarian assuming that you're on a *nix system, have "ack" installed, and use textmate.
+`ack --output='$1' "\(v[^(]+\(\/?([^)]+)" INDEX.md | xargs mate` will open the list of files currently 
+listed in the index as vegetarian assuming that you're on a *nix system, have "ack" installed, and use textmate.
 """
