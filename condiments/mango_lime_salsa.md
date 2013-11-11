@@ -6,7 +6,7 @@ This fresh mango relish pairs exceedingly well with cilantro lime yogurt sauce f
 In a bowl, combine:
 * 2 ripe fresh mangoes, chopped 
 * 1/2 cup diced sweet onion
-* 1-2 Tbsp chopped fresh cilantro
+* 1-2 tablespoons chopped fresh cilantro
 * Juice of 1 fresh lime
 * (optional): 1/2 fresh jalapeno, diced
 
