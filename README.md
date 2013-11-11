@@ -50,7 +50,7 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 
 * [Tacofancy API](https://github.com/evz/tacofancy-api) by [@evz](https://github.com/evz/) is a project to create an API from the objects on Tacofancy. The API drives the Taco Randomizer.
 
-* [@taco_fancy](http://www.twitter.com/taco_fancy) is a work-in-progress Twitter bot that tweets when a new file is added to the Tacofancy repo.
+* [@tacobot](http://www.twitter.com/tacobot) is a work-in-progress Twitter bot that tweets when a new file is added to the Tacofancy repo.
 
 * [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt) is a repo dedicated to documenting great taco locations, inspired by Tacofancy.
 
