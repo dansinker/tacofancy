@@ -23,7 +23,7 @@ This repository contains a few different directories:
 Full Index
 ----------
 
-Want to see all the recipes in Tacofancy? Hit the[full index](INDEX.md). **WARNING: IT IS CRAZY DELICIOUS**.
+Want to see all the recipes in Tacofancy? Hit the [full index](INDEX.md). **WARNING: IT IS CRAZY DELICIOUS**.
 
 [Full Index](INDEX.md)
 

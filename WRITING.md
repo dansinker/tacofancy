@@ -9,7 +9,7 @@ Object-Oriented Tacos
 
 File formatting
 --------------
-* Please write your recipes in [markdown](http://daringfireball.net/projects/markdown/)
+* Please write your recipes in [markdown](http://daringfireball.net/projects/markdown/basics)
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit. 
 * Give your files the .md extension.
 
