@@ -5,12 +5,12 @@ If you're not in the mood to be fussy, this could be considered a minimum-viable
 
 * 2 ripe avocados
 * 2-4 limes, depending on juiciness, delivering 2-4T of lime juice
-* 1 diced tomato (seeded if it's a big one) OR tub of store-bought salsa fresca
+* 1 diced tomato (seeded if it's a big one) or [pico de gallo](./Pico_de_gallo.md)
 * salt (to taste)
 * hot sauce (to taste; Frank's Red Hot is a standard, but go with what you like)
 
 1. Scoop the avocado meat into a bowl and mash them with a fork. Leave it a bit lumpy as we will do more stirring in a bit and we don't want to over-work them.
-2. Add the chopped tomato or salsa fresca, which generally includes chopped tomato, onion, and cilantro
+2. Add the chopped tomato or pico de gallo
 3. Add the lime juice; hold some back for later adjustment).
 4. Add ½t salt.
 5. Add 2T hot sauce.

@@ -68,6 +68,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
 	* [Pickled Red Onions (v)](condiments/pickled_red_onions.md)
 	* [Roasted Tomatillo & Mushroom Sauce (v)](condiments/roasted_tomatillo.md)
+	* [Salsa de Aguacate (v)](condiments/salsa_de_aguacate.md)
 	* [Salsa Sauce (v)](condiments/salsa_sauce.md)
 	* [Simple Salsa Verde (v)](condiments/simple_salsa_verde.md)
 	* [Sour Cream](condiments/sour_cream.md)
@@ -84,4 +85,5 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 * [Like Tacos](/like_tacos)
 	* [Baked Taquitos](like_tacos/baked_taquitos.md)
 	* [Chicken Makloub](like_tacos/Chicken_Makloub.md)
+	* [Taco Soup] (like_tacos/taco_soup.md)
 	* [Tunisian Makloub](like_tacos/Tunisian_makloub.md)
