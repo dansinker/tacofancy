@@ -1,7 +1,7 @@
 tacofancy
 =========
 
-This is a community-driven taco recipe repo. Please fork and submit your own recipes, because the more there are, the more delicious it gets. I'll probably write more here soon.
+This is a community-driven taco recipe repo. Please fork and submit your own recipes, because the more there are, the more delicious it gets.
 
 This repository contains a few different directories:
 
@@ -19,13 +19,11 @@ This repository contains a few different directories:
     * your base layers and mixins and condiments have to go *into* something, right? put your tortilla recipes here.
 * [like_tacos](/like_tacos)
     * a collection of things that are like tacos, e.g. gua bao.
-    
-Community assistance in growing the number of directories, or in better organizing or whatever is more more more than welcome. 
 
 Full Index
 ----------
 
-This is too important not to be properly indexed. Please add your entry to the [full index](INDEX.md) when submitting so the world can get taco greatness without having to fish through a bunch of folders. 
+Want to see all the recipes in Tacofancy? You can drill into every directory, or hit the[full index](INDEX.md). **WARNING: IT IS CRAZY DELICIOUS**.
 
 [Full Index](INDEX.md)
 
@@ -58,6 +56,6 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 Endnotes
 --------
 
-This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly.
+This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly. It started with just three recipes in it. Now it has dozens. Nice job, world.
 
 Oh hi, I'm [@dansinker](https://www.twitter.com/dansinker).
