@@ -1,6 +1,7 @@
 {
   "name": "tacofancy",
   "dependencies": {
-    "glob": "3.x.x"
+    "glob": "3.x.x",
+    "coffee-script": ">=1.6.3"
   }
 }
