@@ -16,3 +16,9 @@ File formatting
 Update the Index
 ----------------
 * Once you have created all your various taco objects (even if it's just one) update the [index](INDEX.md) so that it gets listed. While we do have people checking every now and then, *you can help keep the index up-to-date* by updating your stuff as part of your pull request.
+
+Submit
+------
+* Submit a pull request. 
+* We'll check it over, offer any suggestions if necessary (never about deliciousness, but possibly about formatting or because you forgot to update the index or something), and will then merge into master.
+* You are wonderful. 

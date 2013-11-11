@@ -23,7 +23,7 @@ This repository contains a few different directories:
 Full Index
 ----------
 
-Want to see all the recipes in Tacofancy? You can drill into every directory, or hit the[full index](INDEX.md). **WARNING: IT IS CRAZY DELICIOUS**.
+Want to see all the recipes in Tacofancy? Hit the[full index](INDEX.md). **WARNING: IT IS CRAZY DELICIOUS**.
 
 [Full Index](INDEX.md)
 
@@ -44,11 +44,13 @@ No better time than the present to learn Git! Thankfully, this repo is pretty si
 Tacofancy-Inspired Projects
 ---------------------------
 
-It's not just the tacos on Tacofancy that are open source, but the idea and the code too. There are some cool projects that are spinning off of Tacofancy, and it's worth collecting them here (if you're working on a tacofancy-inspired project, feel free to add it to README.md)
+It's not just the tacos on Tacofancy that are open source, but the idea and the code too. There are some cool projects that are spinning off of Tacofancy, and it's worth collecting them here (if you're working on a tacofancy-inspired project, feel free to add it to this README)
 
 * [The Taco Randomizer](http://taco-randomizer.herokuapp.com/ ) need inspiration? the Taco Randomizer leverages Tacofancy to build a randomly created full taco (and can also supply it as [JSON](http://taco-randomizer.herokuapp.com/random/).
 
 * [Tacofancy API](https://github.com/evz/tacofancy-api) by [@evz](https://github.com/evz/) is a project to create an API from the objects on Tacofancy. The API drives the Taco Randomizer.
+
+* [@taco_fancy](http://www.twitter.com/taco_fancy) is a work-in-progress Twitter bot that tweets when a new file is added to the Tacofancy repo.
 
 * [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt) is a repo dedicated to documenting great taco locations, inspired by Tacofancy.
 
@@ -56,6 +58,6 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 Endnotes
 --------
 
-This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly. It started with just three recipes in it. Now it has dozens. Nice job, world.
+This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly. It started with just three recipes in it. Now it has many dozens. Nice job, world.
 
 Oh hi, I'm [@dansinker](https://www.twitter.com/dansinker).
