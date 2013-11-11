@@ -6,19 +6,19 @@ This is a community-driven taco recipe repo. Please fork and submit your own rec
 This repository contains a few different directories:
 
 * [full tacos](/full_tacos)
-    * this contains full descriptions of tacos. those tacos may contain additional elements from other directories.
+    * This contains full descriptions of tacos. Those tacos may contain additional elements from other directories.
 * [base layers](/base_layers)
-    * this is where you'll find meats, beans, tofu, and other things that make up the 'base' of your taco goodness.
+    * This is where you'll find meats, beans, tofu, and other things that make up the 'base' of your taco goodness.
 * [mixins](/mixins)
-    * the base is important, but what you add to it is what makes the taco glow.
+    * The base is important, but what you add to it is what makes the taco glow.
 * [condiments](/condiments)
-    * do you make a motherfucking *salsa*? do you know how to pickle your own jalapeños? yeah, put it here.
+    * Do you make a motherfucking *salsa*? Do you know how to pickle your own jalapeños? Yeah, put it here.
 * [seasonings](/seasonings)
-    * hot and spicy? rubs and mixes? it's all in here.
+    * Hot and spicy? Rubs and mixes? It's all in here.
 * [shells](/shells)
-    * your base layers and mixins and condiments have to go *into* something, right? put your tortilla recipes here.
+    * Your base layers and mixins and condiments have to go *into* something, right? Put your tortilla recipes here.
 * [like_tacos](/like_tacos)
-    * a collection of things that are like tacos, e.g. gua bao.
+    * A collection of things that are like tacos, e.g. gua bao.
 
 Full Index
 ----------
@@ -46,7 +46,7 @@ Tacofancy-Inspired Projects
 
 It's not just the tacos on Tacofancy that are open source, but the idea and the code too. There are some cool projects that are spinning off of Tacofancy, and it's worth collecting them here (if you're working on a tacofancy-inspired project, feel free to add it to this README)
 
-* [The Taco Randomizer](http://taco-randomizer.herokuapp.com/ ) need inspiration? the Taco Randomizer leverages Tacofancy to build a randomly created full taco (and can also supply it as [JSON](http://taco-randomizer.herokuapp.com/random/).
+* [The Taco Randomizer](http://taco-randomizer.herokuapp.com/ ) need inspiration? the Taco Randomizer leverages Tacofancy to build a randomly created full taco (and can also supply it as [JSON](http://taco-randomizer.herokuapp.com/random/)).
 
 * [Tacofancy API](https://github.com/evz/tacofancy-api) by [@evz](https://github.com/evz/) is a project to create an API from the objects on Tacofancy. The API drives the Taco Randomizer.
 
