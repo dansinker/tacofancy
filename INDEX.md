@@ -9,7 +9,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Baja Fish Tacos](/full_tacos/baja_fish_tacos.md)
 	* [Black Bean, Potato, and Onion Tacos (v)](/full_tacos/black_bean_potato_onion_tacos.md)
 	* [Cabbage Tacos (v)](/full_tacos/vegan_cabbage_tacos.md)
-	* [Chicken, Corn and Black Bean, with Pico de Gallo and Salsa de Aguacate](/full_tacos/chicken_corn_aguacate.md)
+	* [Chicken Verde, Corn and Black Bean, with Pico de Gallo and Salsa de Aguacate](/full_tacos/chicken_corn_aguacate.md)
 	* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](/full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 	* [Chorizo Scramble aka Mandy's Life-Saving Tacos](/full_tacos/chorizo_scramble.md)
 	* [Fish Tacos](/full_tacos/fish_tacos.md)
