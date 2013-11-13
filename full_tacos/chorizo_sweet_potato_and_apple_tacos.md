@@ -1,8 +1,9 @@
-Chorizo, Sweet Potato and Apple Tacos with  Chipotle Sauce
-==================================
+Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce
+=========================================================
 
-* [chorizo](/base_layers/chorizo.md)
-* [sweet potato and apple hash](/mixins/sweet_potato_and_apple_hash.md)
-* [chipotle sauce](/condiments/chipotle_sauce.md)
+* [Chorizo](/base_layers/chorizo.md)
+* [Sweet Potato and Apple Hash](/mixins/sweet_potato_and_apple_hash.md)
+* [Chipotlé Sauce](/condiments/chipotle_sauce.md)
 
-Can't wait to try these
+---
+Can't wait to try these...
