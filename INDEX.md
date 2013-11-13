@@ -43,6 +43,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Red Cabbage (v)](base_layers/red_cabbage.md)
 	* [Slow-cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 	* [Soyrizo (v)](base_layers/soyrizo.md)
+	* [Smokey Turkey](base_layers/smokey_turkey.mb)
 	* [Swiss Chard (v)](base_layers/swiss_chard.md)
 	* [Zucchini and Corn Filling (v)](base_layers/zucchini_corn.md)
 * [Mixins](/mixins)
