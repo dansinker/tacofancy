@@ -48,6 +48,7 @@ tags you like separated by commas.
 	* [Taco de rajas poblanas (v)](base_layers/rajas_poblanas.md)
 	* [Red Cabbage Filling (v)](base_layers/red_cabbage.md)
 	* [Slow-Cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+	* [@deezthugs' Smokey Turkey Tacos](base_layers/smokey_turkey.md)
 	* [Soyrizo (v)](base_layers/soyrizo.md)
 	* [Swiss Chard (v)](base_layers/swiss_chard.md)
 	* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
