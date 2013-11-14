@@ -65,7 +65,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Cashew Cheeze](condiments/cashew_cheeze.md)
 	* [Chipotle Sauce (v, but has dairy)](condiments/chipotle_sauce.md)
-	* [Garlic Lime Sauce (v, but has dairy)](condiments/garlic_lime_sauce.md) 
+	* [Garlic Lime Sauce (v, but has dairy)](condiments/garlic_lime_sauce.md)
 	* [Guacamole (v)](condiments/guacamole.md)
 	* [Guacamole (v; simple)](condiments/guacamole_simple.md)
 	* [Mango Avocado Salsa (v)](condiments/mango_avocado_salsa.md)
@@ -92,3 +92,4 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Chicken Makloub](like_tacos/Chicken_Makloub.md)
 	* [Taco Soup] (like_tacos/taco_soup.md)
 	* [Tunisian Makloub](like_tacos/Tunisian_makloub.md)
+  * [Pickle Pita](like_tacos/pickle_pita.md)
