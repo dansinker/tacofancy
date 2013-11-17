@@ -25,9 +25,9 @@ For the slaw:
 Directions
 ----------
 
-1. Combine all the dressing ingredients in a bowl, whirl them together until the sugar dissolves. Adjust the amount of sriracha in there to the heat you want your dressing to be.
+1. Combine all the dressing ingredients in a big bowl, whirl them together until the sugar dissolves. Adjust the amount of sriracha in there to the heat you want your dressing to be.
 
-2. Toss the chopped cabbage, onions, and cilantro in
+2. Toss the chopped cabbage, onions, and cilantro in with the dressing.
 
 3. Mix until everything is lightly dressed.
 
