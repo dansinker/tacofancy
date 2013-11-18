@@ -25,6 +25,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Baked Tilapia](base_layers/baked_tilapia.md)
 	* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
 	* [Better Than Powder Ground Beef](base_layers/better_than_powder_groundbeef.md)
+	* [Boiled Ground Beef](base_layers/boiled_ground_beef.md)
 	* [Bulgar Black Bean Filling (v)](base_layers/bulgar_black_bean_filling.md)
 	* [Carnitas](base_layers/carnitas.md)
 	* [Chopped Steak](base_layers/chopped_steak.md)
