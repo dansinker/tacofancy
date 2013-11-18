@@ -48,6 +48,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Zucchini and Corn Filling (v)](base_layers/zucchini_corn.md)
 * [Mixins](/mixins)
 	* [Cheese (Traditional; US)](mixins/cheese_traditional_us.md)
+    * [Green Chile Cabbage Salad (Untraditional; US; vegan)](mixins/green_chile_cabbage_salad.md)
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Drunken green beans (v)](mixins/drunken_greenbeans.md)
 	* [Lettuce (Traditional; US)](mixins/lettuce_traditional_us.md)
