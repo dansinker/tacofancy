@@ -39,6 +39,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/moroccan_lamb.md)
 	* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
 	* [Overly Seasoned Ground Beef](base_layers/overlyseasonedgroundbeef.md)
+    * [Pork Shoulder Roasted with Chiles and Onions](base_layers/pork_shoulder_with_chile_and_onions.md)
   	* [Rajas Poblanas (v)](base_layers/rajas_poblanas.md)
 	* [Red Cabbage (v)](base_layers/red_cabbage.md)
 	* [Slow-cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
