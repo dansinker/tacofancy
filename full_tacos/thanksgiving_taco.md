@@ -9,7 +9,7 @@ Let's do this
 You're going to need to prepare the following taco objects: 
 
 * [@Deezthugs' Smokey Turkey](/base_layers/smokey_turkey.md)
-* [Sweet Potato and Apple Hash](/sweet_potato_and_apple_hash.md)
+* [Sweet Potato and Apple Hash](/mixins/sweet_potato_and_apple_hash.md)
 * [Cranberry Salsa](/condiments/cranberry_salsa.md)
 * [Salsa de Aguacate](/condiments/salsa_de_aguacate.md)
 
