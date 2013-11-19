@@ -6,6 +6,8 @@ You know what would make Thanksgiving a lot better? If you tossed everything gre
 Let's do this
 -------------
 
+You're going to need to prepare the following taco objects: 
+
 * [@Deezthugs' Smokey Turkey](/base_layers/smokey_turkey.md)
 * [Sweet Potato and Apple Hash](/sweet_potato_and_apple_hash.md)
 * [Cranberry Salsa](/condiments/cranberry_salsa.md)
@@ -14,7 +16,9 @@ Let's do this
 Notes
 -----
 
-* Give yourself plenty of time here, the [Smokey Turkey](/base_layers/smokey_turkey.md) recipe takes a while and the [Cranberry Salsa](/condiments/salsa_de_aguacate.md) tastes better the longer you give its flavors to combine.
+* Give yourself plenty of time here, the [Smokey Turkey](/base_layers/smokey_turkey.md) recipe takes a while.
+
+* The * [Cranberry Salsa](/condiments/cranberry_salsa.md) is based assembled pretty close to eating. You can make the cranberries well ahead of time, but the longer this thing sits, the more it just tastes like cranberry sauce.
 
 * You can probably cut the size of the [Salsa de Aguacate](/condiments/salsa_de_aguacate.md) recipe by a third--the recipe makes a lot (then again, just means you've got toppings for another taco later in the week).
 
