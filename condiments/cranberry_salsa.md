@@ -24,6 +24,7 @@ Directions
 5. Make adjustments based on taste here. Your main variables are:
 	* Sweet vs tangy. Default right now is tangy. Add more sugar for sweet.
 	* Battling the overwhelmingness of the cranberries. You've got two things going with the cranberries here: flavor and texture. More onion will add more crunch to the whole thing, and help boost up the salsa-ness. Jalepeño is your heat adjustment--seeds are your friend. But the Cilantro is your big mover here: it helps to round out the sharpness of the cranberry. Lime also helps bring down the cranberry overload.
+	
 
 Orange Cranberry Salsa Holographic Varient Cover
 ------------------------------------------------
