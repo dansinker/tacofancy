@@ -20,6 +20,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Thanksgiving Tacos](/full_tacos/thanksgiving_taco.md)
 	* [Traditional American Taco](/full_tacos/traditional_american_taco.md)
 	* [Zuccini and Corn Tacos (v)](/full_tacos/zucchini_corn_tacos.md)
+	* [Slow Cooker Chicken in Chile de Arbol sauce](/full_tacos/slow_cooker_chicken_de_arbol.md)
 * [Base Layers](/base_layers)
 	* [Asian Marinated Tofu or Pork (v, with tofu)](base_layers/asian_marinade.md)
 	* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
