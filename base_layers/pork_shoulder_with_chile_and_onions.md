@@ -9,7 +9,6 @@ This was my attempt to re-create my most favorite _al pastor_ in Oakland -- the 
 
 Let's pause here for a second, 'cause there are a _lot_ of great chiles you could use. I think this is best with dried red chiles, and ambrosial if those chiles were smoked. That means chipotles, anchos, or Oaxacenos. It's difficult to give quantities on these things. It comes down to taste, hey? If you don't cook with these things often, or don't like spicy foods, use Oaxacenos -- one or maybe two total. If you like it hot, keep adding chipotles until your head explodes. I like spicy pork; I typically use 3-4 chiplotles, depending on size. If you aren't big on smoked chiles, look at a dried New Mexico red, or use fresh-ground _chiles pequenos_.
 
-##### Ingredients
 * 3-4 cloves garlic, peeled
 * Salt
 
