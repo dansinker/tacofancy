@@ -1,0 +1,23 @@
+Thanksgiving Taco
+=================
+
+You know what would make Thanksgiving a lot better? If you tossed everything great about it into a taco. This recipe combines a couple of favorites from Tacofancy along with a new riff on a Thanksgiving-appropriate salsa. There's a 95% chance that these will be featured on my Thanksgiving day table. YAY TACOS.
+
+Let's do this
+-------------
+
+* [@Deezthugs' Smokey Turkey](/base_layers/smokey_turkey.md)
+* [Sweet Potato and Apple Hash](/sweet_potato_and_apple_hash.md)
+* [Cranberry Salsa](/condiments/cranberry_salsa.md)
+* [Salsa de Aguacate](/condiments/salsa_de_aguacate.md)
+
+Notes
+-----
+
+* Give yourself plenty of time here, the [Smokey Turkey](/base_layers/smokey_turkey.md) recipe takes a while and the [Cranberry Salsa](/condiments/salsa_de_aguacate.md) tastes better the longer you give its flavors to combine.
+
+* You can probably cut the size of the [Salsa de Aguacate](/condiments/salsa_de_aguacate.md) recipe by a third--the recipe makes a lot (then again, just means you've got toppings for another taco later in the week).
+
+* If you really want to make the day extra-special, make your own [Fresh Corn Tortillas] (/shells/Fresh_corn_tortillas.md)
+
+* THANKSGIVING POWER ACTIVATE
