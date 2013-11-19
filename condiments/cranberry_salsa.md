@@ -6,9 +6,9 @@ Ingredients
 * 1 bag cranberries
 * 1 cup water
 * 3/4 cup sugar
-* half a small white onion
-* 1 jalepeño
-* 1 bunch cilantro
+* half a small white onion (chopped)
+* 1 jalepeño, chopped small (remove seeds & wash for less heat)
+* 1 bunch cilantro (cut up)
 * 1 lime
 
 Directions
@@ -21,7 +21,9 @@ Directions
 
 4. Combine everything, and give a good squeeze of lime over the whole thing. As you combine, you'll notice that the cranberries just give up their shape entirely. Also: Don't wear your finest clothing when you do this--this shit _stains_.
 
-5. Taste it, you can add more sugar at this point if it's too tangy for you. Plus more onion, or jalepeño or cilantro. The Cilantro is your big mover here: it helps to round out the sharpness of the cranberry. Lime also helps bring down the cranberry overload.
+5. Make adjustments based on taste here. Your main variables are:
+	* Sweet vs tangy. Default right now is tangy. Add more sugar for sweet.
+	* Battling the overwhelmingness of the cranberries. You've got two things going with the cranberries here: flavor and texture. More onion will add more crunch to the whole thing, and help boost up the salsa-ness. Jalepeño is your heat adjustment--seeds are your friend. But the Cilantro is your big mover here: it helps to round out the sharpness of the cranberry. Lime also helps bring down the cranberry overload.
 
 Orange Cranberry Salsa Holographic Varient Cover
 ------------------------------------------------
