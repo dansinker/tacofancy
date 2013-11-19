@@ -1,7 +1,7 @@
 Thanksgiving Taco
 =================
 
-You know what would make Thanksgiving a lot better? If you tossed everything great about it into a taco. This recipe combines a few favorites from Tacofancy along with a new riff on a Thanksgiving-appropriate salsa. There's a 98% chance that these will be featured on my Thanksgiving day table (the 2% is I die before Thanksgiving).
+You know what would make Thanksgiving a lot better? If you tossed everything great about it into a taco. This recipe combines a few favorites from Tacofancy along with a [new riff](/condiments/cranberry_salsa.md) on a Thanksgiving-appropriate salsa. There's a 98% chance that these will be featured on my Thanksgiving day table (the 2% is I die before Thanksgiving).
 
 Let's do this
 -------------
