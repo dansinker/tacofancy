@@ -73,6 +73,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Garlic Lime Sauce (v, but has dairy)](condiments/garlic_lime_sauce.md)
 	* [Guacamole (v)](condiments/guacamole.md)
 	* [Guacamole (v; simple)](condiments/guacamole_simple.md)
+	* [Kimchi](condiments/kimchi.md)
 	* [Mango Avocado Salsa (v)](condiments/mango_avocado_salsa.md)
 	* [Mango Lime Salsa (v)](condiments/mango_lime_salsa.md)
 	* [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
