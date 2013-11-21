@@ -55,6 +55,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Drunken green beans (v)](mixins/drunken_greenbeans.md)
 	* [Lettuce (Traditional; US)](mixins/lettuce_traditional_us.md)
+	* [Pomegranate Seeds](mixins/pomegranate_seeds.md)
 	* [Potato Hash](mixins/Potato_hash.md)
 	* [Sweet Potato and Apple Hash (v, substitute butter)](mixins/sweet_potato_and_apple_hash.md)
 	* [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md)
