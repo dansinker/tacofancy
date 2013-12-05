@@ -1,111 +1,106 @@
-full index ---------- Do you want a great contributor job? Keeping this index
-up-to-date would be awesome. You don't even need to know how to cook--just check
-that the listing reflects the entire contents of each main taco object
-directory. If something's missing, add it in. Alphabetical order, please.
+full index
+----------
+Do you want a great contributor job? Keeping this index up-to-date would be awesome. You don't even need to know how to cook--just check that the listing reflects the entire contents of each main taco object directory. If something's missing, add it in. Alphabetical order, please.
 
-Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh
-sad.
+Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh sad.
 
-    -   [Full Tacos](</full_tacos>) 	* [Asian Style
-        Tacos](/full_tacos/asian_style_tacos.md) 	* [Baja Fish
-        Tacos](</full_tacos/baja_fish_tacos.md>) 	* [Black Bean, Potato, and
-        Onion Tacos (v)](/full_tacos/black_bean_potato_onion_tacos.md) 	*
-        [Cabbage Tacos (v)](</full_tacos/vegan_cabbage_tacos.md>) 	* [Chicken
-        Verde, Corn and Black Bean, with Pico de Gallo and Salsa de
-        Aguacate](/full_tacos/chicken_corn_aguacate.md) 	* [Chorizo, Sweet
-        Potato and Apple Tacos with Chipotle
-        Sauce](</full_tacos/chorizo_sweet_potato_and_apple_tacos.md>) 	*
-        [Chorizo Scramble aka Mandy's Life-Saving
-        Tacos](/full_tacos/chorizo_scramble.md) 	* [Fish
-        Tacos](</full_tacos/fish_tacos.md>) 	* [Moroccan Lamb
-        Tacos](/full_tacos/moroccan_lamb_taco.md) 	* [Pulled Pork, Chard, and
-        Pickled Onion Tacos](</full_tacos/pork_chard_onion.md>) 	* [Steak, Sweet
-        Potato and Apple
-        Tacos](/full_tacos/steak_sweet_potato_and_apple_tacos.md) 	* [Swiss
-        Chard Tacos (v if you use veggie
-        broth)](</full_tacos/swiss_chard_tacos.md>) 	* [Thanksgiving
-        Tacos](/full_tacos/thanksgiving_taco.md) 	* [Traditional American
-        Taco](</full_tacos/traditional_american_taco.md>) 	* [Zuccini and Corn
-        Tacos (v)](/full_tacos/zucchini_corn_tacos.md) 	* [Slow Cooker Chicken
-        in Chile de Arbol sauce](</full_tacos/slow_cooker_chicken_de_arbol.md>)
-        * [Base Layers](/base_layers) 	* [Asian Marinated Tofu or Pork (v, with
-        tofu)](<base_layers/asian_marinade.md>) 	* [Baja Beer Battered
-        Fish](base_layers/baja_beer_batter.md) 	* [Baked
-        Tilapia](<base_layers/baked_tilapia.md>) 	* [Basic Shredded
-        Chicken](base_layers/basic_shredded_chicken.md) 	* [Better Than Powder
-        Ground Beef](<base_layers/better_than_powder_groundbeef.md>) 	* [Boiled
-        Ground Beef](base_layers/boiled_ground_beef.md) 	* [Bulgar Black Bean
-        Filling (v)](<base_layers/bulgar_black_bean_filling.md>) 	*
-        [Carnitas](base_layers/carnitas.md) 	* [Chopped
-        Steak](<base_layers/chopped_steak.md>) 	*
-        [Chorizo](base_layers/chorizo.md) 	* [Crock Pot Pulled
-        Pork](<base_layers/crock_pot_pulled_pork.md>) 	* [Delengua (beef
-        Tongue)](base_layers/tacosdelengua.md) 	* [Garlic Black Beans
-        (v)](<base_layers/garlic_black_beans.md>) 	* [Ground Beef (Traditional;
-        US)](base_layers/ground_beef_traditional_us.md) 	* [Insane Garlic Ground
-        Turkey](<base_layers/insane_garlic_ground_turkey.md>) 	* [Lightly
-        Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md) 	*
-        [Marinated Portobello Mushroom
-        (v)](<base_layers/marinated_portobello.md>) 	* [Moroccan Lamb: A
-        differently spiced meat than your usual
-        taco](base_layers/moroccan_lamb.md) 	* [North Carolina Battered
-        Catfish](<base_layers/battered_catfish.md>) 	* [Overly Seasoned Ground
-        Beef](base_layers/overlyseasonedgroundbeef.md) * [Pork Shoulder Roasted
-        with Chiles and
-        Onions](<base_layers/pork_shoulder_with_chile_and_onions.md>)   	*
-        [Rajas Poblanas (v)](base_layers/rajas_poblanas.md) 	* [Red Cabbage
-        (v)](<base_layers/red_cabbage.md>) 	* [Slow-cooked Salsa Verde
-        Chicken](base_layers/slow_cooked_salsa_verde_chicken.md) 	* [Soyrizo
-        (v)](<base_layers/soyrizo.md>) 	* [Smokey
-        Turkey](base_layers/smokey_turkey.md) 	* [Swiss Chard
-        (v)](<base_layers/swiss_chard.md>) 	* [Zucchini and Corn Filling
-        (v)](base_layers/zucchini_corn.md) * [Mixins](</mixins>) 	* [Cheese
-        (Traditional; US)](mixins/cheese_traditional_us.md) * [Green Chile
-        Cabbage Salad (Untraditional; US;
-        vegan)](<mixins/green_chile_cabbage_salad.md>) 	* [Corn Salad
-        (v)](mixins/Corn_Salad.md) 	* [Drunken green beans
-        (v)](<mixins/drunken_greenbeans.md>) 	* [Lettuce (Traditional;
-        US)](mixins/lettuce_traditional_us.md) 	* [Pomegranate
-        Seeds](<mixins/pomegranate_seeds.md>) 	* [Potato
-        Hash](mixins/Potato_hash.md) 	* [Sweet Potato and Apple Hash (v,
-        substitute butter)](<mixins/sweet_potato_and_apple_hash.md>) 	*
-        [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md) 	*
-        [Traditional Taco Mixins (v, but has
-        dairy)](<mixins/traditional_taco_mixins.md>) 	* [Veggies for Fish Tacos
-        (v)](mixins/veg_for_fish_tacos.md) * [Condiments](</condiments>) 	*
-        [Asian Pickled Veggies](condiments/pickled_vegetables.md) 	* [Baja White
-        Sauce](<condiments/baja_white_sauce.md>) 	* [Beet Salsa
-        (v)](condiments/beet_salsa.md) 	* [Black Olives
-        (v)](<condiments/black_olives.md>) 	* [Cashew
-        Cheeze](condiments/cashew_cheeze.md)   	* [Chile de Árbol Sauce
-        (v)](<condiments/chile_de_arbol_sauce.md>) 	* [Corn Salad
-        (v)](mixins/Corn_Salad.md) 	* [Chipotle Sauce (v, but has
-        dairy)](<condiments/chipotle_sauce.md>) 	* [Cranberry Salsa
-        (v)](condiments/cranberry_salsa.md) 	* [Garlic Lime Sauce (v, but has
-        dairy)](<condiments/garlic_lime_sauce.md>) 	* [Guacamole
-        (v)](condiments/guacamole.md) 	* [Guacamole (v;
-        simple)](<condiments/guacamole_simple.md>) 	*
-        [Kimchi](condiments/kimchi.md) 	* [Mango Avocado Salsa
-        (v)](<condiments/mango_avocado_salsa.md>) 	* [Mango Lime Salsa
-        (v)](condiments/mango_lime_salsa.md) 	* [Phoning it in Pico de Gallo
-        (v)](<condiments/Pico_de_gallo.md>) 	* [Pickled Red Onions
-        (v)](condiments/pickled_red_onions.md) 	* [Roasted Tomatillo & Mushroom
-        Sauce (v)](<condiments/roasted_tomatillo.md>) 	* [Salsa de Aguacate
-        (v)](condiments/salsa_de_aguacate.md) 	* [Salsa Sauce
-        (v)](<condiments/salsa_sauce.md>) 	* [Simple Salsa Verde
-        (v)](condiments/simple_salsa_verde.md) 	* [Sour
-        Cream](<condiments/sour_cream.md>) * [Seasonings](/seasonings) 	* [Mahi
-        Mahi Rub (v)](<seasonings/mahimahirub.md>) 	* [Packaged
-        Seasonings](seasonings/packaged_seasonings.md) 	* [Quick and Dirty Spice
-        Mix](<seasonings/quick_and_dirty_spice_mix.md>) 	* [Sriracha Salt
-        (v)](seasonings/sriracha_salt.md) 	* [Universal Taco Seasoning
-        (v)](<seasonings/universal_taco_seasoning.md>) 	* [Zaatar
-        (v)](seasonings/zaatar.md) * [Shells](</shells>) 	* [Fresh Corn
-        Tortillas](shells/Fresh_corn_tortillas.md) 	* [Hard Corn Shells
-        (Traditional; US)](<shells/hard_corn_traditional_us.md>) * [Like
-        Tacos](/like_tacos) 	* [Baked Taquitos](<like_tacos/baked_taquitos.md>)
-        * [Choco Taco](like_tacos/choco_taco.md) 	* [Chicken
-        Makloub](<like_tacos/Chicken_Makloub.md>) 	* [Taco Burger]
-        (like_tacos/taco_burger.md) 	* [Taco Soup] (like_tacos/taco_soup.md) 	*
-        [Tunisian Makloub](like_tacos/Tunisian_makloub.md)   * [Pickle
-        Pita](<like_tacos/pickle_pita.md>)	* [Yogurt] (condiments/yogurt.md)*
+* [Full Tacos](/full_tacos)
+	* [Asian Style Tacos](/full_tacos/asian_style_tacos.md)
+	* [Baja Fish Tacos](/full_tacos/baja_fish_tacos.md)
+	* [Black Bean, Potato, and Onion Tacos (v)](/full_tacos/black_bean_potato_onion_tacos.md)
+	* [Cabbage Tacos (v)](/full_tacos/vegan_cabbage_tacos.md)
+	* [Chicken Verde, Corn and Black Bean, with Pico de Gallo and Salsa de Aguacate](/full_tacos/chicken_corn_aguacate.md)
+	* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](/full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
+	* [Chorizo Scramble aka Mandy's Life-Saving Tacos](/full_tacos/chorizo_scramble.md)
+	* [Fish Tacos](/full_tacos/fish_tacos.md)
+	* [Moroccan Lamb Tacos](/full_tacos/moroccan_lamb_taco.md)
+	* [Pulled Pork, Chard, and Pickled Onion Tacos](/full_tacos/pork_chard_onion.md)
+	* [Steak, Sweet Potato and Apple Tacos](/full_tacos/steak_sweet_potato_and_apple_tacos.md)
+	* [Swiss Chard Tacos (v if you use veggie broth)](/full_tacos/swiss_chard_tacos.md)
+	* [Thanksgiving Tacos](/full_tacos/thanksgiving_taco.md)
+	* [Traditional American Taco](/full_tacos/traditional_american_taco.md)
+	* [Zuccini and Corn Tacos (v)](/full_tacos/zucchini_corn_tacos.md)
+	* [Slow Cooker Chicken in Chile de Arbol sauce](/full_tacos/slow_cooker_chicken_de_arbol.md)
+* [Base Layers](/base_layers)
+	* [Asian Marinated Tofu or Pork (v, with tofu)](base_layers/asian_marinade.md)
+	* [Baja Beer Battered Fish](base_layers/baja_beer_batter.md)
+	* [Baked Tilapia](base_layers/baked_tilapia.md)
+	* [Basic Shredded Chicken](base_layers/basic_shredded_chicken.md)
+	* [Better Than Powder Ground Beef](base_layers/better_than_powder_groundbeef.md)
+	* [Boiled Ground Beef](base_layers/boiled_ground_beef.md)
+	* [Bulgar Black Bean Filling (v)](base_layers/bulgar_black_bean_filling.md)
+	* [Carnitas](base_layers/carnitas.md)
+	* [Chopped Steak](base_layers/chopped_steak.md)
+	* [Chorizo](base_layers/chorizo.md)
+	* [Crock Pot Pulled Pork](base_layers/crock_pot_pulled_pork.md)
+	* [Delengua (beef Tongue)](base_layers/tacosdelengua.md)
+	* [Garlic Black Beans (v)](base_layers/garlic_black_beans.md)
+	* [Ground Beef (Traditional; US)](base_layers/ground_beef_traditional_us.md)
+	* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
+	* [Lightly Seasoned Beef](base_layers/aredridel_lightly_seasoned_beef.md)
+	* [Marinated Portobello Mushroom (v)](base_layers/marinated_portobello.md)
+	* [Moroccan Lamb: A differently spiced meat than your usual taco](base_layers/moroccan_lamb.md)
+	* [North Carolina Battered Catfish](base_layers/battered_catfish.md)
+	* [Overly Seasoned Ground Beef](base_layers/overlyseasonedgroundbeef.md)
+    * [Pork Shoulder Roasted with Chiles and Onions](base_layers/pork_shoulder_with_chile_and_onions.md)
+  	* [Rajas Poblanas (v)](base_layers/rajas_poblanas.md)
+	* [Red Cabbage (v)](base_layers/red_cabbage.md)
+	* [Slow-cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
+	* [Soyrizo (v)](base_layers/soyrizo.md)
+	* [Smokey Turkey](base_layers/smokey_turkey.md)
+	* [Swiss Chard (v)](base_layers/swiss_chard.md)
+	* [Zucchini and Corn Filling (v)](base_layers/zucchini_corn.md)
+* [Mixins](/mixins)
+	* [Cheese (Traditional; US)](mixins/cheese_traditional_us.md)
+    * [Green Chile Cabbage Salad (Untraditional; US; vegan)](mixins/green_chile_cabbage_salad.md)
+	* [Corn Salad (v)](mixins/Corn_Salad.md)
+	* [Drunken green beans (v)](mixins/drunken_greenbeans.md)
+	* [Lettuce (Traditional; US)](mixins/lettuce_traditional_us.md)
+	* [Pomegranate Seeds](mixins/pomegranate_seeds.md)
+	* [Potato Hash](mixins/Potato_hash.md)
+	* [Sweet Potato and Apple Hash (v, substitute butter)](mixins/sweet_potato_and_apple_hash.md)
+	* [Tomatoes (Traditional; US)](mixins/tomatoes_traditional_us.md)
+	* [Traditional Taco Mixins (v, but has dairy)](mixins/traditional_taco_mixins.md)
+	* [Veggies for Fish Tacos (v)](mixins/veg_for_fish_tacos.md)
+* [Condiments](/condiments)
+	* [Asian Pickled Veggies](condiments/pickled_vegetables.md)
+	* [Baja White Sauce](condiments/baja_white_sauce.md)
+	* [Beet Salsa (v)](condiments/beet_salsa.md)
+	* [Black Olives (v)](condiments/black_olives.md)
+	* [Cashew Cheeze](condiments/cashew_cheeze.md)
+  	* [Chile de Árbol Sauce (v)](condiments/chile_de_arbol_sauce.md)
+	* [Corn Salad (v)](mixins/Corn_Salad.md)
+	* [Chipotle Sauce (v, but has dairy)](condiments/chipotle_sauce.md)
+	* [Cranberry Salsa (v)](condiments/cranberry_salsa.md)
+	* [Garlic Lime Sauce (v, but has dairy)](condiments/garlic_lime_sauce.md)
+	* [Guacamole (v)](condiments/guacamole.md)
+	* [Guacamole (v; simple)](condiments/guacamole_simple.md)
+	* [Kimchi](condiments/kimchi.md)
+	* [Mango Avocado Salsa (v)](condiments/mango_avocado_salsa.md)
+	* [Mango Lime Salsa (v)](condiments/mango_lime_salsa.md)
+	* [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
+	* [Pickled Red Onions (v)](condiments/pickled_red_onions.md)
+	* [Roasted Tomatillo & Mushroom Sauce (v)](condiments/roasted_tomatillo.md)
+	* [Salsa de Aguacate (v)](condiments/salsa_de_aguacate.md)
+	* [Salsa Sauce (v)](condiments/salsa_sauce.md)
+	* [Simple Salsa Verde (v)](condiments/simple_salsa_verde.md)
+	* [Sour Cream](condiments/sour_cream.md)
+	* [Yogurt] (condiments/yogurt.md)
+* [Seasonings](/seasonings)
+	* [Mahi Mahi Rub (v)](seasonings/mahimahirub.md)
+	* [Packaged Seasonings](seasonings/packaged_seasonings.md)
+	* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
+	* [Sriracha Salt (v)](seasonings/sriracha_salt.md)
+	* [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
+	* [Zaatar (v)](seasonings/zaatar.md)
+* [Shells](/shells)
+	* [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
+	* [Hard Corn Shells (Traditional; US)](shells/hard_corn_traditional_us.md)
+* [Like Tacos](/like_tacos)
+	* [Baked Taquitos](like_tacos/baked_taquitos.md)
+	* [Choco Taco](like_tacos/choco_taco.md)
+	* [Chicken Makloub](like_tacos/Chicken_Makloub.md)
+	* [Taco Burger] (like_tacos/taco_burger.md)
+	* [Taco Soup] (like_tacos/taco_soup.md)
+	* [Tunisian Makloub](like_tacos/Tunisian_makloub.md)
+  * [Pickle Pita](like_tacos/pickle_pita.md)
