@@ -45,6 +45,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
     * [Pork Shoulder Roasted with Chiles and Onions](base_layers/pork_shoulder_with_chile_and_onions.md)
   	* [Rajas Poblanas (v)](base_layers/rajas_poblanas.md)
 	* [Red Cabbage (v)](base_layers/red_cabbage.md)
+	* [Seasoned Lentils (v)](base_layers/seasoned_lentils.md)
 	* [Slow-cooked Salsa Verde Chicken](base_layers/slow_cooked_salsa_verde_chicken.md)
 	* [Soyrizo (v)](base_layers/soyrizo.md)
 	* [Smokey Turkey](base_layers/smokey_turkey.md)
