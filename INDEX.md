@@ -86,6 +86,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Salsa Sauce (v)](condiments/salsa_sauce.md)
 	* [Simple Salsa Verde (v)](condiments/simple_salsa_verde.md)
 	* [Sour Cream](condiments/sour_cream.md)
+	* [Yogurt] (condiments/yogurt.md)
 * [Seasonings](/seasonings)
 	* [Mahi Mahi Rub (v)](seasonings/mahimahirub.md)
 	* [Packaged Seasonings](seasonings/packaged_seasonings.md)
