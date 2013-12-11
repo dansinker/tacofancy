@@ -94,6 +94,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Sriracha Salt (v)](seasonings/sriracha_salt.md)
 	* [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
 	* [Zaatar (v)](seasonings/zaatar.md)
+	* [Homemade Sriracha](seasonings/homemade_sriracha.md)
 * [Shells](/shells)
 	* [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
 	* [Hard Corn Shells (Traditional; US)](shells/hard_corn_traditional_us.md)
