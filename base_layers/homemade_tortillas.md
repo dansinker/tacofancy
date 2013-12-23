@@ -1,6 +1,8 @@
 bad-ass tortillas
 =====================
 
+If you are making tacos, don't settle for corporate store bought tortillas. Make your own like a real person!
+
 First get a cast iron pan:
 
 ![](./pan.jpg)
