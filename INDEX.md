@@ -98,6 +98,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 * [Shells](/shells)
 	* [Fresh Corn Tortillas](shells/Fresh_corn_tortillas.md)
 	* [Hard Corn Shells (Traditional; US)](shells/hard_corn_traditional_us.md)
+	* [Homemade Tortillas](shells/homemade_tortillas.md)
 * [Like Tacos](/like_tacos)
 	* [Baked Taquitos](like_tacos/baked_taquitos.md)
 	* [Choco Taco](like_tacos/choco_taco.md)
