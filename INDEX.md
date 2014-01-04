@@ -41,6 +41,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 * [Condiments](/condiments)
 	* [Asian Picked Veggies](condiments/pickled_vegetables.md)
 	* [Chipotle Sauce](condiments/chipotle_sauce.md)
+	* [Mango Avocado Pico de Gallo](condiments/mango_avocado_pico.md)
     * [Phoning it in Pico de Gallo (v)](condiments/Pico_de_gallo.md)
     * [Pickled Red Onions (v)](condiments/pickled_red_onions.md)
     * [Salsa Sauce (v)](condiments/salsa_sauce.md)
