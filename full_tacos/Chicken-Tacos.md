@@ -2,14 +2,7 @@ These super-easy tacos simplify weeknight dinner prep with store-bought ingredie
 
 *Ingrediants*
 
-- 1 store-bought rotisserie chicken
-- 2 cups store-bought red or green salsa
-- 8 taco shells
-- 1 cup (4 ounces) grated Cheddar or Monterey Jack cheese
-- 8 sprigs fresh cilantro (optional)
-- 1/2 cup sour cream
-- 1 avocado, chopped
-- 1 lime, quartered
+https://github.com/sharksfan98/tacofancy/blob/master/base_layers/Chicken-Tacos.md
 
 *Preparation*
 
