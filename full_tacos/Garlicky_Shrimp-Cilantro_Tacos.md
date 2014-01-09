@@ -2,16 +2,7 @@ Combining sweet onions, garlic, and chiles with the classic Mexican flavors of s
 
 *Ingrediants*
 
-- 1/4 cup vegetable oil
-- 1 pound white onions, peeled and thinly sliced
-- 2 or 3 serrano chiles, stemmed, seeded, and thinly sliced (see Notes)
-- 4 tablespoons butter
-- 3 tablespoons finely chopped garlic
-- 2 1/2 pounds shrimp (21 to 25 per lb.), peeled, deveined, and halved lengthwise
-- 1 cup coarsely chopped fresh cilantro
-- Kosher salt
-- 32 corn tortillas, warmed (5 to 6 in.; see Notes) 
-- 2 limes, cut into wedges
+https://github.com/sharksfan98/tacofancy/blob/master/base_layers/Garlicky_Shrimp-Cilantro_Tacos.md
 
 *Preparation*
 
