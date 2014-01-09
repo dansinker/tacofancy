@@ -1,0 +1,8 @@
+- 1 store-bought rotisserie chicken
+- 2 cups store-bought red or green salsa
+- 8 taco shells
+- 1 cup (4 ounces) grated Cheddar or Monterey Jack cheese
+- 8 sprigs fresh cilantro (optional)
+- 1/2 cup sour cream
+- 1 avocado, chopped
+- 1 lime, quartered
