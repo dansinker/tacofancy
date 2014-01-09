@@ -1,0 +1,8 @@
+-1/4 cup thinly sliced green onions
+-1/4 cup chopped fresh cilantro
+-3 tablespoons fat-free mayonnaise
+-3 tablespoons reduced-fat sour cream
+-1 teaspoon grated lime rind
+-1 1/2 teaspoons fresh lime juice
+-1/4 teaspoon salt
+-1 garlic clove, minced
