@@ -1,26 +1,13 @@
 Fish makes a great taco filling! In this version, the light crema balances the smoky flavor of the fish, seasoned with cumin, coriander, and paprika. And don't worry, "crema" is just a fancy name for a simple sour cream sauce.
 
-*Crema*:
-- 1/4 cup thinly sliced green onions
-- 1/4 cup chopped fresh cilantro
-- 3 tablespoons fat-free mayonnaise
-- 3 tablespoons reduced-fat sour cream
-- 1 teaspoon grated lime rind
-- 1 1/2 teaspoons fresh lime juice
-- 1/4 teaspoon salt
-- 1 garlic clove, minced
+*Crema*
+
+https://github.com/sharksfan98/tacofancy/blob/master/condiments/Lime-Cilantro-Crema.md
+
 
 *Tacos*:
-- 1 teaspoon ground cumin
-- 1 teaspoon ground coriander
-- 1/2 teaspoon smoked paprika
-- 1/4 teaspoon ground red pepper
-- 1/8 teaspoon salt
-- 1/8 teaspoon garlic powder
-- 1 1/2 pounds red snapper fillets
-- Cooking spray
-- 8 (6-inch) corn tortillas
-- 2 cups shredded cabbage 
+
+https://github.com/sharksfan98/tacofancy/blob/master/base_layers/fishtacos.md
 
 *Preparation*
 
