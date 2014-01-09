@@ -1,0 +1,10 @@
+-1 teaspoon ground cumin
+-1 teaspoon ground coriander
+-1/2 teaspoon smoked paprika
+-1/4 teaspoon ground red pepper
+-1/8 teaspoon salt
+-1/8 teaspoon garlic powder
+-1 1/2 pounds red snapper fillets
+-Cooking spray
+-8 (6-inch) corn tortillas
+-2 cups shredded cabbage

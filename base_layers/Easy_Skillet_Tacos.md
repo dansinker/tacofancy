@@ -1,0 +1,14 @@
+- 1 pound ground beef
+- 1 small onion, chopped
+- 1 teaspoon olive oil
+- 1 tablespoon chili powder
+- 1 1/2 teaspoons ground cumin
+- 1 teaspoon salt
+- 1 (15-ounce) can pinto beans, rinsed and drained
+- 1 (8-ounce) can tomato sauce
+- 3/4 cup water
+- 1/2 cup salsa
+- 1 1/2 cups (6 ounces) shredded Cheddar cheese
+- 1 tablespoon chopped fresh cilantro
+- Taco shells or flour tortillas, warmed
+- Toppings: shredded lettuce, diced tomatoes, salsa, sour cream
