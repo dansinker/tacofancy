@@ -65,7 +65,6 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Traditional Taco Mixins (v, but has dairy)](mixins/traditional_taco_mixins.md)
 	* [Veggies for Fish Tacos (v)](mixins/veg_for_fish_tacos.md)
 * [Condiments](/condiments)
-<<<<<<< HEAD
 	* [Asian Pickled Veggies](condiments/pickled_vegetables.md)
 	* [Baja White Sauce](condiments/baja_white_sauce.md)
 	* [Beet Salsa (v)](condiments/beet_salsa.md)
