@@ -7,4 +7,4 @@ If you like a lighter asian style taco with no cheese, give this one a try.
 * Make some guacamole (add in a teaspoon of sesame oil and toasted sesame seeds to your recipe)
 * Top with [asian pickled veggies](../condiments/pickled_vegetables.md)
 * And [cabbage slaw](../condiments/asian_cabbage.md)
-* __NOM__
+* *__NOM__*

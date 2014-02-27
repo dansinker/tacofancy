@@ -17,7 +17,7 @@ A sort of taco for when you're hungry, but not super coordinated.
 
 ## Testimonies
 
-> I have had literally hundreds of these, they are really good. -@cmcavoy
+> I have had literally hundreds of these, they are really good. -[@cmcavoy](https://twitter.com/cmcavoy)
 
 ## FAQ
 
