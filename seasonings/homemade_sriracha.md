@@ -16,7 +16,7 @@ A few tips before starting:
 * 6 cloves garlic, peeled.
 * 1 tablespoon kosher salt.
 * 4 tablespoons palm sugar (light brown sugar can be substituted, see notes).
-* ½ cup cane vinegar (or rice wine vinegar, see notes).
+* ½ cup cane vinegar (or rice wine vinegar, [see notes](https://github.com/sinker/tacofancy/blob/master/seasonings/homemade_sriracha.md#notes)).
 
 ### Directions
 
