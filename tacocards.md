@@ -60,3 +60,13 @@
 * universal taco seasoning
 
 ##Compiled Tacos (10)
+* baja fish tacos
+* black bean potato onion
+* chicken corn aguacate
+* chorizo sweet potato and apple
+* moroccan lamb taco
+* pork chard onion
+* zucchini corn tacos
+* vegan cabbage tacos
+* slow cooker chicken de arbol
+* SRIRACHA PORK (still to write)
