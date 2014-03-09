@@ -95,6 +95,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Mahi Mahi Rub (v)](seasonings/mahimahirub.md)
 	* [Packaged Seasonings](seasonings/packaged_seasonings.md)
 	* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
+	* [Sriracha Marinade (v)](seasonings/sriracha_marinade.md)
 	* [Sriracha Salt (v)](seasonings/sriracha_salt.md)
 	* [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
 	* [Zaatar (v)](seasonings/zaatar.md)
