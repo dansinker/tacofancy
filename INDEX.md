@@ -106,6 +106,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Baked Taquitos](like_tacos/baked_taquitos.md)
 	* [Choco Taco](like_tacos/choco_taco.md)
 	* [Chicken Makloub](like_tacos/Chicken_Makloub.md)
+	* [Drunk Nachos](like_tacos/drunk_nachos.md)
 	* [Pickle Pita](like_tacos/pickle_pita.md)
 	* [Taco Burger] (like_tacos/taco_burger.md)
 	* [Taco Soup] (like_tacos/taco_soup.md)
