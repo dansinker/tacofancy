@@ -6,8 +6,8 @@ For those shameful late-night moments after da club when all you need are cheese
 ### Ingredients
 
 * One bag of tortilla chips
-* A handful (or two... or three..) of shredded Mexican cheese blend
-* Any random stuff you have lying around you think would taste good delivered atop a bed of cheese and chips. Any leftover mixins or condiments you have laying around from a proper taco dinner would be BOMB.
+* A handful (or two... or three..) of [cheese](../mixins/cheese_traditional_us.md)
+* Any random stuff you have lying around you think would taste good delivered atop a bed of cheese and chips. Any leftover [mixins](../mixins) or [condiments](../condiments) you have laying around from a proper taco dinner would be BOMB.
 
 ### Directions
 
