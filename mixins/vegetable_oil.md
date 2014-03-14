@@ -1,4 +1,4 @@
-Garlic
+Vegetable Oil
 ======================
 
-3 cloves garlic
+2 tablespoons vegetable oil, divided
