@@ -41,6 +41,11 @@ Are You New to Github But Want to Contribute?
 
 No better time than the present to learn Git! Thankfully, this repo is pretty simple. Github makes some amazing [guides](http://guides.github.com) that are a great starting point. Specifically, I'd recommend you start with the [Understanding the Github Workflow](http://guides.github.com/overviews/flow/) guide, which is an awesome top-level explanation of how all this works. From there, pretty much everything you'd want to know to contribute to Tacofancy is contained in Github's very handy [Forking Projects guide](http://guides.github.com/overviews/forking/) section. Beyond that, their [help section](https://help.github.com) is crazy helpful.
 
+Are you using Tacofancy to Teach Github?
+------------------------------------------
+
+That's awesome! Tacofancy *is* a great way to teach the basics of the Github workflow. But keep in mind that Tacofancy is a working repo. Our recommended workflow for teaching from Tacofancy is to create your own fork, have your students fork from that so they are submitting pull requests to your fork. From there, you can help them through the hard bits, make sure they're operating at maximum deliciousness, and then submit a pull request to this repo with their stuff. 
+
 Tacofancy-Inspired Projects
 ---------------------------
 
