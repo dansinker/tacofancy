@@ -34,12 +34,12 @@ Notes on Writing & Naming Conventions
 We want YOU, yes, YOU, to submit your amazing recipes to Tacofancy, so we've made it super easy to fork, create, and submit pull requests with your additions to the repo. But PLEASE read the [Writing For Tacofancy](WRITING.md) document for a full (but quick) explanation on how to best write your recipes.
 
 [Writing for Tacofancy](WRITING.md)
-  
+
 
 Are You New to Github But Want to Contribute?
 ------------------------------------------------------
 
-No better time than the present to learn Git! Thankfully, this repo is pretty simple, and pretty much everything you'd want to know is contained in Github's very handy [Fork A Repo](https://help.github.com/articles/fork-a-repo) section on their also super good [help section](https://help.github.com).
+No better time than the present to learn Git! Thankfully, this repo is pretty simple. Github makes some amazing [guides](http://guides.github.com) that are a great starting point. Specifically, I'd recommend you start with the [Understanding the Github Workflow](http://guides.github.com/overviews/flow/) guide, which is an awesome top-level explanation of how all this works. From there, pretty much everything you'd want to know to contribute to Tacofancy is contained in Github's very handy [Forking Projects guide](http://guides.github.com/overviews/forking/) section. Beyond that, their [help section](https://help.github.com) is crazy helpful.
 
 Tacofancy-Inspired Projects
 ---------------------------
