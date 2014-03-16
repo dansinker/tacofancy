@@ -1,3 +1,6 @@
+Sriracha Marinade
+===================
+
 Alone on a Saturday night, I put on Iron Maiden, cubed up a pork chop and whipped this marinade together:
 
 * 2-3 Tbs sriracha sauce
