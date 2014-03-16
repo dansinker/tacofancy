@@ -24,7 +24,6 @@ tags you like separated by commas.
 	* [Sriracha Pork Tacos](full_tacos/sriracha_pork.md)
 	* [Steak, Sweet Potato and Apple Tacos](full_tacos/steak_sweet_potato_and_apple_tacos.md)
 	* [Swiss Chard Tacos (v)](full_tacos/swiss_chard_tacos.md)
-	* [Ted's Test Tacos](full_tacos/test_tacos.md)
 	* [Thanksgiving Tacos](full_tacos/thanksgiving_taco.md)
 	* [Traditional American Taco](full_tacos/traditional_american_taco.md)
 	* [Vegan Red Cabbage Tacos (v)](full_tacos/vegan_cabbage_tacos.md)
