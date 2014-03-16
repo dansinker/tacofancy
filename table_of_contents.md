@@ -106,7 +106,7 @@ tags you like separated by commas.
 	* [Mahi Mahi Rub (v)](seasonings/mahimahirub.md)
 	* [Packaged Seasonings](seasonings/packaged_seasonings.md)
 	* [Quick and Dirty Spice Mix](seasonings/quick_and_dirty_spice_mix.md)
-	* [Alone on a Saturday night, I put on Iron Maiden, cubed up a pork chop and whipped this marinade together:](seasonings/sriracha_marinade.md)
+	* [Sriracha Marinade](seasonings/sriracha_marinade.md)
 	* [Sriracha Salt (v)](seasonings/sriracha_salt.md)
 	* [Kathy's Taco and Fajita Seasoning](seasonings/taco_and_fajita.md)
 	* [Universal Taco Seasoning (v)](seasonings/universal_taco_seasoning.md)
