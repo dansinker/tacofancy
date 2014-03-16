@@ -44,7 +44,7 @@ No better time than the present to learn Git! Thankfully, this repo is pretty si
 Are you using Tacofancy to Teach Github?
 ------------------------------------------
 
-That's awesome! Tacofancy *is* a great way to teach the basics of the Github workflow. But keep in mind that Tacofancy is a working repo. Our recommended workflow for teaching from Tacofancy is to create your own fork, have your students fork from that so they are submitting pull requests to your fork. From there, you can help them through the hard bits, make sure they're operating at maximum deliciousness, and then submit a pull request to this repo with their stuff. 
+That's awesome! Tacofancy *is* a great way to teach the basics of the Github workflow. But keep in mind that Tacofancy is a working repo. Our recommended workflow for teaching from Tacofancy is to create your own fork, have your students fork from that so they are submitting pull requests to your fork. From there, you can help them through the hard bits, make sure they're operating at maximum deliciousness, and then submit a pull request to this repo with their stuff.
 
 Tacofancy-Inspired Projects
 ---------------------------
@@ -63,6 +63,6 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 Endnotes
 --------
 
-This whole thing was hastily assembled on a cold November evening with the warmth of some steak, sweet potato, and apple tacos aglow in my belly. It started with just three recipes in it. Now it has many dozens. Nice job, world.
+This whole thing began on a cold November evening with the warmth of some [steak, sweet potato, and apple tacos](/full_tacos/steak_sweet_potato_and_apple_tacos.md) aglow in my belly. It started with just three recipes in it. Now it has well over a hundred. Nice job, world.
 
 Oh hi, I'm [@dansinker](https://www.twitter.com/dansinker).
