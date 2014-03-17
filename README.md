@@ -1,7 +1,7 @@
 tacofancy
 =========
 
-This is a community-driven taco recipe repo. Please fork and submit your own recipes, because the more there are, the more delicious it gets.
+This is a community-driven, object-oriented taco recipe repo. Please fork and submit your own recipes, because the more there are, the more delicious it gets.
 
 This repository contains a few different directories:
 
@@ -18,7 +18,7 @@ This repository contains a few different directories:
 * [shells](/shells)
     * Your base layers and mixins and condiments have to go *into* something, right? Put your tortilla recipes here.
 * [like_tacos](/like_tacos)
-    * A collection of things that are like tacos, e.g. gua bao.
+    * A collection of things that are like tacos, either in shape or flavor, but actually aren't.
 
 Full Index
 ----------
@@ -44,7 +44,7 @@ No better time than the present to learn Git! Thankfully, this repo is pretty si
 Are you using Tacofancy to Teach Github?
 ------------------------------------------
 
-That's awesome! Tacofancy *is* a great way to teach the basics of the Github workflow. But keep in mind that Tacofancy is a working repo. Our recommended workflow for teaching from Tacofancy is to create your own fork, have your students fork from that so they are submitting pull requests to your fork. From there, you can help them through the hard bits, make sure they're operating at maximum deliciousness, and then submit a pull request to this repo with their stuff.
+That's awesome! Tacofancy *is* a great way to teach the basics of the Github workflow. But keep in mind that Tacofancy is also a working repo. Our recommended workflow for teaching from Tacofancy is to create your own fork, have your students fork from that so they are submitting pull requests to you, not us. From there, you can help them through the hard bits, make sure they're operating at maximum deliciousness, and then submit a pull request to this repo with their stuff.
 
 Tacofancy-Inspired Projects
 ---------------------------
