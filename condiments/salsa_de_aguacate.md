@@ -5,7 +5,7 @@ This is the traditional green sauce served from a Mexican taco cart. Very popula
 
 * 1/2 Kilo of Green Tomatillos (~1lb.)
 * 2 green Serrano peppers (optional for heat)
-* 1 avacado
+* 1 avocado
 * 2 limes
 * 1/2 cup crema (Mexican sour cream, thinner and sweeter than standard sour cream)
 
