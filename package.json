@@ -1,0 +1,8 @@
+{
+  "name": "tacofancy",
+  "repository": "https://github.com/sinker/tacofancy",
+  "dependencies": {
+    "glob": "3.x.x",
+    "coffee-script": ">=1.6.3"
+  }
+}

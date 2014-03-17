@@ -18,3 +18,5 @@ Vegetarian; vegan if you omit the cheese
 6. Let cool a little bit before serving, potatoes retain heat really really well. 
 
 Serve on corn or flour tortillas. Hard or soft shell, doesn't matter. Sprinkle on salty cheese as desired.
+
+tags: vegetarian, vegan

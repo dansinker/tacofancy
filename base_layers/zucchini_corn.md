@@ -23,3 +23,5 @@ __Directions__
 5. Add zucchini, cook until it's tender.
 6. Add corn back in.
 7. Add black beans, Epazote; add salt, pepper, and other seasonings to taste. Cook for 3-4 more minutes.
+
+tags: vegetarian, vegan

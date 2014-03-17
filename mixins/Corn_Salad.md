@@ -11,3 +11,5 @@ Cut the corn off of the cob, and in a mixing bowl mix together corn, lime juice,
 
 ---
 This is my first Github commit. I'm glad it's taco related.
+
+tags: vegetarian

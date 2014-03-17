@@ -12,3 +12,5 @@ For marinade mix:
 * Some chopped cilantro
 
 Mix with sliced tofu or pork, marinate for 30 minutes and quickly sauté.
+
+tags: vegetarian

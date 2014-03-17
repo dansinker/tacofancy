@@ -12,3 +12,5 @@ __Directions__
 1. Drop all of this into a food processor, and blend away.
 2. Let sit in fridge for 30 minutes or overnight for flavor melding. 
 3. Add to tacos, and anything else you'd like.
+
+tags: vegetarian

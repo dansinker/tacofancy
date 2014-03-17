@@ -35,3 +35,5 @@ Just in case no one ever taught you how to deal with an avocado correctly, here'
 To finish up your guacamole, mash your avocado up a bit and gently mix it into the magical citric-spice-tomato concoction. We're done here.
 
 _Thanks to [The Awl](http://www.theawl.com/2010/02/half-baked-guacamole-by-the-ceviche-method) for limited inspiration regarding the limey and drinky parts._
+
+tags: vegetarian

@@ -32,3 +32,4 @@ all hot and finish cooking any bits of chile that remain raw after the
 skin removal process. When it looks close to done, lower the cooking heat
 to a minimum and add the cream and cheese(s) and warm them for about 5 minutes.
 
+tags: vegetarian

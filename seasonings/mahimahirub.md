@@ -14,3 +14,5 @@ A rub for Mahi Mahi, if fish tacos be what you're fancying:
 * 1/2 Part garlic powder
 
 You choose your measurements and enjoy!
+
+tags: vegetarian
