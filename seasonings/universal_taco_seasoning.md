@@ -16,4 +16,4 @@ Combine in Mason jar and shake well to combine.
 
 This mix works well for chicken, pork and beef, destined for the grill, oven, slow cooker or stovetop. You could tweak it a bit to target a specific meat, but I like to have a base, universal mix around. Makes it super easy to turn leftover anything into delicious taco filling: Just chop up whatever it is, toss it into a skillet, sprinkle generously with seasoning, then add a bit of water and simmer to impart flavor.
 
-tags: vegetarian
+tags: vegetarian, vegan

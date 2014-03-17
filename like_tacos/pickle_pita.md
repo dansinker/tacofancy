@@ -24,3 +24,5 @@ A sort of taco for when you're hungry, but not super coordinated.
 > Could you make this into a taco by replacing the pita with a corn tortilla?
 
 Yes, you could, but it would be less delicious.
+
+tags: vegetarian

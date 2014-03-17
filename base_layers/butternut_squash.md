@@ -15,3 +15,5 @@ __Directions__
 
 1. Roast a whole butternut squash in the oven at 400 degrees for 30 minutes to an hour until it is nice and soft.
 2. Cut open the squash, scoop out the seeds and discard the peel. Cut into bite-sized pieces and the squash is ready to go. No seasoning is necessary, but the sweet buttery flavor of the squash is pretty tasty with chili powder.
+
+tags: vegetarian, vegan

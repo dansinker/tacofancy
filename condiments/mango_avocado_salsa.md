@@ -20,4 +20,4 @@ __Directions__
 3. Add garlic (chopped or pressed) and pepper to taste.
 4. Stir and enjoy!
 
-tags: vegetarian
+tags: vegetarian, vegan

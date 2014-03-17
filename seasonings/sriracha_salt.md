@@ -12,4 +12,4 @@ Mix the two ingredients together in a bowl. Spread it out on a baking sheet line
 
 The effect on most food is as awesome as you'd expect but it is especially amazing with eggs. Add it to your breakfast tacos.
 
-tags: vegetarian
+tags: vegetarian, vegan

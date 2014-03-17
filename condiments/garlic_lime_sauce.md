@@ -11,6 +11,8 @@ Combine in a bowl:
 * salt to taste
 * (optional): chopped fresh cilantro garnish
 
-Whisk ingredients together in bowl. 
+Whisk ingredients together in bowl.
 
 Serve on the side, or drizzle as a decorative layer onto prepared tacos. Optionally sprinkle with chopped cilantro as garnish.
+
+tags: vegetarian

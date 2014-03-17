@@ -17,4 +17,4 @@ And one requirement:
 
 Place out your selections and assemble into your taco. Then squeeze a lime over the top.
 
-tags: vegetarian
+tags: vegetarian, vegan

@@ -16,3 +16,5 @@ For those shameful late-night moments after da club when all you need are cheese
 * Nuke the whole plate in the microwave for 1 minute on high power. Don't even think about using the oven or broiler for this. You're drunk.
 * Pull the delicious cheesy mess out of the microwave oven. Top with whatever you found scrounging around in your fridge or leave as is.
 * STUFF YOUR FACE!
+
+tags: vegetarian

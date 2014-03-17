@@ -10,3 +10,5 @@ Alone on a Saturday night, I put on Iron Maiden, cubed up a pork chop and whippe
 * pinch of salt
 
 Get this coated nicely over everything before frying or grilling on high heat.
+
+tags: vegetarian, vegan

@@ -18,4 +18,4 @@ From What's Cookin' Cookbook: A Recipe Collection from the Schlaback Family
 
 Mix and bring to a boil. Cook down 1 1/2 hours. Cold pack for 20 minutes.
 
-tags: vegetarian
+tags: vegetarian, vegan

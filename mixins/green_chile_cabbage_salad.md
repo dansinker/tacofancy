@@ -23,3 +23,5 @@ This isn't a tradition, or even particularly traditional -- except in my apartme
 10. Serve it! If you're in to tossing a little cheese on there, do it -- but I usually just eat it straight. Sometimes this goes on fish or chicken tacos; sometimes it's a side to richer pork tacos. It's always awesome.
 
 **Note on ingredients**: green chile is the gastronomical life blood of New Mexican cuisine, but it's little known in the other 49 states. I like a brand called [_Los Chileros de Nuevo Mexico_](http://www.loschileros.com/), which I can find sometimes in tiendas and other times at Whole Foods (go figure). The trick here is this: just don't accept substitutes. It's not the same. I've also had to accept that fresh chile is just not what this salad needs, so don't do that either (it doesn't distribute well enough across the cabbage). Do have this with cold, crisp beer.
+
+tags: vegetarian, vegan

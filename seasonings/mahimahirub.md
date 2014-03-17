@@ -15,4 +15,4 @@ A rub for Mahi Mahi, if fish tacos be what you're fancying:
 
 You choose your measurements and enjoy!
 
-tags: vegetarian
+tags: vegetarian, vegan

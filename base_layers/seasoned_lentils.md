@@ -13,6 +13,8 @@ This is a quick and easy vegetarian substitute for ground beef that adds an inte
 ##### Directions
 1. Cook lentils according to package directions (generally just boiling in water). Set aside.
 2. In a skillet sauté onion and tomato in vegetable oil for a few minutes
-3. Stir in seasoning mix, amount of water specified on mix packet and cooked lentils. 
+3. Stir in seasoning mix, amount of water specified on mix packet and cooked lentils.
 4. Follow directions on seasoning packet.
 5. Enjoy!
+
+tags: vegetarian, vegan

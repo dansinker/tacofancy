@@ -14,3 +14,5 @@ Cook the tomatillos and peppers in a pot with water until soft. Drain the water 
 Put tomatillos, peppers, salt, lime-juice, crema, and avacado (shelled and pitted) in blender. With lid on, blend until completely mixed and liquid consistency. Salsa should be the consistency of crema, liquid, yet slightly viscous.
 
 Pour over your tacos liberally. Refrigerate between uses.
+
+tags: vegetarian

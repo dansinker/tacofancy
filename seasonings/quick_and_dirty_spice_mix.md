@@ -22,3 +22,5 @@ Vegetarians
 I’ve made this with that soy protein “ground beef” and it does not _surprisingly_ taste like someone put spices on a stack of cheap bar coasters and ran it all through a blender. (Vegetable) oil the skillet when you’re dealing with that stuff, unless you’re looking for excuses to buy a new one.
 
 If you leave out the bouillon for the sake of doing things vegan-style you’ll probably want to nudge up the salt a little.
+
+tags: vegetarian, vegan

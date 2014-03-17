@@ -8,4 +8,4 @@ Red Cabbage Filling
 
 1. Mix all ingredients in large bowl
 
-tags: vegetarian
+tags: vegetarian, vegan

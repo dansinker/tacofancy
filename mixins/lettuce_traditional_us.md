@@ -5,3 +5,5 @@ In a traditional American taco, lettuce serves to add extra crunch and coolness.
 
 * Iceberg Lettuce (shredded)
 * Romaine Lettuce (shredded; maintain the stalks)
+
+tags: vegetarian, vegan

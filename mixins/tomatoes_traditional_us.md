@@ -6,3 +6,5 @@ Adding a bit of coolness and moisture, tomatoes are a staple ingredient of the A
 * Tomatoes (diced)
 * Cherry Tomatoes (quartered)
 * Grape Tomatoes (sliced)
+
+tags: vegetarian

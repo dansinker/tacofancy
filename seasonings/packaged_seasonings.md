@@ -6,3 +6,5 @@ Lest we be accused of snobbery, let's acknowledge that a taco is a taco, and tac
 Feel free to use the pre-packaged seasoning of your choice. When I'm in an old-school mood, I head straight for...
 
 * Old El Paso Taco Seasoning
+
+tags: vegetarian, vegan

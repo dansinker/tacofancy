@@ -14,4 +14,4 @@ Combine the tomatoes, cilantro and onion together in a bowl. Season to taste wit
 
 Reserve some of this mixture for kids, and then add as much jalapeño as you like to the remaining mixture for the non wimps.
 
-tags: vegetarian
+tags: vegetarian, vegan

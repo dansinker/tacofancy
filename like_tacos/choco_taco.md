@@ -16,3 +16,5 @@ A dessert taco, the [Choco Taco](http://en.wikipedia.org/wiki/Choco_Taco) is mor
 * Drape the waffles over something long and thing (and oven-safe) and bake them until they are firm (5-10 minutes).
 
 These waffle taco shells would be good for breakfast tacos, but are better for ice cream and related toppings.
+
+tags: vegetarian

@@ -1,7 +1,7 @@
 Sad Mexican Grilled Cheese
 ===================
 
-Almost a quesadilla. 
+Almost a quesadilla.
 
 ## Ingredients
 
@@ -20,3 +20,4 @@ Almost a quesadilla.
 5. Slam jam into the sour cream and take a bite.
 6. Repeat step 4 untill throughly sad.
 
+tags: vegetarian

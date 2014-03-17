@@ -6,7 +6,7 @@ Add this to [Asian Style Tacos](/full_tacos/asian_style_tacos.md) for a taste se
 Ingredients
 -----------
 
-For the dressing: 
+For the dressing:
 
 * 1 lime, juiced
 * 2 Tbs Rice vinegar
@@ -16,7 +16,7 @@ For the dressing:
 * a squirt or two of sriracha
 * pinch of salt
 
-For the slaw: 
+For the slaw:
 
 * 1/2 head cabbage, chopped thin (slaw style)
 * 2 spring onions (scallions), chopped.
@@ -32,3 +32,5 @@ Directions
 3. Mix until everything is lightly dressed.
 
 YAY EVERYTHING.
+
+tags: vegetarian, vegan

@@ -1,11 +1,11 @@
 Corn and Black Beans
 ===================
 
-This is a fork of the [Zuccini and Corn Filling](/base_layers/zucchini_corn.md) because I'm not a Zuccini fan. I also tweaked the spices. 
+This is a fork of the [Zuccini and Corn Filling](/base_layers/zucchini_corn.md) because I'm not a Zuccini fan. I also tweaked the spices.
 
 You'll need:
 
-* Fresh corn kernels, cut off the cob. 
+* Fresh corn kernels, cut off the cob.
 * 1 can of Black Beans
 * half a white onion
 * salt
@@ -24,3 +24,4 @@ Directions
 
 Delicious hot as the main base_layer or as a supplement to others.
 
+tags: vegetarian, vegan

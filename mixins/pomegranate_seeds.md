@@ -22,3 +22,5 @@ ___The Wooden Spoon Method___
 3. Using a wooden spoon, smack the top, breaking loose the seeds, which will fall into your hand and through your fingers into the bowl.
 
 This method is quick, but it takes some practice to be able to do it quickly without splashing juice. [Here's a great video demonstrating the technique.](http://lifehacker.com/5895852/deseed-a-pomegranate-in-10-seconds-using-a-wooden-spoon)
+
+tags: vegetarian, vegan

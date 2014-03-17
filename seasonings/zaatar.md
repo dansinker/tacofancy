@@ -21,4 +21,4 @@ May be added to meat during cooking, or sprinkled over a finshied taco.
 
 The latest theories have not ruled out the possibility of a zaatar mole.
 
-tags: vegetarian
+tags: vegetarian, vegan

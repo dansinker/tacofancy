@@ -22,7 +22,7 @@ A few tips before starting:
 
 1. Combine chilis, garlic, salt and sugar in food processor. Pulse to a coarse pureé.
 2. Transfer pureé to glass container. Store at room temperature for one week, stirring daily (see notes).
-3. After one week, transfer pureé to small saucepan, add vinegar and bring to boil. 
+3. After one week, transfer pureé to small saucepan, add vinegar and bring to boil.
 4. Reduce heat and simmer for five minutes. Allow to cool to room temperature.
 5. Transfer pureé to food processor and process for two to three minutes.
 6. Strain pureé through fine mesh strainer, using back of spoon or rubber spatula to press solids through strainer.
@@ -35,3 +35,5 @@ A few tips before starting:
 * Likewise, if you cannot find cane vinegar, rice wine vinegar can be substituted. Seasoned rice wine vinegar, commonly used in preparing sushi rice often has been sweetened, so keep that in mind if adjusting sweetener.
 * Some recipes have suggested the pureé can be thick after the seven day fermentation and water can be used to thin the mixture when processing after the boiling/simmering stage.
 * Finally, and **most importantly** be sure to santize the glass jars/containers you use to ferment and store your sriracha. Just ask your favorite homebrewer what can happen if you do not properly sanitize your glass container before storing foodstuffs in them.
+
+tags: vegetarian, vegan

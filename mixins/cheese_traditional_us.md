@@ -5,3 +5,5 @@ A major flavor component of a traditional American taco, select a cheese that's 
 
 * Cheddar (shredded)
 * Jack/Pepper Jack (shredded)
+
+tags: vegetarian
