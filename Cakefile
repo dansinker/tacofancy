@@ -11,7 +11,7 @@ task 'build', 'build ALL THE THINGS', () ->
 
 task 'build:toc', 'build a table of contents', () ->
   # pattern matching for files which shouldn't be indexed.
-  ignore = (file) -> file.match /^\.|readme|index|table_of_contents|node_modules/i
+  ignore = (file) -> file.match /^\.|readme|index|table_of_contents|node_modules|writing/i
 
   # Extract recipe info from a markdown file assuming:
   #   1. a recipe's title is the (non-whitespace) first line
