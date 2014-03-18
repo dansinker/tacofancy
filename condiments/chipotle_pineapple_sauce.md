@@ -13,3 +13,5 @@ Directions
     Sautee the onion in the oil until translucent
     Add pineapple and let cook for just a couple minutes
     Add water and peppers and sauce and cook until reduced to just thinner than a paste
+
+tags: vegetarian, vegan
