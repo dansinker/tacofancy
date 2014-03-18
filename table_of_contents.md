@@ -77,6 +77,7 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 	* [Black Olives (v)](condiments/black_olives.md)
 	* [Cashew Cheeze (v)](condiments/cashew_cheeze.md)
 	* [Salsa de chile de árbol (v)](condiments/chile_de_arbol_sauce.md)
+	* [Chipotle Pineapple Sauce](condiments/chipotle_pineapple_sauce.md)
 	* [Chipotlé Sauce (v)](condiments/chipotle_sauce.md)
 	* [Cilantro and Onion (v)](condiments/cilantro_and_onion.md)
 	* [Cranberry Salsa (v)](condiments/cranberry_salsa.md)
