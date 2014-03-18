@@ -122,4 +122,3 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 	* [Pickle Pita Taco (not really a taco) (v)](like_tacos/pickle_pita.md)
 	* [Taco Burger](like_tacos/taco_burger.md)
 	* [Taco Soup](like_tacos/taco_soup.md)
-* [Writing for Tacofancy](WRITING.md)
