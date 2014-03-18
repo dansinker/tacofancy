@@ -76,6 +76,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Black Olives (v)](condiments/black_olives.md)
 	* [Cashew Cheeze (v)](condiments/cashew_cheeze.md)
 	* [Salsa de chile de árbol (v)](condiments/chile_de_arbol_sauce.md)
+	* [Chipotle Pineapple Sauce](condiments/chipotle_pineapple_sauce.md)
 	* [Chipotlé Sauce (v)](condiments/chipotle_sauce.md)
 	* [Cilantro and Onion (v)](condiments/cilantro_and_onion.md)
 	* [Cranberry Salsa (v)](condiments/cranberry_salsa.md)
@@ -120,3 +121,4 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Pickle Pita Taco (not really a taco) (v)](like_tacos/pickle_pita.md)
 	* [Taco Burger](like_tacos/taco_burger.md)
 	* [Taco Soup](like_tacos/taco_soup.md)
+* [Writing for Tacofancy](WRITING.md)
