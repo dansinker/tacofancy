@@ -80,6 +80,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Chipotlé Sauce (v)](condiments/chipotle_sauce.md)
 	* [Cilantro and Onion (v)](condiments/cilantro_and_onion.md)
 	* [Cranberry Salsa (v)](condiments/cranberry_salsa.md)
+	* [European Sour Cream](condiments/european_sour_cream.md)
 	* [Garlic Lime Sauce (v)](condiments/garlic_lime_sauce.md)
 	* [Guacamole (v)](condiments/guacamole.md)
 	* [Guacamole (Simple) (v)](condiments/guacamole_simple.md)
