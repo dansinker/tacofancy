@@ -60,6 +60,7 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 * [Mixins](mixins/#readme)
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Potato Hash (v)](mixins/Potato_hash.md)
+	* [Shredded Brussels Sprouts](mixins/brussels.md)
 	* [Cheese (Traditional; US) (v)](mixins/cheese_traditional_us.md)
 	* [Drunken Green Beans (v)](mixins/drunken_greenbeans.md)
 	* [Green Chile Cabbage Salad with Seared Corn (v)](mixins/green_chile_cabbage_salad.md)
