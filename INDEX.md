@@ -64,6 +64,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Green Chile Cabbage Salad with Seared Corn (v)](mixins/green_chile_cabbage_salad.md)
 	* [Lettuce (Traditional; US) (v)](mixins/lettuce_traditional_us.md)
 	* [Pomegranate Seeds (v)](mixins/pomegranate_seeds.md)
+	* [Shredded Brussels Sprouts (v)](mixins/brussels.md)
 	* [Sweet Potato and Apple Hash (v)](mixins/sweet_potato_and_apple_hash.md)
 	* [Tomatoes (Traditional; US) (v)](mixins/tomatoes_traditional_us.md)
 	* [Traditional Taco Mixins (v)](mixins/traditional_taco_mixins.md)
