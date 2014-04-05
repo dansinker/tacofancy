@@ -56,6 +56,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Swiss Chard (v)](base_layers/swiss_chard.md)
 	* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 	* [Zucchini and Corn Filling (v)](base_layers/zucchini_corn.md)
+	* [Slow Cooked No-Bean Chili](base_layers/no_bean_chili.md)
 * [Mixins](mixins/#readme)
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Potato Hash (v)](mixins/Potato_hash.md)
