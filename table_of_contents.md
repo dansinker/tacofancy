@@ -45,6 +45,7 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 	* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
 	* [Marinated Portobello Mushroom (v)](base_layers/marinated_portobello.md)
 	* [Moroccan Lamb](base_layers/moroccan_lamb.md)
+	* [Slow Cooked No-Bean Chili](base_layers/no_bean_chili.md)
 	* [Overly Seasoned Ground Beef](base_layers/overlyseasonedgroundbeef.md)
 	* [Pork Shoulder with Chile and Onions](base_layers/pork_shoulder_with_chile_and_onions.md)
 	* [Puerco Pibil](base_layers/puerco_pibil.md)
