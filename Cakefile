@@ -74,9 +74,9 @@ task 'build:toc', 'build a table of contents', () ->
     markup += "#{ tabs }* #{ recipe_link(recipe) }\n" for recipe in index.markdown
     markup
 
-  console.log("generating table of contents...")
-  FS.writeFile 'table_of_contents.md', """
-Table of Contents
+  console.log("generating Index.md...")
+  FS.writeFile 'INDEX.md', """
+Full Index
 =================
 
 Welcome to the tacofancy table of contents.  This table of contents was automatically created by scanning through the tacofancy repository for recipes.  Apologies to the newly unemployed index updaters.
@@ -85,7 +85,6 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 
 #{template_sections(index_dir('.'))}
 """
-console.log('done')
 
 
 task 'build:ingredients', 'build an ingredient index.', () ->

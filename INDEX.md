@@ -1,8 +1,9 @@
-full index
-----------
-Do you want a great contributor job? Keeping this index up-to-date would be awesome. You don't even need to know how to cook--just check that the listing reflects the entire contents of each main taco object directory. If something's missing, add it in. Alphabetical order, please.
+Full Index
+=================
 
-Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh sad.
+Welcome to the tacofancy table of contents.  This table of contents was automatically created by scanning through the tacofancy repository for recipes.  Apologies to the newly unemployed index updaters.
+
+Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to tag more recipes, just look for (or add) a line at the end of each recipe that starts with "tags:". Specifically to mark a recipe with a (v), the tacobot is looking for "tags: vegetarian" or "tags: vegan" or both, separated by a comma.
 
 * [Full tacos](full_tacos/#readme)
 	* [Asian Style Tacos (v)](full_tacos/asian_style_tacos.md)
@@ -44,6 +45,7 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Insane Garlic Ground Turkey](base_layers/insane_garlic_ground_turkey.md)
 	* [Marinated Portobello Mushroom (v)](base_layers/marinated_portobello.md)
 	* [Moroccan Lamb](base_layers/moroccan_lamb.md)
+	* [Slow Cooked No-Bean Chili](base_layers/no_bean_chili.md)
 	* [Overly Seasoned Ground Beef](base_layers/overlyseasonedgroundbeef.md)
 	* [Pork Shoulder with Chile and Onions](base_layers/pork_shoulder_with_chile_and_onions.md)
 	* [Puerco Pibil](base_layers/puerco_pibil.md)
@@ -56,16 +58,15 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Swiss Chard (v)](base_layers/swiss_chard.md)
 	* [Delengua (Beef Tongue)](base_layers/tacosdelengua.md)
 	* [Zucchini and Corn Filling (v)](base_layers/zucchini_corn.md)
-	* [Slow Cooked No-Bean Chili](base_layers/no_bean_chili.md)
 * [Mixins](mixins/#readme)
 	* [Corn Salad (v)](mixins/Corn_Salad.md)
 	* [Potato Hash (v)](mixins/Potato_hash.md)
+	* [Shredded Brussels Sprouts (v)](mixins/brussels.md)
 	* [Cheese (Traditional; US) (v)](mixins/cheese_traditional_us.md)
 	* [Drunken Green Beans (v)](mixins/drunken_greenbeans.md)
 	* [Green Chile Cabbage Salad with Seared Corn (v)](mixins/green_chile_cabbage_salad.md)
 	* [Lettuce (Traditional; US) (v)](mixins/lettuce_traditional_us.md)
 	* [Pomegranate Seeds (v)](mixins/pomegranate_seeds.md)
-	* [Shredded Brussels Sprouts (v)](mixins/brussels.md)
 	* [Sweet Potato and Apple Hash (v)](mixins/sweet_potato_and_apple_hash.md)
 	* [Tomatoes (Traditional; US) (v)](mixins/tomatoes_traditional_us.md)
 	* [Traditional Taco Mixins (v)](mixins/traditional_taco_mixins.md)
@@ -78,11 +79,11 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Black Olives (v)](condiments/black_olives.md)
 	* [Cashew Cheeze (v)](condiments/cashew_cheeze.md)
 	* [Salsa de chile de árbol (v)](condiments/chile_de_arbol_sauce.md)
-	* [Chipotle Pineapple Sauce](condiments/chipotle_pineapple_sauce.md)
+	* [Chipotle Pineapple Sauce (v)](condiments/chipotle_pineapple_sauce.md)
 	* [Chipotlé Sauce (v)](condiments/chipotle_sauce.md)
 	* [Cilantro and Onion (v)](condiments/cilantro_and_onion.md)
 	* [Cranberry Salsa (v)](condiments/cranberry_salsa.md)
-	* [European Sour Cream](condiments/european_sour_cream.md)
+	* [European Sour Cream (v)](condiments/european_sour_cream.md)
 	* [Garlic Lime Sauce (v)](condiments/garlic_lime_sauce.md)
 	* [Guacamole (v)](condiments/guacamole.md)
 	* [Guacamole (Simple) (v)](condiments/guacamole_simple.md)
@@ -124,4 +125,3 @@ Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh 
 	* [Pickle Pita Taco (not really a taco) (v)](like_tacos/pickle_pita.md)
 	* [Taco Burger](like_tacos/taco_burger.md)
 	* [Taco Soup](like_tacos/taco_soup.md)
-* [Writing for Tacofancy](WRITING.md)
