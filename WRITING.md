@@ -14,6 +14,14 @@ File formatting
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit.
 * Give your files the .md extension.
 
+Tags
+----
+* We support tagging of your recipe!
+* Currently the only tags that that we recognize are "vegatarian" and "vegan", they result in a recipe being marked in a (v) in the [index](/index.md)
+* We require you follow the format:
+  * tags: firsttag, secondtag, thirdtag, yougetthepicture
+* If you'd like to add additional tags to your recipe, you can.
+
 Submit
 ------
 * Submit a pull request.
