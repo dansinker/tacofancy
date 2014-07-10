@@ -1,5 +1,4 @@
-carnitas
-======
+# Fat-Poached Carnitas
 * 3 pounds of boneless pork shoulder or uncured picnic ham (see note for how to select).
 * 0.25 to 0.50 cups of liquified fat (oil, lard or duck fat is acceptable)
 * 10 to 15 garlic cloves (roasted preferred)
@@ -21,4 +20,7 @@ carnitas
 12. Broil pork in sheet pan until it is somewhat blackened and crispy, probably 4-6 minutes. YMMV because broilers are ridiculous.
 13. Remove from oven and tease with fork.
 
-Note: A nice thick fat cap on the top of the pork is preferable. Ask your butcher to remove any bones. Do not use cured meat.
+## Notes
+* A nice thick fat cap on the top of the pork is preferable.
+* Ask your butcher to remove any bones.
+* Do not use cured meat.
