@@ -8,7 +8,7 @@ tags: vegitarian, vegan
 * 1 block tempeh
 * 1 T olive oil
 * 1 T apple cider vinnegar
-* 1 t soy sauce or Braggs
+* 1/2 T soy sauce or Braggs
 * 1 t garlic powder
 * 1/2 C water
 * Ample amounts of coursely ground black pepper to taste
