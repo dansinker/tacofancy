@@ -17,4 +17,5 @@
 3. Add the tempeh and marinade to a skillet and saute over medium heat until liquid evaporates.
 4. Add a bit more water and continue to cook for about 2 minutes.
 
+---
 tags: vegitarian, vegan
