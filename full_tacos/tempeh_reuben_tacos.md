@@ -1,7 +1,3 @@
----
-tags: vegetarian, vegan, tempeh
----
-
 # Tempeh reuben tacos 
 
 Vegetarian; vegan without cheese
@@ -13,3 +9,7 @@ Vegetarian; vegan without cheese
 4. Sprinkle with carroway seeds.
 3. Optionally, top with swiss cheese. For vegans, I've found sliced avocado to be a nice creamy substitute.
 4. Top with a spicy mustard.
+
+---
+tags: vegetarian, vegan, tempeh
+---

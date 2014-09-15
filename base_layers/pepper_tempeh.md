@@ -1,6 +1,3 @@
----
-tags: vegitarian, vegan
----
 # Pepper Tempeh
 
 ## Ingredients
@@ -19,3 +16,7 @@ tags: vegitarian, vegan
 2. Combine olive oil, vinnegar, soy sauce, garlic powder and water in a bowl and marinate the Tempeh for 10-30 minutes.
 3. Add the tempeh and marinade to a skillet and saute over medium heat until liquid evaporates.
 4. Add a bit more water and continue to cook for about 2 minutes.
+
+---
+tags: vegitarian, vegan
+---
