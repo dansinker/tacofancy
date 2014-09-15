@@ -70,6 +70,7 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 	* [Drunken Green Beans (v)](mixins/drunken_greenbeans.md)
 	* [Green Chile Cabbage Salad with Seared Corn (v)](mixins/green_chile_cabbage_salad.md)
 	* [Lettuce (Traditional; US) (v)](mixins/lettuce_traditional_us.md)
+	* [Sauted Shitake Mushroom and Wasabi Salad](mixins/mushroom_wasabi_salad.md)
 	* [Pomegranate Seeds (v)](mixins/pomegranate_seeds.md)
 	* [Sweet Potato and Apple Hash (v)](mixins/sweet_potato_and_apple_hash.md)
 	* [Tomatoes (Traditional; US) (v)](mixins/tomatoes_traditional_us.md)
