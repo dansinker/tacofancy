@@ -12,4 +12,3 @@ Vegetarian; vegan without cheese
 
 ---
 tags: vegetarian, vegan, tempeh
----
