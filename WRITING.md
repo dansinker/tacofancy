@@ -18,7 +18,7 @@ File formatting
 Tags
 ----
 * We support tagging of your recipe!
-* Currently the only tags that that we recognize are "vegatarian" and "vegan", they result in a recipe being marked in a (v) in the [index](/index.md)
+* Currently the only tags that that we recognize are "vegatarian" and "vegan", they result in a recipe being marked in a (v) in the [index](/INDEX.md)
 * We require you follow the format:
   * tags: firsttag, secondtag, thirdtag, yougetthepicture
 * If you'd like to add additional tags to your recipe, you can.
