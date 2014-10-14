@@ -18,4 +18,4 @@
 4. Add a bit more water and continue to cook for about 2 minutes.
 
 ---
-tags: vegitarian, vegan
+tags: vegetarian, vegan
