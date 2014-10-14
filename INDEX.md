@@ -53,7 +53,7 @@ Recipes marked with a (v) are tagged as vegetarian friendly. If you'd like to ta
 	* [Slow Cooked No-Bean Chili](base_layers/no_bean_chili.md)
 	* [onion](base_layers/onion.md)
 	* [Overly Seasoned Ground Beef](base_layers/overlyseasonedgroundbeef.md)
-	* [Pepper Tempeh](base_layers/pepper_tempeh.md)
+	* [Pepper Tempeh (v)](base_layers/pepper_tempeh.md)
 	* [Pork Shoulder with Chile and Onions](base_layers/pork_shoulder_with_chile_and_onions.md)
 	* [Puerco Pibil](base_layers/puerco_pibil.md)
 	* [Taco de rajas poblanas (v)](base_layers/rajas_poblanas.md)
