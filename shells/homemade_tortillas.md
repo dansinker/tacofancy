@@ -11,7 +11,7 @@ and then one of these bad-ass tortilla presses:
 
 ![](./tortillador.jpg)
 
-buy your lard from a place like this:
+Buy your lard from a place like this:
 
 ![](./store.jpg)
 
@@ -21,6 +21,6 @@ buy your lard from a place like this:
 * 2/3 tablespoon oil
 * 1/2 cup water (luke warm)
 
-Mix all ingredients together except oil and water. Drizzle oil over mixture an mix with hands. Add water and mix and knead again until doughy. Let chill for about an hour in plastic wrappers.
+Mix all ingredients together except oil and water. Drizzle oil over mixture and mix with hands. Add water and mix and knead again until doughy. Let chill for about an hour in plastic wrappers.
 
-Heat large cast iron skittle (or something more authentic if you've got it) over medium heat. Cut dough into about 12 pieces that are round. Use a proper tortilla press (or something more authentic if you've got it) to make 'em flat and then. put on the skillet. Wait until the transparent parts turn opaque and flip em. put cooked toritillas in a *dirty* cloth napkin to keep 'em warm. End recipe. Paz, amor, y dinero.
+Heat large cast iron skillet (or something more authentic if you've got it) over medium heat. Cut dough into about 12 pieces that are round. Use a proper tortilla press (or something more authentic if you've got it) to make 'em flat and then put on the skillet. Wait until the transparent parts turn opaque and flip em. Put cooked tortillas in a *dirty* cloth napkin to keep 'em warm. End recipe. Paz, amor, y dinero.
