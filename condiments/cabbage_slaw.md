@@ -12,3 +12,5 @@ __Ingredients__
 __Directions__
 
 Add first four ingredients to a bowl and stir to combine. Season with salt and pepper to taste, and stir again. Let sit for 20 minutes so flavors can meld.
+
+tags: vegetarian, vegan
