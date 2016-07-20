@@ -1,7 +1,7 @@
 Chipotle Shrimp Tacos
 =====================
 
-Spicy, sweet, delicious & colorful! :taco: :fried_shrimp: 
+Spicy, sweet, delicious & colorful! :fried_shrimp: 
 
 
 Taco Objects
@@ -20,4 +20,4 @@ Directions
 1. Top warm tortillas with Cabbage Slaw and Chipotle Shrimp.
 2. Drizzle with Spicy Mayo.
 3. Top with Cilantro and Onion as desired.
-4. Repeat.
+4. Eat, Repeat.
