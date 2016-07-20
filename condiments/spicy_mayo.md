@@ -11,3 +11,5 @@ __Directions__
 Mix mayonnaise and gochujang together well. Let sit for 20 minutes so flavors can combine.
 
 _Note:_ Gochujang paste can be found at asian markets.
+
+tags: vegetarian
