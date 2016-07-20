@@ -1,0 +1,12 @@
+Chipotle Shrimp
+===============
+
+_Ingredients_
+* 2 tablespoons unsalted butter
+* 1 lb shrimp, shelled & deveined
+* 1 batch [Chipotle Rub](/seasonings/chipotle_rub.md)
+
+_Directions_
+1. In a bowl, add the shrimp and Chipotle Rub and stir to coat well.
+2. Heat a large non-stick skillet over medium-high heat and add the butter.
+3. Add the shrimp to the skillet. Cook for 1-2 minutes, and flip shrimp. Cook for 1-2 more minutes, or just until shrimp are pink. Remove shrimp from skillet.
