@@ -1,7 +1,11 @@
 Mahi Mahi Rub
 ==============
 
-A rub for Mahi Mahi, if fish tacos be what you're fancying:
+## Description
+
+A rub for Mahi Mahi, if fish tacos be what you're fancying. You choose your measurements and enjoy!
+
+## Ingredients
 
 * 1 Part spicy chili powder
 * 1 Part salt
@@ -12,7 +16,5 @@ A rub for Mahi Mahi, if fish tacos be what you're fancying:
 * 1/2 Part oregano
 * 1/2 Part onion powder
 * 1/2 Part garlic powder
-
-You choose your measurements and enjoy!
 
 tags: vegetarian, vegan

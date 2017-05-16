@@ -1,7 +1,11 @@
 Slow-Cooked Salsa Verde Chicken
 ===============================
 
+## Description
+
 Low-effort, delicious shredded chicken based off [this recipe](http://www.skinnytaste.com/2013/04/easiest-crock-pot-salsa-verde-chicken.html). To minimize prep time, just toss in a jar of storebought salsa verde.
+
+## Ingredients
 
 * 2 lbs skinless chicken breasts
 * 2 cups salsa verde
@@ -10,6 +14,7 @@ Low-effort, delicious shredded chicken based off [this recipe](http://www.skinny
 * Pinch of Cumin
 * Salt, to taste
 
-Add chicken to slow cooker and season with garlic, oregano, cumin and salt. Pour salsa verde over everything, cover and cook for two hours on high.
+## Directions
 
-Once that's ready, shred chicken. Give it another stir to cover everything in sauce, then serve.
+1. Add chicken to slow cooker and season with garlic, oregano, cumin and salt. Pour salsa verde over everything, cover and cook for two hours on high.
+1. Once that's ready, shred chicken. Give it another stir to cover everything in sauce, then serve.

@@ -1,4 +1,7 @@
-# Slow Cooked No-Bean Chili
+Slow Cooked No-Bean Chili
+===
+
+## Description
 
 Super delicious and spicy no-bean chili made from scratch.
 
@@ -20,7 +23,8 @@ Super delicious and spicy no-bean chili made from scratch.
 * Oil, preferably corn oil
 * A large cooking pot
 
-## Instructions
+## Directions
+
 1. Remove the stems and the seeds from the dried peppers. Cover them with water in a small pot and boil for 15 minutes.
 1. Mix the peppers with the water until it transforms into a sort of chili sauce.
 1. Finely chop the garlic and jalapeños.
@@ -28,7 +32,7 @@ Super delicious and spicy no-bean chili made from scratch.
     * Protip: You'll get much better result if you don't sear all the beef at once.
 1. Sprinkle the spice mix over the beef.
 1. Lower the temperature and add the chili sauce we made in the beginning.
-1. Add enough beer that it covers everything and throw in the boillion cube.
+1. Add enough beer that it covers everything and throw in the bouillon cube.
 1. Cover the cooking pot and let it simmer a couple of hours until the meat is all stringy and nice.
     * Protip: Crack a bottle of beer, sit back and relax as this will take a while.
     * Protip: Lower temperature → longer cooking time → better result.

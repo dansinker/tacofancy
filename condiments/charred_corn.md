@@ -1,10 +1,15 @@
-charred corn
+Charred Corn
 =========
+
+## Ingredients
+
 * 6-8 ears of very fresh sweet corn.
 * Canola, peanut or other high-heat vegetable oil.
 * Sheet pan covered with tin foil.
 * Good long tongs.
 * Large metal bowl.
+
+## Directions
 
 1. Prepare the oven for broiling by moving a single rack to the highest level. It should be no closer than 2-3 inches from the broiler.
 2. Under this rack set the second rack and the sheet pan covered with tin foil to catch drips from the corn.

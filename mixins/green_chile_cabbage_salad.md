@@ -1,7 +1,11 @@
-### Green Chile Cabbage Salad with Seared Corn
+# Green Chile Cabbage Salad with Seared Corn
+
+## Description
+
 This isn't a tradition, or even particularly traditional -- except in my apartment in Oakland, where I make this for myself ever time I make pork tacos.
 
-#### Ingredients
+## Ingredients
+
 * 1 green cabbage
 * 4 limes
 * 2 ears corn, or roughly two cups of corn kernels (adjust to desired corn-y-ness)
@@ -10,7 +14,8 @@ This isn't a tradition, or even particularly traditional -- except in my apartme
 * Olive oil
 * Optional: some crumbled cotija or queso Oaxaqueno
 
-#### Directions
+## Directions
+
 1. If using ears of corn, strip the kernels from them with a sharp knife.
 2. Heat a few tablespoons of oil over high heat. I like to use a Dutch Oven for this, but the main cookware properties you want are heavy-bottomed and wide.
 3. Toss the corn kernels in to the oil, spread them evenly, salt very lightly and let them ride. I _highly_ recommend a splatter guard for this step, but **not** a lid. You want the corn to dry out just a little and get a good sear. It's done when it's starting to get dark, a little chewy, and probably is sticking to the pan.
@@ -22,6 +27,8 @@ This isn't a tradition, or even particularly traditional -- except in my apartme
 9. You want everything coated nicely, but I don't like the salad too oily, so go easy on that. I add lime until the sour balances the sweet of the corn. I add green chile slowly -- it takes a second to rehydrate and get hot. I might add as much as a half cup of the stuff to a salad for myself or spicy food fans like me; I go easier on the spice-unenthused.
 10. Serve it! If you're in to tossing a little cheese on there, do it -- but I usually just eat it straight. Sometimes this goes on fish or chicken tacos; sometimes it's a side to richer pork tacos. It's always awesome.
 
-**Note on ingredients**: green chile is the gastronomical life blood of New Mexican cuisine, but it's little known in the other 49 states. I like a brand called [_Los Chileros de Nuevo Mexico_](http://www.loschileros.com/), which I can find sometimes in tiendas and other times at Whole Foods (go figure). The trick here is this: just don't accept substitutes. It's not the same. I've also had to accept that fresh chile is just not what this salad needs, so don't do that either (it doesn't distribute well enough across the cabbage). Do have this with cold, crisp beer.
+## Notes
+
+* green chile is the gastronomical life blood of New Mexican cuisine, but it's little known in the other 49 states. I like a brand called [_Los Chileros de Nuevo Mexico_](http://www.loschileros.com/), which I can find sometimes in tiendas and other times at Whole Foods (go figure). The trick here is this: just don't accept substitutes. It's not the same. I've also had to accept that fresh chile is just not what this salad needs, so don't do that either (it doesn't distribute well enough across the cabbage). Do have this with cold, crisp beer.
 
 tags: vegetarian, vegan

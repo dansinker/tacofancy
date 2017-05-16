@@ -1,10 +1,16 @@
-# Fat-Poached Carnitas
+Fat-Poached Carnitas
+=====================
+
+## Ingredients
+
 * 3 pounds of boneless pork shoulder or uncured picnic ham (see note for how to select).
 * 0.25 to 0.50 cups of liquified fat (oil, lard or duck fat is acceptable)
 * 10 to 15 garlic cloves (roasted preferred)
 * 1 lemon, sliced into thin circles and those are quartered
 * coarse salt
 * black pepper
+
+## Directions
 
 1. Heat oven to 250 degrees.
 2. Cube pork shoulder in roughly 3-inch chunks.

@@ -1,10 +1,7 @@
 Zucchini and Corn Filling
 =========================
 
-Vegan
------
-
-__Ingredients__
+## Ingredients
 
 * Diced zucchini
 * White or yellow corn kernels
@@ -14,7 +11,7 @@ __Ingredients__
 * Black beans (you can even use [Garlic Black Beans](/base_layers/garlic_black_beans.md))
 * Finely chopped oregano or Epazote
 
-__Directions__
+## Directions
 
 1. Toast corn in a skillet over high heat with oil and salt for about 5 minutes. Remove corn.
 2. Cook onion in the skillet until it caramelizes (about 5 minutes). Leave onion in there.

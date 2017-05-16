@@ -1,13 +1,13 @@
 Chipotle Shrimp
 ===============
 
-__Ingredients__
+## Ingredients
 
 * 2 tablespoons unsalted butter
 * 1 lb shrimp, shelled & deveined
 * 1 batch [Chipotle Rub](/seasonings/chipotle_rub.md)
 
-__Directions__
+## Directions
 
 1. In a bowl, add the shrimp and Chipotle Rub and stir to coat well.
 2. Heat a large non-stick skillet over medium-high heat and add the butter.

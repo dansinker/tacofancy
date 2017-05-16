@@ -1,11 +1,15 @@
 Zaatar
 ======
 
+## Description
+
 _A.k.a. za‘tar, za’atar, zattr, etc._
 
 Zaatar is a thyme-based Middle Eastern seasoning that adapts well to tacos. It has a pleasantly dry, faintly sour/bitter flavor. It goes well on savory bases like squash and lamb, and combines with other sour seasonings like lemon juice and radish.
 
 There are many kinds of zaatar, some quite different; this recipe is representative, not definitive.
+
+## Ingredients
 
 * 4 units thyme
 * 2 units oregano
@@ -15,10 +19,10 @@ There are many kinds of zaatar, some quite different; this recipe is representat
 * Other herbs to taste: fennel pollen, marjoram, cumin, etc.
 * Optional: trace olive oil or lemon juice as a binder (but not if you plan to store it)
 
-Toast the sesame seeds. Grind all ingredients together using any method, stopping when the mixture is not too fine to pick up by pinching.
+## Directions
 
-May be added to meat during cooking, or sprinkled over a finshied taco.
-
-The latest theories have not ruled out the possibility of a zaatar mole.
+1. Toast the sesame seeds. Grind all ingredients together using any method, stopping when the mixture is not too fine to pick up by pinching.
+1. May be added to meat during cooking, or sprinkled over a finished taco.
+1. The latest theories have not ruled out the possibility of a zaatar mole.
 
 tags: vegetarian, vegan

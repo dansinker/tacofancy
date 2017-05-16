@@ -1,16 +1,21 @@
 Insane Garlic Ground Turkey
 =========================
 
+## Description
+
 While not particularly fancy, the insane garlic ground turkey is a crowd pleaser.
 
-Ground Turkey
------------
+Total cooking time: 30-40 minutes
+
+## Ingredients
 
 * 2 pounds of ground turkey (preferably thigh meat)
 * Four yellow onions
 * Store-bought Taco Seasoning
 * More garlic than you can imagine (4-5 cloves)
 * Olive Oil
+
+## Directions
 
 1. Chop several onions into slices.
 2. In a large pan heat olive oil in a saucepan over high heat
@@ -22,5 +27,3 @@ Ground Turkey
 8. Add several cloves or garlic to pan.  When in doubt with garlic always err on the side of too much.
 9. Cook uncovered until taco seasoning is reduced.
 10. Warn guests of impending garlic.
-
-Total cooking time: 30-40 minutes

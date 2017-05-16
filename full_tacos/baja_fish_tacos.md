@@ -3,7 +3,7 @@ Baja Fish Tacos
 
 In [Baja, Mexico](http://en.wikipedia.org/wiki/Baja_California_peninsula) you'll find carts by the side of the road serving fresh, delicious fish tacos. There is nothing else like it in the world but this recipe will get you close if you can find fish fresh enough.
 
-__Ingredients__
+## Ingredients
 
 * [Baja white sauce](../condiments/baja_white_sauce.md).
 * [Baja beer battered fish](../base_layers/baja_beer_batter.md).
@@ -13,7 +13,7 @@ __Ingredients__
 * 8 Corn tortillas
 * 1/2 cup Canola oil
 
-__Instructions__
+## Directions
 
 * Steam a tortilla
 * Spread white sauce all over it

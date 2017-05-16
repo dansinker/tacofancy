@@ -1,8 +1,13 @@
 Onions and Cilantro
 =============
+
+## Ingredients
+
 * 1 white onion, peeled.
 * Bunch of cilantro, long bottom stems removed (stems between leaves are fine).
 * Juice of one lime.
+
+## Directions
 
 1. Dice white onion into 0.50 inch dice.
 2. Roughly chop cilantro.

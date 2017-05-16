@@ -1,7 +1,11 @@
 Salsa Sauce
 ============
 
+## Description
+
 From What's Cookin' Cookbook: A Recipe Collection from the Schlaback Family
+
+## Ingredients
 
 * 14 c. tomatoes, chopped
 * 2 1/2 c. onions
@@ -16,6 +20,10 @@ From What's Cookin' Cookbook: A Recipe Collection from the Schlaback Family
 * 1/2 c. vinegar
 * 1 Tbsp. brown sugar
 
-Mix and bring to a boil. Cook down 1 1/2 hours. Cold pack for 20 minutes.
+## Directions
+
+1. Mix and bring to a boil.
+1. Cook down 1 1/2 hours.
+1. Cold pack for 20 minutes.
 
 tags: vegetarian, vegan
