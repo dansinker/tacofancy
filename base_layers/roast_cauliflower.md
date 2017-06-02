@@ -1,4 +1,4 @@
-# Roast cauliflower
+Roast cauliflower
 ==================
 
 This is slightly modified from [Alon Shaya's](http://www.bonappetit.com/recipe/whole-roasted-cauliflower-with-whipped-goat-cheese) recipe
