@@ -1,7 +1,7 @@
 # Beef soft tacos
 
 ## Ingredients
-* [seasoned beef](base_layers/seasoned_beef.md)
+* [seasoned beef](../base_layers/seasoned_beef.md)
 * Soft corn tortillas
 * salsa
 * guacamole
