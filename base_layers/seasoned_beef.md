@@ -2,7 +2,7 @@
 
 ## Ingredients
 * 2 lbs ground beef (or whatever you prefer: chicken, tofu, etc.)
-* [Simple beef seasoning](seasonings/simple_beef_seasoning.md)
+* [Simple beef seasoning](../seasonings/simple_beef_seasoning.md)
 * 2 cups Green peppers, diced
 * 1 cup of water
 
