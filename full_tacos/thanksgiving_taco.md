@@ -22,6 +22,6 @@ Notes
 
 * You can probably cut the size of the [Salsa de Aguacate](/condiments/salsa_de_aguacate.md) recipe by a third--the recipe makes a lot (then again, just means you've got toppings for another taco later in the week).
 
-* If you really want to make the day extra-special, make your own [Fresh Corn Tortillas] (/shells/Fresh_corn_tortillas.md)
+* If you really want to make the day extra-special, make your own [Fresh Corn Tortillas](/shells/Fresh_corn_tortillas.md)
 
 * THANKSGIVING POWER ACTIVATE
