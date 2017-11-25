@@ -1,7 +1,11 @@
 # Lime
 
-Cut a lime into quarters or eights and squeeze juice onto any taco.
+## Ingredients
 
-*You may omit this ingredient when limes are out of season.*
+* Lime
+
+## Directions
+
+1. Cut a lime into quarters or eights and squeeze juice onto any taco.
 
 tags: vegetarian, vegan

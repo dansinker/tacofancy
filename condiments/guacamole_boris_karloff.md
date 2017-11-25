@@ -1,7 +1,11 @@
 Guacamole Boris Karloff
 =======================
 
+## Description
+
 From the ubiquitous newspaper clipping, it's Karloff's recipe with sherry.
+
+## Ingredients
 
 * 2 avocados
 * 1 med. tomato, chopped fine
@@ -12,8 +16,9 @@ From the ubiquitous newspaper clipping, it's Karloff's recipe with sherry.
 * Dash cayenne, optional
 * Salt, pepper
 
-Peel and mash avocados.
-Add onion, tomato and chiles, then stir in lemon juice, sherry and seasonings to taste, blending well.
-Serve as a dip for tortilla pieces or corn chips or as a canape spread.
+## Directions
 
-Makes 10 to 12 appetizer servings.
+1. Peel and mash avocados.
+1. Add onion, tomato and chiles, then stir in lemon juice, sherry and seasonings to taste, blending well.
+1. Serve as a dip for tortilla pieces or corn chips or as a canape spread.
+1. Makes 10 to 12 appetizer servings.

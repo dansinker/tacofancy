@@ -1,10 +1,16 @@
 Fresh Corn Tortillas
 ===================
 
+## Description
+
 This is the only way to go. So worth it. Makes roughly 15 tortillas.
+
+## Ingredients
 
 * 1 3/4 cups masa harina
 * 1 1/8 cups water
+
+## Directions
 
 1. In a medium bowl, mix together masa harina and hot water until thoroughly combined. Turn dough onto a clean surface and knead until pliable and smooth. If dough is too sticky, add more masa harina; if it begins to dry out, sprinkle with water. Cover dough tightly with plastic wrap and allow to stand for 30 minutes.
 2. Preheat a cast iron skillet or griddle to medium-high.

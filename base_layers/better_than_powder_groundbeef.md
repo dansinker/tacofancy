@@ -1,11 +1,19 @@
-Did you grow up on Old El Paso ground beef taco seasonings?
+Better Than Powder Ground Beef
+=====================
 
-I'm sorry.  So did I.  They're terrible, right?  Here's something better:
+## Description
 
-Dice a half-onion, sautee and season liberally with salt, pepper, and ground cumin.
+Did you grow up on Old El Paso ground beef taco seasonings? I'm sorry.  So did I.  They're terrible, right?  Here's something better.
 
-Brown a pound of ground beef, seasoning liberally with ground cumin, salt, pepper.  Add tabasco/other hot sauce if you like.
+## Ingredients
 
-When beef is browned, add a small jar of salsa (any kind!  i like corn/black bean tomato salsa), and simmer for 5-10 minutes.
+* sautee half-onion
+* salt
+* pepper
+* ground cumin
 
-Enjoy.  Serve with crispy taco shells for nostalgia.
+## Directions
+
+1. Brown a pound of ground beef, seasoning liberally with ground cumin, salt, pepper. Add tabasco/other hot sauce if you like.
+1. When beef is browned, add a small jar of salsa (any kind!  i like corn/black bean tomato salsa), and simmer for 5-10 minutes.
+1. Enjoy.  Serve with crispy taco shells for nostalgia.

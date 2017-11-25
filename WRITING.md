@@ -10,8 +10,8 @@ Object-Oriented Tacos
 
 File formatting
 --------------
-* Please write your recipes in [markdown](http://daringfireball.net/projects/markdown/basics)
-* Please include the title of the recipe as the first line in its file.
+* Write your recipes in [markdown](http://daringfireball.net/projects/markdown/basics)
+* Follow the template specified in the [RECIPE_TEMPLATE.md](RECIPE_TEMPLATE.md) file
 * Please name your files with underscores_in_place_of_spaces so that links remain readable and aren't%20full%20of%20bullshit.
 * Give your files the .md extension.
 

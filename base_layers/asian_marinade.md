@@ -1,7 +1,7 @@
 Asian Style Tofu or Pork Marinade
 =================================
 
-For marinade mix:
+## Ingredients
 
 * quarter cup lime juice
 * quarter cup soy sauce
@@ -11,6 +11,8 @@ For marinade mix:
 * 1 teaspoon paprika
 * Some chopped cilantro
 
-Mix with sliced tofu or pork, marinate for 30 minutes and quickly sauté.
+## Directions
+
+1. Mix with sliced tofu or pork, marinate for 30 minutes and quickly sauté.
 
 tags: vegetarian

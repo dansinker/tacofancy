@@ -1,8 +1,11 @@
 Moroccan Lamb
 =============
 
+## Description
+
 A Differently Spiced Meat Than Your Usual Taco
-----------------------------------------------
+
+## Ingredients
 
 * 500 g ground lamb
 * 20 g Ras al Hanout spice. My mix contains:
@@ -16,4 +19,6 @@ A Differently Spiced Meat Than Your Usual Taco
     * Black Pepper
 * 10 g fresh lemon zest or 10 g finely ground Black Lemon Omani (Moroccoan dried preserved lemon)
 
-Mix together and brown.
+## Directions
+
+1. Mix together and brown.

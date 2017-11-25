@@ -1,6 +1,8 @@
 Crock Pot (Fake) Al Pastor
 =====================
 
+## Description
+
 This isn't authentic al pastor (the real preparation is very similar to shawarma) but it's got the same flavors, and is super easy and crazy delicious.
 
 ## Ingredients
@@ -15,6 +17,7 @@ This isn't authentic al pastor (the real preparation is very similar to shawarma
 * Cumin to taste, about 1 teaspoon
 
 ## Directions
+
 1. Coat the shoulder generously with salt, and brown it well on all sides in a hot pan.
 2. Puree the peppers, adobo, pineapple, fish sauce, kekap manis, tomatoes, and cumin in a food processor or blender to a smooth puree. Taste and adjust seasoning.
 3. Pour half of the puree into a crock pot, and add the browned pork.

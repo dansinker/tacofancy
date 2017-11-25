@@ -59,6 +59,7 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 
 * [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt) is a repo dedicated to documenting great taco locations, inspired by Tacofancy.
 
+* [tacos.now](https://github.com/w3cj/tacos.now) by [w3cj](https://github.com/w3cj) an API created using the data from tacofancy. Hosted here: [https://tacos.now.sh/](https://tacos.now.sh/)
 
 Endnotes
 --------
